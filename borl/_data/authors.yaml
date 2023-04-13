@@ -1,0 +1,16 @@
+# /_data/authors.yml
+
+Chompy:
+  name        : "Lil Chompy"
+  bio         : "His Royal Chompness Lil’ Chompy, Biter of the Realm, Sovereign Leader of the Swamp, and 2017 All-State Alligator Wrestling Champion."
+  avatar      : "/assets/images/chompy.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:info@bsidesorlando.org"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://bsidesorlando.org"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/bsidesORL"
