@@ -1,6 +1,6 @@
 ---
 layout: default
-author_profile: false
+author_profile: true
 ---
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
@@ -20,7 +20,7 @@ author_profile: false
 
   <div class="archive">
     {% unless page.header.overlay_color or page.header.overlay_image %}
-      <h1 id="page-title" class="page__title">{{ page.title }}</h1>
+      <h1 id="page-title" class="page__title">{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}</h1>
     {% endunless %}
     {% for post in page.posts %}
       {% include archive-single.html %}

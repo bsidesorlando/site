@@ -5,7 +5,12 @@ permalink: /event/
 ---
 # Activities
 ## Sunshine Capture the Flag (CTF)
-SunshineCTF is back for its 7th year in conjunction with BSides Orlando 2022, sponsored by Research Innovations, and hosted by current and former members of Hack@UCF along with a few challenges from RII and RET2 Systems. This year’s competition will run for 48 hours starting on Saturday, November 19th, and will include categories like pwn, reverse engineering, web, crypto, scripting, and something special! SunshineCTF is an online competition that’s open to anyone, though some prizes (TBD) may only be given to the top-ranked in-person team(s) during the BSides Orlando closing ceremony. Registration is open now at https://sunshinectf.org/, and you can check out the event on CTFTime here: https://ctftime.org/event/1629. Good luck, and happy hacking!
+SunshineCTF is back for its 7th year in conjunction with BSides Orlando 2022, sponsored by Research Innovations, and hosted by current and former members of Hack@UCF along with a few challenges from RII and RET2 Systems. This year’s competition will run for 48 hours starting on Saturday, November 19th, and will include categories like pwn, reverse engineering, web, crypto, scripting, and something special! SunshineCTF is an online competition that’s open to anyone, though some prizes (TBD) may only be given to the top-ranked in-person team(s) during the BSides Orlando closing ceremony.
+
+Registration is hosted at https://sunshinectf.org/, and you can check out the event on
+[CTFTime]: https://ctftime.org/event/1629 
+
+Good luck, and happy hacking!
 
 ## Lockpick Village (LPV)
 The Lockpick Village is a physical security demonstration and participation area. Visitors can learn about the vulnerabilities of various locking devices, and techniques used to exploit them, and practice locks of various difficulty levels to try themselves. By exploring the faults and flaws in many popular lock designs, you can not only learn about the fun hobby of sportpicking, but also gain much stronger knowledge about the best methods and practices for protecting your own property.
