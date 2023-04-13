@@ -1,0 +1,19 @@
+# main links
+main:
+
+  - title: "Register"
+    url: /register/
+  - title: "Schedule"
+    url: /schedule/
+  - title: "Event"
+    url: /event/
+  - title: "Speakers"
+    url: /speakers/
+  - title: "Sponsors"
+    url: /sponsors/
+  - title: "Participate"
+    url: /participate/
+  - title: "Policies"
+    url: /policies/
+  - title: "About"
+    url: /about/
