@@ -1,5 +1,6 @@
 <div class="page__footer-follow">
   <ul class="social-icons">
+    <!--
     {% if site.data.ui-text[site.locale].follow_label %}
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
     {% endif %}
@@ -15,7 +16,23 @@
     {% unless site.atom_feed.hide %}
       <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
     {% endunless %}
+    -->
+    <a href="https://twitter.com/BsidesORL" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+      <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i><span class="label">Twitter</span>
+    </a>
+    <a href="https://www.facebook.com/BsidesORL" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+      <i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i><span class="label">Facebook</span>
+    </a>
+    <a href="https://www.linkedin.com/company/bsidesorl/" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+      <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span class="label">LinkedIn</span>
+    </a>
+    <a href="https://instagram.com/bsidesorl" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+      <i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span>
+    </a>
+    <a href="https://www.youtube.com/channel/UC6avYrvlXYAKHCBdxjj9L0w" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+      <i class="fab fa-fw fa-youtube" aria-hidden="true"></i><span class="label">YouTube</span>
+    </a>
   </ul>
 </div>
-
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<br>
+<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.description}}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>

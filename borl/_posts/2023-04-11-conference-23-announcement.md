@@ -6,8 +6,8 @@ categories: 2023
 ---
 # BSides Orlando 2023: ZZ Chompy
 
-Friday, October 7th, 2023 – Workshops
-Saturday, October 8th, 2023 – Conference
+* Friday, October 7th, 2023 – Workshops
+* Saturday, October 8th, 2023 – Conference
 
 [Schedule]: https://bsorl.org/schedule
 
@@ -24,8 +24,7 @@ Cloud bread succulents wayfarers, schlitz shaman pinterest fanny pack marxism pu
 
 ## Participate
 Attend BSides Orlando In Person
-Tickets are on sale now for the on-site
-[event]: https://bsorl.org/reg-23
+Tickets will be on sale soon.
 
 NOTE: Properly worn, safe masks are required indoors at BSides Orlando for all attendees. See COVID information for more details.
 
