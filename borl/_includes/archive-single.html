@@ -13,39 +13,23 @@
 <div class="{{ include.type | default: 'list' }}__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
 
-    <!--
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src="{{ teaser | relative_url }}" alt="">
       </div>
     {% endif %}
-    -->
 
-    <h3 class="archive__item-title no_toc" itemprop="headline">
-
-
-    <a href="{{ post.link }}">{{ post.url }}</a>
-
-        <!--
-        <a href="{{ post.url | relative_url }}" rel="permalink">
-          <i class="fas fa-link" aria-hidden="true" title="permalink">
-          </i>
-          <span class="sr-only">{{ posts.title }}-{{ post.date | date: '%Y-%m-%d'}}</span>
-        </a>
-        -->
-
-    </h3>
-
+    <h4 class="archive__item-title no_toc" itemprop="headline">
+      <a href="{{ post.url }}">{{ post.url }}</a>
+    </h4>
 
     {% include page__meta.html type=include.type %}
 
-    <!--
     {% if post.excerpt %}
     <p class="archive__item-excerpt" itemprop="description">
       {{ post.excerpt | markdownify | strip_html | truncate: 160 }}
     </p>
     {% endif %}
-    -->
 
   </article>
 </div>
