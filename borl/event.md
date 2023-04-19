@@ -3,11 +3,13 @@ layout: splash
 title: Event
 permalink: /event/
 ---
-# Activities
+# Event Activities
+We develop and renew content for each year, but we offer a core set of activities to participate in BSides Orlando.
+
 ## Sunshine Capture the Flag (CTF)
 <table style="width:100%">
     <td style="width:30%">
-      <img src="/assets/images/ctf.jpg" alt="Capture the Flag">
+      <img src="/assets/images/ctf.png" alt="Capture the Flag">
       </td>
     <td>
     SunshineCTF is back for its 8th year in conjunction with BSides Orlando 2023 and hosted by current and former members of Hack@UCF. This year’s competition will include categories like pwn, reverse engineering, web, crypto, scripting, and something special!
