@@ -13,12 +13,9 @@ author_profile: true
 
 * Saturday, November 19, 2022 – Conference
 
-[Schedule]: https://bsorl.org/schedule
-
 Hear ye, Hear ye! It is by royal chomplamation, their Royal Chompness Lil’ Chompy, Biter of the Realm, Sovereign Leader of the Swamp, and 2017 All-State Alligator Wrestling Champion  decrees, BSides Orlando shall be held on the Eighteenth and Nineteenth of November, in the year of our reptile 2022 commemorating these Unprecedented Times*
 
 Experience these Unprecedented Times like never before as security champions, mysterious visionaries, distinguished academics, generous patrons, and boisterous spectators assemble for a magnificent festival of daring quests and delightful spectacles.
-
 
 * Cheer Security Champions on to victory as they solve heart-pounding challenges!
 * Learn new techniques to protect your realm’s crown jewels!
@@ -30,19 +27,19 @@ Experience these Unprecedented Times like never before as security champions, my
 `*Which is not to be confused with the trademarked dinner show Medieval Times in which entertainers joust and sword fight while, at the same time, sweaty Orlando tourists and overly excited children on school field trips eat a quarter chicken without silverware. Lil’ Chompy loves a quarter chicken and cornbread, but Chompy’s lawyers assure him trademark infringement can be “problematic.”`
 
 ## Participate
-Attend BSides Orlando In Person
+Attend BSides Orlando In Person!
 
 NOTE: Properly worn, safe masks are required indoors at BSides Orlando for all attendees. See COVID information for more details.
 
-[COVID-19 Policy]: /policies/
+<a href="{{ site.baseurl }}/policies/">COVID-19 Policy</a>
 
 ## Attend BSides Orlando Online
 Attend the conference for free from anywhere in the world by joining the BSides Orlando Discord server.
 
-[Discord]: https://bsorl.org/discord
+<a href="{{ site.baseurl }}/discord/">Discord</a>
 
 ## Volunteer at BSides Orlando
-Come lend a hand in during planning or event days as a volunteer
+Come lend a hand in during planning or event days as a volunteer.
 
 ## Sponsor BSides Orlando
-Become a sponsor of BSides Orlando – learn about our various sponsorship opportunities
+Become a sponsor of BSides Orlando – learn about our various sponsorship opportunities.

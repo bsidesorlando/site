@@ -6,8 +6,8 @@ categories: 2023
 ---
 # BSides Orlando 2023: ZZ Chompy
 
-* Friday, October 7th, 2023 – Workshops
-* Saturday, October 8th, 2023 – Conference
+* Friday, October 6th, 2023 – Workshops
+* Saturday, October 7th, 2023 – Conference
 
 [Schedule]: https://bsorl.org/schedule
 

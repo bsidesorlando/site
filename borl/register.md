@@ -3,4 +3,5 @@ layout: splash
 title: Register
 permalink: /register/
 ---
-Tickets will be on sale soon.
+# Register for BSides Orlando 2023
+Tickets will be on sale soon!

@@ -4,6 +4,8 @@ title: Speakers
 permalink: /speakers/
 ---
 # Speakers
+Speakers for 2023 have yet to be announced, but here are our speakers from last year.
+
 
 ## Keynote – Who Deserves Cybersecurity?
 Eva Galperin
