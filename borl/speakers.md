@@ -5,7 +5,11 @@ permalink: /speakers/
 ---
 # Speakers
 Speakers for 2023 have yet to be announced, but here are our speakers from last year.
-
+<br>
+<br>
+<img src="/assets/images/speaker.png" alt="BSides Orlando Main Stage" width="730">
+<br>
+<br>
 
 ## Keynote – Who Deserves Cybersecurity?
 Eva Galperin
