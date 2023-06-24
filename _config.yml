@@ -85,10 +85,16 @@ include:
   - .htaccess
   - _pages
 exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
   - .asset-cache
   - .bundle
   - .jekyll-cache
-  - Gemfile
   - README
 
 keep_files:
