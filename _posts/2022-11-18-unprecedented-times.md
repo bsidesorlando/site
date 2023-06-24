@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Unprecedented Times"
-date:   2022-11-18
 categories: 2022
 author: Lil Chompy
 author_profile: true
