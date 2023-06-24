@@ -21,7 +21,7 @@
 
 # Build settings
 #theme: minima
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: pages-themes/minimal@v0.2.0
 minimal_mistakes_skin    : "default" #, "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -138,6 +138,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 # mimic GitHub Pages with --safe
 whitelist:
