@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-06-28T08:50:32-06:00</updated><id>http://localhost:4000/feed.xml</id><subtitle>BSides Orlando Security Conference</subtitle><entry><title type="html">2023 Call for Papers</title><link href="http://localhost:4000/2023/cfp23/" rel="alternate" type="text/html" title="2023 Call for Papers" /><published>2023-04-15T00:00:00-06:00</published><updated>2023-04-15T00:00:00-06:00</updated><id>http://localhost:4000/2023/cfp23</id><content type="html" xml:base="http://localhost:4000/2023/cfp23/">&lt;h1 id=&quot;call-for-papers--talks&quot;&gt;Call for Papers – Talks&lt;/h1&gt;
+&lt;p&gt;The BSides Orlando 2022 Call for Participants is now open!&lt;/p&gt;
+
+&lt;p&gt;SUBMIT TO THE 2022 CFP HERE!&lt;/p&gt;
+
+&lt;h2 id=&quot;cfp-process--talks&quot;&gt;CFP Process – Talks&lt;/h2&gt;
+&lt;p&gt;For the upcoming event we will be using the Call for Participants Process. Please follow that link and read more about being a live stream participant!&lt;/p&gt;
+
+&lt;p&gt;BSides Orlando is proud to have adopted an anonymous CFP review process to maximize the opportunity for new speakers and diverse voices to have their work selected by merit. Every attempt has been made to remove bias from the process while still ensuring the utmost care is taken to remove bias from selections. To achieve this BSides Orlando implemented the following process for help engaged the community and encourage people to be part of BSides Orlando to share their knowledge about information security:&lt;/p&gt;
+
+&lt;h2 id=&quot;cfp-review-board&quot;&gt;CFP Review Board&lt;/h2&gt;
+&lt;p&gt;Establish a CFP Review Board consisting of experienced professionals from diverse background representing different experience levels, educational focuses, socio-economic backgrounds, genders, ethnicities, nationalities, and sexual orientations. The goal is to ensure we have reviewers with different perspectives that will help us reduce the possibility of implicit bypass in our overall selection. These reviewers were chosen first for their knowledge and professionalism in the field of information. Their varied backgrounds and life experiences bring a wealth of additional understanding to the review of specific topics in the field of information security. You can read more about our previous CFP Review board here.&lt;/p&gt;
+
+&lt;h2 id=&quot;anonymous-review-process&quot;&gt;Anonymous Review Process&lt;/h2&gt;
+&lt;p&gt;BSides Orlando may change CFP submission tools between conference events selecting the best tool for the event at the time. However, we will always endeavor to use an Anonymous CFP Review Process and select tools that support that end.&lt;/p&gt;
+
+&lt;h2 id=&quot;our-anonymous-review-process&quot;&gt;Our Anonymous Review Process&lt;/h2&gt;
+&lt;p&gt;Team members will be selected as part of the CFP Review Team that will see the full name and any additional details about the talk abstract. These team members will not be able to vote on the talks. They are administrators of the system. The administrators may also review the talks for details in the abstract that may give away details about the submitter. Ex: If there is a field that asks for your employer in the form that would not be passed to reviewers. If the CFP submitter includes where they work in their abstract that would be scrubbed before being sent to the reviewers to maintain anonymity. Once the administrators have closed the CFP the abstracts will be scrubbed and sent on to the reviewers.&lt;/p&gt;
+
+&lt;p&gt;Our CFP review board will receive the title and abstracts scrubbed of any identifying details for the speakers and rate them according to several criteria. Detail in the abstract, similarity to other reviewed talks, popularity of the abstract topic, interest to the reviewer and the BSides Orlando audience, over all quality of the abstract, and the reviewer may give general comments.&lt;/p&gt;
+
+&lt;p&gt;This is formed into a weighted score that is used to select talks for the available talk slots.&lt;/p&gt;
+
+&lt;h2 id=&quot;board-selected-talks-7030&quot;&gt;Board Selected Talks (70/30)&lt;/h2&gt;
+
+&lt;p&gt;We do select talks on merit, but we also have a category of “Board Selected Talks”. This include Keynotes or nationally known speakers that BSides Orlando invites to speak for the benefit of the local information security community. Not everyone can get on a plane and travel to expensive conferences to hear well known and authoritative speakers on specific information security topics. The BSides Orlando Board and Staff may select up to 30% of the talks to be part of the conference. These Board Selected talks will be clearly identified in the schedule. Since we started this the split has been closer to 80/20 with 80% being selected by anonymous review. We are also dedicated to ensuring no more that 30% of talks are board selected to allow for new voices and speakers to have their work selected on merit while also bringing nationally known expert speakers to our local community to benefit the conference and Central Florida professionals looking to learn from them.&lt;/p&gt;
+
+&lt;p&gt;We are always open to feedback on this process.&lt;/p&gt;
+
+&lt;h2 id=&quot;cfp-talks--faq&quot;&gt;CFP Talks – FAQ&lt;/h2&gt;
+
+&lt;h3 id=&quot;what-are-the-cfp-dates-i-should-know-about&quot;&gt;What are the CFP Dates I should know about?&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;CFP Submissions Open: TBD&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Deadline for CFP Submissions: TBD&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Notification of Acceptance: TBD&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Conference Dates: TBD&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;where-can-i-see-talks-that-have-been-accepted-in-the-past&quot;&gt;Where can I see talks that have been accepted in the past?&lt;/h3&gt;
+
+&lt;h3 id=&quot;what-is-the-review-process&quot;&gt;What is the review process?&lt;/h3&gt;
+
+&lt;p&gt;Each submission will be reviewed by our CFP Review board. Each submission will be reviewed with the following concepts as a framework for review:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Uniqueness of Topic&lt;/li&gt;
+  &lt;li&gt;Timeliness or Necessity of the Topic&lt;/li&gt;
+  &lt;li&gt;Value to local BSides&lt;/li&gt;
+  &lt;li&gt;Value to larger Information Security Community&lt;/li&gt;
+  &lt;li&gt;Thought and detail put into the abstract&lt;/li&gt;
+  &lt;li&gt;Who makes up the CFP Review Board?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You can review the members of the past CFP Review Board here:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;//cfp-board/&quot;&gt;CFP Board&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;how-should-i-submit-my-talk&quot;&gt;How should I submit my talk?&lt;/h3&gt;
+
+&lt;p&gt;Our busyconf cfp submission is open! You can view and submit to our CFP here: https://bsidesorlando2022.busyconf.com/proposals/new&lt;/p&gt;
+
+&lt;h3 id=&quot;who-can-i-reach-out-to-if-i-have-more-questions-or-want-to-check-on-the-status-of-my-talk&quot;&gt;Who can I reach out to if I have more questions or want to check on the status of my talk?&lt;/h3&gt;
+
+&lt;p&gt;You can reach out to cfp@bsidesorlando.org if you have any questions about your submission, or about submitting in general.&lt;/p&gt;
+
+&lt;h3 id=&quot;can-i-submit-a-talk-that-has-been-presented-somewhere-else&quot;&gt;Can I submit a talk that has been presented somewhere else?&lt;/h3&gt;
+
+&lt;p&gt;Yes, but it may not be accepted if it has already been presented and recorded at another large conference. Good content may be accepted even if it has been presented before.&lt;/p&gt;
+
+&lt;h3 id=&quot;where-can-i-submit-my-proposal-to-host-a-workshop-for-bsides&quot;&gt;Where can I submit my proposal to host a workshop for BSides?&lt;/h3&gt;
+
+&lt;p&gt;For workshops, we looking for fun and new workshops to not only hold in conjunction with our conferences, but also to give throughout the year. If you have a workshop you’d like to submit, please email us at workshops@bsidesorlando.org.&lt;/p&gt;
+
+&lt;p&gt;Please include as much information as possible in your submission including any requirements for the workshop, an outline of what will be covered in the workshop, and any relevant prior training courses taught or other similar experience. Review for workshop submissions will not be blind, and will be handled separately from the CFP review.&lt;/p&gt;
+
+&lt;p&gt;Currently we are only accepting submissions for 4 hour training classes. The workshops can either be free of charge to students, or have a registration fee. Because BSides Orlando is intended to be an affordable community event, we will primarily focus on free or low cost workshops that will offer a great value to our attendees.&lt;/p&gt;
+
+&lt;h2 id=&quot;cfp-tips&quot;&gt;CFP Tips&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Read Everything on this Page&lt;/li&gt;
+  &lt;li&gt;Do not Include Vendor Pitches or Marketing&lt;/li&gt;
+  &lt;li&gt;Look Through Previous Talks&lt;/li&gt;
+  &lt;li&gt;Start and Submit Early&lt;/li&gt;
+  &lt;li&gt;Check for Grammar and Spelling&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="2023" /><category term="2023" /><summary type="html">Call for Papers – Talks The BSides Orlando 2022 Call for Participants is now open!</summary></entry><entry><title type="html">2023 Call for Sponsors</title><link href="http://localhost:4000/2023/cfs23/" rel="alternate" type="text/html" title="2023 Call for Sponsors" /><published>2023-04-15T00:00:00-06:00</published><updated>2023-04-15T00:00:00-06:00</updated><id>http://localhost:4000/2023/cfs23</id><content type="html" xml:base="http://localhost:4000/2023/cfs23/">&lt;h1 id=&quot;call-for-sponsors&quot;&gt;Call for Sponsors&lt;/h1&gt;
+&lt;p&gt;BSides Orlando relies on the support of industry organizations to produce an annual conference that is affordable to all. Financial donations allow us to invite students, veterans, and underemployed individuals to attend BSides Orlando at no cost. Thank you for considering a sponsorship donation to BSides Orlando; we could not exist without your support.&lt;/p&gt;
+
+&lt;p&gt;Download the 2023 Sponsorship Prospectus&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt; Deadline for artwork: Sep 5th, 2023&lt;/b&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2023-sponsors&quot;&gt;2023 Sponsors&lt;/h2&gt;
+
+&lt;h3 id=&quot;goals&quot;&gt;Goals&lt;/h3&gt;
+
+&lt;p&gt;BSides Orlando facilitates a laidback environment that fosters communication and collaboration between professionals, hobbyists, and students. We aim to bring the conversation to another level and inspire a passion for security, welcoming presentations from diverse and humble areas of interest.&lt;/p&gt;
+
+&lt;h3 id=&quot;target-audience&quot;&gt;Target Audience&lt;/h3&gt;
+&lt;p&gt;While each BSides event is unique, we focus on those new to the industry while enabling intermediate and advanced professionals to expand their knowledge. An eclectic blend of students, young professionals, and infosec professionals provide the opportunity for our attendees to grow.&lt;/p&gt;
+
+&lt;p&gt;A smaller and more intimate setting contributes to the unique nature of BSides Orlando, where attendees look for more than just information. They are looking to make connections and have conversations to complete their goals.&lt;/p&gt;
+
+&lt;p&gt;Our intimate event allows participants to develop connections with students, hobbyists, and industry professionals. The biggest value of BSides Orlando is recruitment from a large list of potential candidates.&lt;/p&gt;
+
+&lt;p&gt;Contact sponsor@bsidesorlando.org for more information regarding custom sponsorships to meet your organization’s specific needs.&lt;/p&gt;</content><author><name></name></author><category term="2023" /><category term="2023" /><summary type="html">Call for Sponsors BSides Orlando relies on the support of industry organizations to produce an annual conference that is affordable to all. Financial donations allow us to invite students, veterans, and underemployed individuals to attend BSides Orlando at no cost. Thank you for considering a sponsorship donation to BSides Orlando; we could not exist without your support.</summary></entry><entry><title type="html">2023 Call for Volunteers</title><link href="http://localhost:4000/2023/cfv23/" rel="alternate" type="text/html" title="2023 Call for Volunteers" /><published>2023-04-15T00:00:00-06:00</published><updated>2023-04-15T00:00:00-06:00</updated><id>http://localhost:4000/2023/cfv23</id><content type="html" xml:base="http://localhost:4000/2023/cfv23/">&lt;h1 id=&quot;call-for-volunteers&quot;&gt;Call For Volunteers&lt;/h1&gt;
+
+&lt;h2 id=&quot;new-volunteers&quot;&gt;New Volunteers&lt;/h2&gt;
+&lt;p&gt;We need your help! The 2023 Call For Volunteers is open and includes remote and onsite opportunities for the day of the event, pre-and post-event planning, and year-round positions.&lt;/p&gt;
+
+&lt;h2 id=&quot;why-volunteer-for-bsides-orlando&quot;&gt;Why Volunteer for BSides Orlando?&lt;/h2&gt;
+&lt;p&gt;BSides Orlando is a community-led volunteer-organized event by and for the community, and we truly strive to keep the information as low-cost as possible. Our costs are covered by our generous donors and sponsors, who share our vision to expand the conversation and get people involved, and we rely on Volunteers to help make the conference a success.&lt;/p&gt;
+
+&lt;h2 id=&quot;requirements&quot;&gt;Requirements&lt;/h2&gt;
+&lt;p&gt;No experience is required; we will teach you everything you need to know about the position and its responsibilities.&lt;/p&gt;
+
+&lt;p&gt;Volunteers are required to sign up for a minimum of 4 hours.&lt;/p&gt;
+
+&lt;h3 id=&quot;general-volunteers&quot;&gt;General Volunteers&lt;/h3&gt;
+&lt;p&gt;Must be at least 16 years old, with a parent on site and permission given. Exceptions can be made for younger children working with their parents. Please reach out before signing up to make arrangements.&lt;/p&gt;
+
+&lt;h3 id=&quot;safety-operations-volunteers&quot;&gt;Safety Operations Volunteers&lt;/h3&gt;
+&lt;p&gt;Must be 18 years old.&lt;/p&gt;</content><author><name></name></author><category term="2023" /><category term="2023" /><summary type="html">Call For Volunteers</summary></entry><entry><title type="html">2023 BSides Orlando Dates</title><link href="http://localhost:4000/2023/conference-23-announcement/" rel="alternate" type="text/html" title="2023 BSides Orlando Dates" /><published>2023-04-11T00:00:00-06:00</published><updated>2023-04-11T00:00:00-06:00</updated><id>http://localhost:4000/2023/conference-23-announcement</id><content type="html" xml:base="http://localhost:4000/2023/conference-23-announcement/">&lt;h1 id=&quot;bsides-orlando-2023-zz-chompy&quot;&gt;BSides Orlando 2023: ZZ Chompy&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Friday, October 6th, 2023 – Workshops&lt;/li&gt;
+  &lt;li&gt;Saturday, October 7th, 2023 – Conference&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;register-for-bsides-orlando-2023&quot;&gt;REGISTER FOR BSIDES ORLANDO 2023!&lt;/h2&gt;
+
+&lt;p&gt;Hoodie polaroid migas fixie raclette knausgaard. Cronut normcore williamsburg wolf cornhole selfies VHS kombucha thundercats mumblecore fanny pack blog. Tattooed pinterest wayfarers mlkshk dreamcatcher lyft flannel ramps keytar bodega boys food truck XOXO. Tattooed activated charcoal ethical, +1 locavore chartreuse kitsch irony messenger bag drinking vinegar enamel pin vinyl.&lt;/p&gt;
+
+&lt;p&gt;Viral praxis cold-pressed fingerstache art party big mood marfa tousled chicharrones actually activated charcoal. Lo-fi fixie tumeric humblebrag. Banjo solarpunk hella PBR&amp;amp;B, wolf single-origin coffee meditation gorpcore. Keffiyeh messenger bag neutral milk hotel single-origin coffee ramps green juice. Chicharrones Brooklyn twee cray, celiac bespoke lyft fashion axe meggings four dollar toast.&lt;/p&gt;
+
+&lt;p&gt;Schlitz distillery chartreuse waistcoat, poutine bodega boys echo park occupy williamsburg four loko XOXO hot chicken raclette PBR&amp;amp;B. Taxidermy pop-up poke coloring book enamel pin photo booth vexillologist mumblecore readymade ennui kickstarter. Etsy distillery aesthetic sriracha disrupt pork belly, put a bird on it PBR&amp;amp;B tote bag. Four loko ramps stumptown literally mustache swag irony knausgaard.&lt;/p&gt;
+
+&lt;p&gt;Cloud bread succulents wayfarers, schlitz shaman pinterest fanny pack marxism put a bird on it Brooklyn four loko four dollar toast typewriter. Pour-over celiac farm-to-table, ascot taiyaki iPhone seitan kombucha cornhole green juice af. Readymade vaporware vape occupy, bushwick austin shoreditch distillery tattooed JOMO hammock marxism fit. Raw denim single-origin coffee gorpcore fingerstache artisan squid celiac adaptogen chillwave jianbing taiyaki salvia shaman.&lt;/p&gt;
+
+&lt;h2 id=&quot;participate&quot;&gt;Participate&lt;/h2&gt;
+&lt;p&gt;Attend BSides Orlando In Person
+Tickets will be on sale soon.&lt;/p&gt;
+
+&lt;p&gt;NOTE: Properly worn, safe masks are required indoors at BSides Orlando for all attendees. See COVID information for more details.&lt;/p&gt;
+
+&lt;h2 id=&quot;attend-bsides-orlando-online&quot;&gt;Attend BSides Orlando Online&lt;/h2&gt;
+&lt;p&gt;Attend the conference for free from anywhere in the world by joining the BSides Orlando Discord server.&lt;/p&gt;
+
+&lt;h2 id=&quot;volunteer-at-bsides-orlando&quot;&gt;Volunteer at BSides Orlando&lt;/h2&gt;
+&lt;p&gt;Come lend a hand in during planning or event days as a volunteer&lt;/p&gt;
+
+&lt;h2 id=&quot;sponsor-bsides-orlando&quot;&gt;Sponsor BSides Orlando&lt;/h2&gt;
+&lt;p&gt;Become a sponsor of BSides Orlando – learn about our various sponsorship opportunities&lt;/p&gt;</content><author><name></name></author><category term="2023" /><category term="2023" /><summary type="html">BSides Orlando 2023: ZZ Chompy</summary></entry><entry><title type="html">Unprecedented Times</title><link href="http://localhost:4000/2022/unprecedented-times/" rel="alternate" type="text/html" title="Unprecedented Times" /><published>2022-11-18T00:00:00-07:00</published><updated>2022-11-18T00:00:00-07:00</updated><id>http://localhost:4000/2022/unprecedented-times</id><content type="html" xml:base="http://localhost:4000/2022/unprecedented-times/">&lt;h1 id=&quot;bsides-orlando-2022-unprecedented-times&quot;&gt;BSides Orlando 2022: Unprecedented Times&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Friday, November 18, 2022 – Workshops&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Saturday, November 19, 2022 – Conference&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Hear ye, Hear ye! It is by royal chomplamation, their Royal Chompness Lil’ Chompy, Biter of the Realm, Sovereign Leader of the Swamp, and 2017 All-State Alligator Wrestling Champion decrees, BSides Orlando shall be held on the Eighteenth and Nineteenth of November, in the year of our reptile 2022 commemorating these Unprecedented Times*&lt;/p&gt;
+
+&lt;p&gt;Experience these Unprecedented Times like never before as security champions, mysterious visionaries, distinguished academics, generous patrons, and boisterous spectators assemble for a magnificent festival of daring quests and delightful spectacles.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Cheer Security Champions on to victory as they solve heart-pounding challenges!&lt;/li&gt;
+  &lt;li&gt;Learn new techniques to protect your realm’s crown jewels!&lt;/li&gt;
+  &lt;li&gt;Give aid to other Security Champions during their extraordinary pursuits!&lt;/li&gt;
+  &lt;li&gt;Will you answer Lil’ Chompy’s call?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;register-for-bsides-orlando-unprecedented-times&quot;&gt;REGISTER FOR BSIDES ORLANDO UNPRECEDENTED TIMES!&lt;/h2&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;*Which is not to be confused with the trademarked dinner show Medieval Times in which entertainers joust and sword fight while, at the same time, sweaty Orlando tourists and overly excited children on school field trips eat a quarter chicken without silverware. Lil&apos; Chompy loves a quarter chicken and cornbread, but Chompy&apos;s lawyers assure him trademark infringement can be &quot;problematic.&quot;&lt;/code&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;participate&quot;&gt;Participate&lt;/h2&gt;
+&lt;p&gt;Attend BSides Orlando In Person!&lt;/p&gt;
+
+&lt;p&gt;NOTE: Properly worn, safe masks are required indoors at BSides Orlando for all attendees. See COVID information for more details.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;//policies/&quot;&gt;COVID-19 Policy&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;attend-bsides-orlando-online&quot;&gt;Attend BSides Orlando Online&lt;/h2&gt;
+&lt;p&gt;Attend the conference for free from anywhere in the world by joining the BSides Orlando Discord server.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;//discord/&quot;&gt;Discord&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;volunteer-at-bsides-orlando&quot;&gt;Volunteer at BSides Orlando&lt;/h2&gt;
+&lt;p&gt;Come lend a hand in during planning or event days as a volunteer.&lt;/p&gt;
+
+&lt;h2 id=&quot;sponsor-bsides-orlando&quot;&gt;Sponsor BSides Orlando&lt;/h2&gt;
+&lt;p&gt;Become a sponsor of BSides Orlando – learn about our various sponsorship opportunities.&lt;/p&gt;</content><author><name>Lil Chompy</name></author><category term="2022" /><category term="2022" /><summary type="html">BSides Orlando 2022: Unprecedented Times</summary></entry></feed>

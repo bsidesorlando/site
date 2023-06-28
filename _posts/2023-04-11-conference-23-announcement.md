@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2023 BSides Orlando Dates"
-categories: 2023
+categories: [2023]
 ---
 # BSides Orlando 2023: ZZ Chompy
 
