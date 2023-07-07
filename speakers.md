@@ -7,7 +7,7 @@ permalink: /speakers/
 Speakers for 2023 have yet to be announced, but here are our speakers from last year.
 <br>
 <br>
-<img src="/assets/images/speaker.png" alt="BSides Orlando Main Stage" width="730">
+<img src="{{ '/assets/images/speaker.png' | prepend: site.baseurl }}" alt="BSides Orlando Main Stage" width="730">
 <br>
 <br>
 

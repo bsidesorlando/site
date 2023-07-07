@@ -9,7 +9,9 @@ We develop and renew content for each year, but we offer a core set of activitie
 ## Sunshine Capture the Flag (CTF)
 <table style="width:100%">
     <td style="width:30%">
-      <img src="/assets/images/ctf.png" alt="Capture the Flag">
+    
+      <img src="{{ '/assets/images/ctf.png' | prepend: site.baseurl }}" alt="Capture the Flag">
+
       </td>
     <td>
     SunshineCTF is back for its 8th year in conjunction with BSides Orlando 2023 and hosted by current and former members of Hack@UCF. This year’s competition will include categories like pwn, reverse engineering, web, crypto, scripting, and something special!
@@ -25,7 +27,8 @@ We develop and renew content for each year, but we offer a core set of activitie
 ## Sponsor Village
 <table style="width:100%">
     <td style="width:30%">
-      <img src="/assets/images/sponsor.png" alt="Sponsor Village">
+
+      <img src="{{ '/assets/images/sponsor.png' | prepend: site.baseurl }}" alt="Sponsor Village">
       </td>
     <td>
     Check out our Sponsor Village to engage with the organizations that made this possible!
@@ -36,7 +39,8 @@ We develop and renew content for each year, but we offer a core set of activitie
 ## Lockpick Village (LPV)
 <table style="width:100%">
     <td style="width:30%">
-      <img src="/assets/images/lpv.png" alt="Lockpick Village">
+
+      <img src="{{ '/assets/images/lpv.png' | prepend: site.baseurl }}" alt="Lockpick Village">
       </td>
     <td>
       The Lockpick Village is a physical security demonstration and participation area. Visitors can learn about the vulnerabilities of various locking devices, and techniques used to exploit them, and practice locks of various difficulty levels to try themselves. By exploring the faults and flaws in many popular lock designs, you can not only learn about the fun hobby of sportpicking, but also gain much stronger knowledge about the best methods and practices for protecting your own property.
@@ -46,7 +50,8 @@ We develop and renew content for each year, but we offer a core set of activitie
 ## Demonstration Village
 <table style="width:100%">
     <td style="width:30%">
-      <img src="/assets/images/demos.png" alt="Demonstration Village">
+
+      <img src="{{ '/assets/images/demos.png' | prepend: site.baseurl }}" alt="Demonstation Village">
       </td>
     <td>
       Exhibitors and vendors can showcase their products, services, or technologies here. Attendees get a hands-on experience with the latest innovations and interact with experts. Our demo village hosts live demonstrations, interactive displays, and hands-on lab exercises.
@@ -56,7 +61,8 @@ We develop and renew content for each year, but we offer a core set of activitie
 ## Soldering Village
 <table style="width:100%">
     <td style="width:30%">
-      <img src="/assets/images/soldering.png" alt="Soldering Village">
+
+      <img src="{{ '/assets/images/soldering.png' | prepend: site.baseurl }}" alt="Soldering Village">
       </td>
     <td>
       Hone your skills and assemble your badge in our soldering village. This village is a great opportunity for beginners to get started with soldering. Never soldered before? No worries, we have staff available to assist you whether you're looking to learn a new skill or to improve your existing knowledge.
