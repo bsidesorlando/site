@@ -6,7 +6,8 @@ permalink: /participate/
 # Participate
 <table style="width:100%">
     <td style="width:30%">
-      <img src="/assets/images/attendee.png" alt="Attend BSides Orlando">
+      
+      <img src="{{ '/assets/images/attendee.png' | prepend: site.baseurl }}" alt="Attend BSides Orlando">
       </td>
     <td>
     Attend BSides Orlando In-Person!
@@ -15,13 +16,15 @@ permalink: /participate/
 
     NOTE: Properly worn, safe masks are required indoors at BSides Orlando for all attendees. See COVID information for more details.
     <a href="{{ site.baseurl }}/policies/">Policies</a>
+    
     </td>
 </table>
 
 # Attend BSides Orlando Online
 <table style="width:100%">
     <td style="width:30%">
-      <img src="/assets/images/ctf2.png" alt="Attend BSides Orlando Online">
+
+      <img src="{{ '/assets/images/ctf2.png' | prepend: site.baseurl }}" alt="Attend BSides Orlando Online">
       </td>
     <td>
     Attend the conference for free from anywhere in the world by joining the BSides Orlando Discord server.
@@ -33,12 +36,13 @@ permalink: /participate/
 # Volunteer at BSides Orlando
 <table style="width:100%">
     <td style="width:30%">
-      <img src="/assets/images/volunteer.png" alt="Volunteer!">
+
+      <img src="{{ '/assets/images/volunteer.png' | prepend: site.baseurl }}" alt="Volunteer!">
       </td>
     <td>
     Come lend a hand in during planning or event days as a volunteer
 
-    <a href="{% link _posts/2023-04-15-cfv23.md %}">Call for Volunteers</a>
+    <a href="{{ site.baseurl }}{% link _posts/2023-04-15-cfv23.md %}">Call for Volunteers</a>
 
     </td>
 </table>
@@ -46,11 +50,13 @@ permalink: /participate/
 # Sponsor BSides Orlando
 <table style="width:100%">
     <td style="width:30%">
-      <img src="/assets/images/sponsor.png" alt="Sponsor Village">
+
+      <img src="{{ '/assets/images/sponsor.png' | prepend: site.baseurl }}" alt="Sponsor Village">
       </td>
     <td>
     Become a sponsor of BSides Orlando – learn about our various sponsorship opportunities
 
-    <a href="{% link _posts/2023-04-15-cfs23.md %}">Call for Sponsors</a>
+    <a href="{{ site.baseurl }}{% link _posts/2023-04-15-cfs23.md %}">Call for Sponsors</a>
+
     </td>
 </table>

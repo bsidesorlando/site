@@ -7,7 +7,8 @@ permalink: /about/
 
 <table style="width:100%">
     <td style="width:30%">
-      <img src="/assets/images/stage.png" alt="BSides Orlando Stage 2019">
+
+      <img src="{{ '/assets/images/stage.png' | prepend: site.baseurl }}" alt="BSides Orlando Stage 2019">
       </td>
     <td>
     BSides Orlando is a community organized event, driven by the passion to connect people together, whether it’s to build relationships for a project, or to get to know your fellow professionals.
@@ -19,7 +20,8 @@ permalink: /about/
 # Goal
 <table style="width:100%">
     <td style="width:30%">
-      <img src="/assets/images/goal.png" alt="BSides Orlando presentation 2019">
+
+      <img src="{{ '/assets/images/goal.png' | prepend: site.baseurl }}" alt="BSides Orlando presentation 2019">
       </td>
     <td>
     We aim to inspire a passion for security. Major conferences often focus on current hot button topics, while BSides Orlando and similar BSides events often cover topics that don’t get the big spotlight, but should be discussed. This includes anything from learning how to prototype electronics projects to discussing the ethics of target rich environments in a pentest.
@@ -30,7 +32,7 @@ permalink: /about/
 
 Now in our 10th year, BSides Orlando has grown from modest beginnings and seeks to stay true to our roots.
 
-<img src="/assets/images/bsidesorl-timeline.svg" alt="BSides Orlando Timeline"  width="500">
+<img src="{{ '/assets/images/bsidesorl-timeline.svg' | prepend: site.baseurl }}" alt="BSides Orlando Timeline" width="500">
 
 * 2009 – Security BSides Framework Launched in United States
 
@@ -60,7 +62,8 @@ Now in our 10th year, BSides Orlando has grown from modest beginnings and seeks 
 
 <table style="width:100%">
     <td style="width:30%">
-      <img src="/assets/images/class.png" alt="Training at BSides Orlando">
+
+      <img src="{{ '/assets/images/class.png' | prepend: site.baseurl }}" alt="Training at BSides Orlando">
       </td>
     <td>
     Each BSides is a community-driven framework for building events for and by information security community members.  
