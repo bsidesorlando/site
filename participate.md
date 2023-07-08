@@ -15,7 +15,8 @@ permalink: /participate/
     Tickets will be on sale soon.
 
     NOTE: Properly worn, safe masks are required indoors at BSides Orlando for all attendees. See COVID information for more details.
-    <a href="{{ site.baseurl }}/policies/">Policies</a>
+    
+    <p><a href="{{ site.baseurl }}/policies/">Policies</a></p>
     
     </td>
 </table>
@@ -29,7 +30,7 @@ permalink: /participate/
     <td>
     Attend the conference for free from anywhere in the world by joining the BSides Orlando Discord server.
 
-    <a href="{{ site.baseurl }}/discord/">Join our Discord server!</a>
+    <p><a href="{{ site.baseurl }}/discord/">Join our Discord server!</a></p>
     </td>
 </table>
 
@@ -42,8 +43,9 @@ permalink: /participate/
     <td>
     Come lend a hand in during planning or event days as a volunteer
 
+    <p>
     <a href="{{ site.baseurl }}{% link _posts/2023-04-15-cfv23.md %}">Call for Volunteers</a>
-
+    </p>
     </td>
 </table>
 
@@ -54,9 +56,10 @@ permalink: /participate/
       <img src="{{ '/assets/images/sponsor.png' | prepend: site.baseurl }}" alt="Sponsor Village">
       </td>
     <td>
-    Become a sponsor of BSides Orlando – learn about our various sponsorship opportunities
+    Become a sponsor of BSides Orlando – learn about our various sponsorship opportunities!
 
+    <p>
     <a href="{{ site.baseurl }}{% link _posts/2023-04-15-cfs23.md %}">Call for Sponsors</a>
-
+    </p>
     </td>
 </table>
