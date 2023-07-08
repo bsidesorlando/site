@@ -12,7 +12,7 @@ var store = [{
         "teaser": null
       },{
         "title": "2023 Call for Papers",
-        "excerpt":"Call for Papers – Talks The BSides Orlando 2022 Call for Participants is now open! SUBMIT TO THE 2022 CFP HERE! CFP Process – Talks For the upcoming event we will be using the Call for Participants Process. Please follow that link and read more about being a live stream...","categories": [2023,"2023"],
+        "excerpt":"Call for Papers – Talks The BSides Orlando 2023 Call for Participation is now open! SUBMIT TO THE 2023 CFP HERE! CFP Process – Talks For the upcoming event we will be using the Call for Participants Process. Please follow that link and read more about being a live stream...","categories": [2023,"2023"],
         "tags": [],
         "url": "/site/2023/cfp23/",
         "teaser": null

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/site/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/site/" rel="alternate" type="text/html" /><updated>2023-07-07T12:25:07-06:00</updated><id>http://localhost:4000/site/feed.xml</id><subtitle>BSides Orlando Security Conference</subtitle><entry><title type="html">2023 Call for Papers</title><link href="http://localhost:4000/site/2023/cfp23/" rel="alternate" type="text/html" title="2023 Call for Papers" /><published>2023-04-15T00:00:00-06:00</published><updated>2023-04-15T00:00:00-06:00</updated><id>http://localhost:4000/site/2023/cfp23</id><content type="html" xml:base="http://localhost:4000/site/2023/cfp23/">&lt;h1 id=&quot;call-for-papers--talks&quot;&gt;Call for Papers – Talks&lt;/h1&gt;
-&lt;p&gt;The BSides Orlando 2022 Call for Participants is now open!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/site/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/site/" rel="alternate" type="text/html" /><updated>2023-07-08T12:56:31-06:00</updated><id>http://localhost:4000/site/feed.xml</id><subtitle>BSides Orlando Security Conference</subtitle><entry><title type="html">2023 Call for Papers</title><link href="http://localhost:4000/site/2023/cfp23/" rel="alternate" type="text/html" title="2023 Call for Papers" /><published>2023-04-15T00:00:00-06:00</published><updated>2023-04-15T00:00:00-06:00</updated><id>http://localhost:4000/site/2023/cfp23</id><content type="html" xml:base="http://localhost:4000/site/2023/cfp23/">&lt;h1 id=&quot;call-for-papers--talks&quot;&gt;Call for Papers – Talks&lt;/h1&gt;
+&lt;p&gt;The BSides Orlando 2023 Call for Participation is now open!&lt;/p&gt;
 
-&lt;p&gt;SUBMIT TO THE 2022 CFP HERE!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://sessionize.com/bsorl2023/&quot;&gt;SUBMIT TO THE 2023 CFP HERE!&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;cfp-process--talks&quot;&gt;CFP Process – Talks&lt;/h2&gt;
 &lt;p&gt;For the upcoming event we will be using the Call for Participants Process. Please follow that link and read more about being a live stream participant!&lt;/p&gt;
@@ -33,16 +33,19 @@
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;CFP Submissions Open: TBD&lt;/p&gt;
+    &lt;p&gt;CFP Submissions Open: 12 Jun 2023&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Deadline for CFP Submissions: TBD&lt;/p&gt;
+    &lt;p&gt;Deadline for CFP Submissions: 20 Aug 2023 at 11:59 PM ET&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Notification of Acceptance: TBD&lt;/p&gt;
+    &lt;p&gt;Notification of Acceptance: Round 1: Aug 4th; Round 2: Sep 6th&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Conference Dates: TBD&lt;/p&gt;
+    &lt;p&gt;Training Date: October 6th, 2023&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Conference Date: October 7th, 2023&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
@@ -61,13 +64,13 @@
   &lt;li&gt;Who makes up the CFP Review Board?&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;You can review the members of the past CFP Review Board here:&lt;/p&gt;
-
 &lt;p&gt;&lt;a href=&quot;/site/cfp-board/&quot;&gt;CFP Board&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;how-should-i-submit-my-talk&quot;&gt;How should I submit my talk?&lt;/h3&gt;
 
-&lt;p&gt;Our busyconf cfp submission is open! You can view and submit to our CFP here: https://bsidesorlando2022.busyconf.com/proposals/new&lt;/p&gt;
+&lt;p&gt;Our Sessionize CFP submission is open!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://sessionize.com/bsorl2023/&quot;&gt;SUBMIT TO THE 2023 CFP HERE!&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;who-can-i-reach-out-to-if-i-have-more-questions-or-want-to-check-on-the-status-of-my-talk&quot;&gt;Who can I reach out to if I have more questions or want to check on the status of my talk?&lt;/h3&gt;
 
@@ -92,12 +95,12 @@
   &lt;li&gt;Look Through Previous Talks&lt;/li&gt;
   &lt;li&gt;Start and Submit Early&lt;/li&gt;
   &lt;li&gt;Check for Grammar and Spelling&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="2023" /><category term="2023" /><summary type="html">Call for Papers – Talks The BSides Orlando 2022 Call for Participants is now open!</summary></entry><entry><title type="html">2023 Call for Sponsors</title><link href="http://localhost:4000/site/2023/cfs23/" rel="alternate" type="text/html" title="2023 Call for Sponsors" /><published>2023-04-15T00:00:00-06:00</published><updated>2023-04-15T00:00:00-06:00</updated><id>http://localhost:4000/site/2023/cfs23</id><content type="html" xml:base="http://localhost:4000/site/2023/cfs23/">&lt;h1 id=&quot;call-for-sponsors&quot;&gt;Call for Sponsors&lt;/h1&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="2023" /><category term="2023" /><summary type="html">Call for Papers – Talks The BSides Orlando 2023 Call for Participation is now open!</summary></entry><entry><title type="html">2023 Call for Sponsors</title><link href="http://localhost:4000/site/2023/cfs23/" rel="alternate" type="text/html" title="2023 Call for Sponsors" /><published>2023-04-15T00:00:00-06:00</published><updated>2023-04-15T00:00:00-06:00</updated><id>http://localhost:4000/site/2023/cfs23</id><content type="html" xml:base="http://localhost:4000/site/2023/cfs23/">&lt;h1 id=&quot;call-for-sponsors&quot;&gt;Call for Sponsors&lt;/h1&gt;
 &lt;p&gt;BSides Orlando relies on the support of industry organizations to produce an annual conference that is affordable to all. Financial donations allow us to invite students, veterans, and underemployed individuals to attend BSides Orlando at no cost. Thank you for considering a sponsorship donation to BSides Orlando; we could not exist without your support.&lt;/p&gt;
 
-&lt;p&gt;Download the 2023 Sponsorship Prospectus&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/site/assets/files/20230619_Sponsorship_Guide.pdf&quot;&gt;Download the 2023 Sponsorship Prospectus&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt; Deadline for artwork: Sep 5th, 2023&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Deadline for artwork: Sep 6th, 2023&lt;/b&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;2023-sponsors&quot;&gt;2023 Sponsors&lt;/h2&gt;
 
