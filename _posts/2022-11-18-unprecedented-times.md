@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Unprecedented Times"
 #date:   2022-11-18 14:07:19 +0530
 categories: [2022]

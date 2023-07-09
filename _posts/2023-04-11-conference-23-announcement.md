@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "2023 BSides Orlando Dates"
 categories: [2023]
 ---

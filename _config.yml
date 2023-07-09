@@ -32,7 +32,7 @@ subtitle                 : " " # site tagline that appears below site title in m
 name                     :
 description              : "BSides Orlando Security Conference"
 url                      : "https://bsidesorlando.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/site" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bsidesorlando/site" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo-b.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -192,16 +192,3 @@ compress_html:
     envs: development
 
 
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
