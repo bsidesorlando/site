@@ -165,9 +165,19 @@
     <br>
 
     <section class="page__content" itemprop="text">
-      <h1 id="register-for-bsides-orlando-2023">Register for BSides Orlando 2023</h1>
+      <h1 id="register-for-bsides-orlando-2023">Register for BSides Orlando 2023!</h1>
 
-<p><a href="https://www.eventbrite.com/e/bsides-orlando-2023-security-conference-tickets-672718819097">Tickets are now on sale! </a></p>
+<p><a href="https://www.eventbrite.com/e/bsides-orlando-2023-security-conference-tickets-672718819097">
+    <img src="/assets/images/buy-tickets.png" alt="Button Image" onclick="depressButton()" id="buttonImage" />
+</a></p>
+
+<script>
+    function depressButton() {
+        var buttonImage = document.getElementById("buttonImage");
+        buttonImage.src = "/assets/images/buy-tickets-in.png";
+        
+    }
+</script>
 
 
     </section>
