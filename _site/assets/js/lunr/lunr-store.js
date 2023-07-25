@@ -24,7 +24,7 @@ var store = [{
         "teaser": null
       },{
         "title": "2023 Call for Volunteers",
-        "excerpt":"Call For Volunteers New Volunteers We need your help! The 2023 Call For Volunteers is open and includes remote and onsite opportunities for the day of the event, pre-and post-event planning, and year-round positions. Why Volunteer for BSides Orlando? BSides Orlando is a community-led volunteer-organized event by and for the...","categories": [2023,"2023"],
+        "excerpt":"Call For Volunteers New Volunteers We need your help! The 2023 Call For Volunteers is open and includes remote and onsite opportunities for the day of the event, pre-and post-event planning, and year-round positions. Interested? Fill out our volunteer form. Why Volunteer for BSides Orlando? BSides Orlando is a community-led...","categories": [2023,"2023"],
         "tags": [],
         "url": "/cfv23/",
         "teaser": null
