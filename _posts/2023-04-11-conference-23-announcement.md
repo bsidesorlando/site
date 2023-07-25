@@ -3,39 +3,33 @@ layout: posts
 title:  "2023 BSides Orlando Dates"
 categories: [2023]
 ---
-# BSides Orlando 2023: ZZ Chompy
+# BSides Orlando 2023: Rise of the Robots
 
 * Friday, October 6th, 2023 – Workshops
 * Saturday, October 7th, 2023 – Conference
 
-[Schedule]: https://bsorl.org/schedule
-
-
 ## REGISTER FOR BSIDES ORLANDO 2023!
+Mecha Chompy has programmed us to announce this year's BSides Orlando security conference, themed "Rise of the Robots," but it wouldn't be the same without you!
 
-Hoodie polaroid migas fixie raclette knausgaard. Cronut normcore williamsburg wolf cornhole selfies VHS kombucha thundercats mumblecore fanny pack blog. Tattooed pinterest wayfarers mlkshk dreamcatcher lyft flannel ramps keytar bodega boys food truck XOXO. Tattooed activated charcoal ethical, +1 locavore chartreuse kitsch irony messenger bag drinking vinegar enamel pin vinyl.
+We fed the conference parameters to an algorithm that promises this will be the best one yet, with a range of interesting topics and activities.
 
-Viral praxis cold-pressed fingerstache art party big mood marfa tousled chicharrones actually activated charcoal. Lo-fi fixie tumeric humblebrag. Banjo solarpunk hella PBR&B, wolf single-origin coffee meditation gorpcore. Keffiyeh messenger bag neutral milk hotel single-origin coffee ramps green juice. Chicharrones Brooklyn twee cray, celiac bespoke lyft fashion axe meggings four dollar toast.
+We take pride in bringing together tinkerers, enthusiasts, and experts from around the world to share insights and knowledge on the latest developments in security. You can expect to hear from industry leaders, participate in engaging panel discussions, and attend interactive workshops. In addition, there will be networking opportunities to connect with like-minded individuals in the security community.
 
-Schlitz distillery chartreuse waistcoat, poutine bodega boys echo park occupy williamsburg four loko XOXO hot chicken raclette PBR&B. Taxidermy pop-up poke coloring book enamel pin photo booth vexillologist mumblecore readymade ennui kickstarter. Etsy distillery aesthetic sriracha disrupt pork belly, put a bird on it PBR&B tote bag. Four loko ramps stumptown literally mustache swag irony knausgaard.
-
-Cloud bread succulents wayfarers, schlitz shaman pinterest fanny pack marxism put a bird on it Brooklyn four loko four dollar toast typewriter. Pour-over celiac farm-to-table, ascot taiyaki iPhone seitan kombucha cornhole green juice af. Readymade vaporware vape occupy, bushwick austin shoreditch distillery tattooed JOMO hammock marxism fit. Raw denim single-origin coffee gorpcore fingerstache artisan squid celiac adaptogen chillwave jianbing taiyaki salvia shaman.
+Thank you for your continued support, and we look forward to scanning you at this year's "Rise of the Robots" BSides Orlando security conference.
 
 ## Participate
-Attend BSides Orlando In Person
-Tickets will be on sale soon.
+<a href="{{ site.baseurl }}/register/">Attend BSides Orlando in person</a>
 
-NOTE: Properly worn, safe masks are required indoors at BSides Orlando for all attendees. See COVID information for more details.
-
-[COVID-19 Policy]: https://bsorl.org/covid
+NOTE: Properly worn, safe masks are strongly recommended indoors at BSides Orlando for all attendees. See our <a href="{{ site.baseurl }}/policies/">COVID-19 Policy</a> for more details.
 
 ## Attend BSides Orlando Online
-Attend the conference for free from anywhere in the world by joining the BSides Orlando Discord server.
-
-[Discord]: https://bsorl.org/discord
+Attend the conference for free from anywhere in the world by joining the BSides Orlando <a href="{{ site.baseurl }}/discord/">Discord</a> server.
 
 ## Volunteer at BSides Orlando
-Come lend a hand in during planning or event days as a volunteer
+Come lend a hand in during planning or event days as a <a href="{{ site.baseurl }}/cfv23/">volunteer</a>.
 
 ## Sponsor BSides Orlando
-Become a sponsor of BSides Orlando – learn about our various sponsorship opportunities
+Interested in becoming a sponsor? 
+<a href="{{ site.baseurl }}{% link /assets/files/20230619_Sponsorship_Guide.pdf %}">Download our Sponsorship Prospectus</a> or contact sponsors@bsidesorlando.org.
+
+
