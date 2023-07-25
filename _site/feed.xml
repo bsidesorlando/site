@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/site/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/site/" rel="alternate" type="text/html" /><updated>2023-07-08T12:56:31-06:00</updated><id>http://localhost:4000/site/feed.xml</id><subtitle>BSides Orlando Security Conference</subtitle><entry><title type="html">2023 Call for Papers</title><link href="http://localhost:4000/site/2023/cfp23/" rel="alternate" type="text/html" title="2023 Call for Papers" /><published>2023-04-15T00:00:00-06:00</published><updated>2023-04-15T00:00:00-06:00</updated><id>http://localhost:4000/site/2023/cfp23</id><content type="html" xml:base="http://localhost:4000/site/2023/cfp23/">&lt;h1 id=&quot;call-for-papers--talks&quot;&gt;Call for Papers – Talks&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-07-24T20:48:53-06:00</updated><id>http://localhost:4000/feed.xml</id><subtitle>BSides Orlando Security Conference</subtitle><entry><title type="html">2023 Call for Papers</title><link href="http://localhost:4000/cfp23/" rel="alternate" type="text/html" title="2023 Call for Papers" /><published>2023-04-15T00:00:00-06:00</published><updated>2023-04-15T00:00:00-06:00</updated><id>http://localhost:4000/cfp23</id><content type="html" xml:base="http://localhost:4000/cfp23/">&lt;h1 id=&quot;call-for-papers--talks&quot;&gt;Call for Papers – Talks&lt;/h1&gt;
 &lt;p&gt;The BSides Orlando 2023 Call for Participation is now open!&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://sessionize.com/bsorl2023/&quot;&gt;SUBMIT TO THE 2023 CFP HERE!&lt;/a&gt;&lt;/p&gt;
@@ -64,7 +64,7 @@
   &lt;li&gt;Who makes up the CFP Review Board?&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href=&quot;/site/cfp-board/&quot;&gt;CFP Board&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/cfp-board/&quot;&gt;CFP Board&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;how-should-i-submit-my-talk&quot;&gt;How should I submit my talk?&lt;/h3&gt;
 
@@ -95,10 +95,10 @@
   &lt;li&gt;Look Through Previous Talks&lt;/li&gt;
   &lt;li&gt;Start and Submit Early&lt;/li&gt;
   &lt;li&gt;Check for Grammar and Spelling&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="2023" /><category term="2023" /><summary type="html">Call for Papers – Talks The BSides Orlando 2023 Call for Participation is now open!</summary></entry><entry><title type="html">2023 Call for Sponsors</title><link href="http://localhost:4000/site/2023/cfs23/" rel="alternate" type="text/html" title="2023 Call for Sponsors" /><published>2023-04-15T00:00:00-06:00</published><updated>2023-04-15T00:00:00-06:00</updated><id>http://localhost:4000/site/2023/cfs23</id><content type="html" xml:base="http://localhost:4000/site/2023/cfs23/">&lt;h1 id=&quot;call-for-sponsors&quot;&gt;Call for Sponsors&lt;/h1&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="2023" /><category term="2023" /><summary type="html">Call for Papers – Talks The BSides Orlando 2023 Call for Participation is now open!</summary></entry><entry><title type="html">2023 Call for Sponsors</title><link href="http://localhost:4000/cfs23/" rel="alternate" type="text/html" title="2023 Call for Sponsors" /><published>2023-04-15T00:00:00-06:00</published><updated>2023-04-15T00:00:00-06:00</updated><id>http://localhost:4000/cfs23</id><content type="html" xml:base="http://localhost:4000/cfs23/">&lt;h1 id=&quot;call-for-sponsors&quot;&gt;Call for Sponsors&lt;/h1&gt;
 &lt;p&gt;BSides Orlando relies on the support of industry organizations to produce an annual conference that is affordable to all. Financial donations allow us to invite students, veterans, and underemployed individuals to attend BSides Orlando at no cost. Thank you for considering a sponsorship donation to BSides Orlando; we could not exist without your support.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/site/assets/files/20230619_Sponsorship_Guide.pdf&quot;&gt;Download the 2023 Sponsorship Prospectus&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/files/20230619_Sponsorship_Guide.pdf&quot;&gt;Download the 2023 Sponsorship Prospectus&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt; Deadline for artwork: Sep 6th, 2023&lt;/b&gt;&lt;/p&gt;
 
@@ -115,7 +115,7 @@
 
 &lt;p&gt;Our intimate event allows participants to develop connections with students, hobbyists, and industry professionals. The biggest value of BSides Orlando is recruitment from a large list of potential candidates.&lt;/p&gt;
 
-&lt;p&gt;Contact sponsor@bsidesorlando.org for more information regarding custom sponsorships to meet your organization’s specific needs.&lt;/p&gt;</content><author><name></name></author><category term="2023" /><category term="2023" /><summary type="html">Call for Sponsors BSides Orlando relies on the support of industry organizations to produce an annual conference that is affordable to all. Financial donations allow us to invite students, veterans, and underemployed individuals to attend BSides Orlando at no cost. Thank you for considering a sponsorship donation to BSides Orlando; we could not exist without your support.</summary></entry><entry><title type="html">2023 Call for Volunteers</title><link href="http://localhost:4000/site/2023/cfv23/" rel="alternate" type="text/html" title="2023 Call for Volunteers" /><published>2023-04-15T00:00:00-06:00</published><updated>2023-04-15T00:00:00-06:00</updated><id>http://localhost:4000/site/2023/cfv23</id><content type="html" xml:base="http://localhost:4000/site/2023/cfv23/">&lt;h1 id=&quot;call-for-volunteers&quot;&gt;Call For Volunteers&lt;/h1&gt;
+&lt;p&gt;Contact sponsor@bsidesorlando.org for more information regarding custom sponsorships to meet your organization’s specific needs.&lt;/p&gt;</content><author><name></name></author><category term="2023" /><category term="2023" /><summary type="html">Call for Sponsors BSides Orlando relies on the support of industry organizations to produce an annual conference that is affordable to all. Financial donations allow us to invite students, veterans, and underemployed individuals to attend BSides Orlando at no cost. Thank you for considering a sponsorship donation to BSides Orlando; we could not exist without your support.</summary></entry><entry><title type="html">2023 Call for Volunteers</title><link href="http://localhost:4000/cfv23/" rel="alternate" type="text/html" title="2023 Call for Volunteers" /><published>2023-04-15T00:00:00-06:00</published><updated>2023-04-15T00:00:00-06:00</updated><id>http://localhost:4000/cfv23</id><content type="html" xml:base="http://localhost:4000/cfv23/">&lt;h1 id=&quot;call-for-volunteers&quot;&gt;Call For Volunteers&lt;/h1&gt;
 
 &lt;h2 id=&quot;new-volunteers&quot;&gt;New Volunteers&lt;/h2&gt;
 &lt;p&gt;We need your help! The 2023 Call For Volunteers is open and includes remote and onsite opportunities for the day of the event, pre-and post-event planning, and year-round positions.&lt;/p&gt;
@@ -132,7 +132,7 @@
 &lt;p&gt;Must be at least 16 years old, with a parent on site and permission given. Exceptions can be made for younger children working with their parents. Please reach out before signing up to make arrangements.&lt;/p&gt;
 
 &lt;h3 id=&quot;safety-operations-volunteers&quot;&gt;Safety Operations Volunteers&lt;/h3&gt;
-&lt;p&gt;Must be 18 years old.&lt;/p&gt;</content><author><name></name></author><category term="2023" /><category term="2023" /><summary type="html">Call For Volunteers</summary></entry><entry><title type="html">2023 BSides Orlando Dates</title><link href="http://localhost:4000/site/2023/conference-23-announcement/" rel="alternate" type="text/html" title="2023 BSides Orlando Dates" /><published>2023-04-11T00:00:00-06:00</published><updated>2023-04-11T00:00:00-06:00</updated><id>http://localhost:4000/site/2023/conference-23-announcement</id><content type="html" xml:base="http://localhost:4000/site/2023/conference-23-announcement/">&lt;h1 id=&quot;bsides-orlando-2023-zz-chompy&quot;&gt;BSides Orlando 2023: ZZ Chompy&lt;/h1&gt;
+&lt;p&gt;Must be 18 years old.&lt;/p&gt;</content><author><name></name></author><category term="2023" /><category term="2023" /><summary type="html">Call For Volunteers</summary></entry><entry><title type="html">2023 BSides Orlando Dates</title><link href="http://localhost:4000/conference-23-announcement/" rel="alternate" type="text/html" title="2023 BSides Orlando Dates" /><published>2023-04-11T00:00:00-06:00</published><updated>2023-04-11T00:00:00-06:00</updated><id>http://localhost:4000/conference-23-announcement</id><content type="html" xml:base="http://localhost:4000/conference-23-announcement/">&lt;h1 id=&quot;bsides-orlando-2023-rise-of-the-robots&quot;&gt;BSides Orlando 2023: Rise of the Robots&lt;/h1&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Friday, October 6th, 2023 – Workshops&lt;/li&gt;
@@ -140,29 +140,28 @@
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;register-for-bsides-orlando-2023&quot;&gt;REGISTER FOR BSIDES ORLANDO 2023!&lt;/h2&gt;
+&lt;p&gt;Mecha Chompy has programmed us to announce this year’s BSides Orlando security conference, themed “Rise of the Robots,” but it wouldn’t be the same without you!&lt;/p&gt;
 
-&lt;p&gt;Hoodie polaroid migas fixie raclette knausgaard. Cronut normcore williamsburg wolf cornhole selfies VHS kombucha thundercats mumblecore fanny pack blog. Tattooed pinterest wayfarers mlkshk dreamcatcher lyft flannel ramps keytar bodega boys food truck XOXO. Tattooed activated charcoal ethical, +1 locavore chartreuse kitsch irony messenger bag drinking vinegar enamel pin vinyl.&lt;/p&gt;
+&lt;p&gt;We fed the conference parameters to an algorithm that promises this will be the best one yet, with a range of interesting topics and activities.&lt;/p&gt;
 
-&lt;p&gt;Viral praxis cold-pressed fingerstache art party big mood marfa tousled chicharrones actually activated charcoal. Lo-fi fixie tumeric humblebrag. Banjo solarpunk hella PBR&amp;amp;B, wolf single-origin coffee meditation gorpcore. Keffiyeh messenger bag neutral milk hotel single-origin coffee ramps green juice. Chicharrones Brooklyn twee cray, celiac bespoke lyft fashion axe meggings four dollar toast.&lt;/p&gt;
+&lt;p&gt;We take pride in bringing together tinkerers, enthusiasts, and experts from around the world to share insights and knowledge on the latest developments in security. You can expect to hear from industry leaders, participate in engaging panel discussions, and attend interactive workshops. In addition, there will be networking opportunities to connect with like-minded individuals in the security community.&lt;/p&gt;
 
-&lt;p&gt;Schlitz distillery chartreuse waistcoat, poutine bodega boys echo park occupy williamsburg four loko XOXO hot chicken raclette PBR&amp;amp;B. Taxidermy pop-up poke coloring book enamel pin photo booth vexillologist mumblecore readymade ennui kickstarter. Etsy distillery aesthetic sriracha disrupt pork belly, put a bird on it PBR&amp;amp;B tote bag. Four loko ramps stumptown literally mustache swag irony knausgaard.&lt;/p&gt;
-
-&lt;p&gt;Cloud bread succulents wayfarers, schlitz shaman pinterest fanny pack marxism put a bird on it Brooklyn four loko four dollar toast typewriter. Pour-over celiac farm-to-table, ascot taiyaki iPhone seitan kombucha cornhole green juice af. Readymade vaporware vape occupy, bushwick austin shoreditch distillery tattooed JOMO hammock marxism fit. Raw denim single-origin coffee gorpcore fingerstache artisan squid celiac adaptogen chillwave jianbing taiyaki salvia shaman.&lt;/p&gt;
+&lt;p&gt;Thank you for your continued support, and we look forward to scanning you at this year’s “Rise of the Robots” BSides Orlando security conference.&lt;/p&gt;
 
 &lt;h2 id=&quot;participate&quot;&gt;Participate&lt;/h2&gt;
-&lt;p&gt;Attend BSides Orlando In Person
-Tickets will be on sale soon.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/register/&quot;&gt;Attend BSides Orlando in person&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;NOTE: Properly worn, safe masks are required indoors at BSides Orlando for all attendees. See COVID information for more details.&lt;/p&gt;
+&lt;p&gt;NOTE: Properly worn, safe masks are strongly recommended indoors at BSides Orlando for all attendees. See our &lt;a href=&quot;/policies/&quot;&gt;COVID-19 Policy&lt;/a&gt; for more details.&lt;/p&gt;
 
 &lt;h2 id=&quot;attend-bsides-orlando-online&quot;&gt;Attend BSides Orlando Online&lt;/h2&gt;
-&lt;p&gt;Attend the conference for free from anywhere in the world by joining the BSides Orlando Discord server.&lt;/p&gt;
+&lt;p&gt;Attend the conference for free from anywhere in the world by joining the BSides Orlando &lt;a href=&quot;/discord/&quot;&gt;Discord&lt;/a&gt; server.&lt;/p&gt;
 
 &lt;h2 id=&quot;volunteer-at-bsides-orlando&quot;&gt;Volunteer at BSides Orlando&lt;/h2&gt;
-&lt;p&gt;Come lend a hand in during planning or event days as a volunteer&lt;/p&gt;
+&lt;p&gt;Come lend a hand in during planning or event days as a &lt;a href=&quot;/cfv23/&quot;&gt;volunteer&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;sponsor-bsides-orlando&quot;&gt;Sponsor BSides Orlando&lt;/h2&gt;
-&lt;p&gt;Become a sponsor of BSides Orlando – learn about our various sponsorship opportunities&lt;/p&gt;</content><author><name></name></author><category term="2023" /><category term="2023" /><summary type="html">BSides Orlando 2023: ZZ Chompy</summary></entry><entry><title type="html">Unprecedented Times</title><link href="http://localhost:4000/site/2022/unprecedented-times/" rel="alternate" type="text/html" title="Unprecedented Times" /><published>2022-11-18T00:00:00-07:00</published><updated>2022-11-18T00:00:00-07:00</updated><id>http://localhost:4000/site/2022/unprecedented-times</id><content type="html" xml:base="http://localhost:4000/site/2022/unprecedented-times/">&lt;h1 id=&quot;bsides-orlando-2022-unprecedented-times&quot;&gt;BSides Orlando 2022: Unprecedented Times&lt;/h1&gt;
+&lt;p&gt;Interested in becoming a sponsor? 
+&lt;a href=&quot;/assets/files/20230619_Sponsorship_Guide.pdf&quot;&gt;Download our Sponsorship Prospectus&lt;/a&gt; or contact sponsors@bsidesorlando.org.&lt;/p&gt;</content><author><name></name></author><category term="2023" /><category term="2023" /><summary type="html">BSides Orlando 2023: Rise of the Robots</summary></entry><entry><title type="html">Unprecedented Times</title><link href="http://localhost:4000/unprecedented-times/" rel="alternate" type="text/html" title="Unprecedented Times" /><published>2022-11-18T00:00:00-07:00</published><updated>2022-11-18T00:00:00-07:00</updated><id>http://localhost:4000/unprecedented-times</id><content type="html" xml:base="http://localhost:4000/unprecedented-times/">&lt;h1 id=&quot;bsides-orlando-2022-unprecedented-times&quot;&gt;BSides Orlando 2022: Unprecedented Times&lt;/h1&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -193,12 +192,12 @@ Tickets will be on sale soon.&lt;/p&gt;
 
 &lt;p&gt;NOTE: Properly worn, safe masks are required indoors at BSides Orlando for all attendees. See COVID information for more details.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/site/policies/&quot;&gt;COVID-19 Policy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/policies/&quot;&gt;COVID-19 Policy&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;attend-bsides-orlando-online&quot;&gt;Attend BSides Orlando Online&lt;/h2&gt;
 &lt;p&gt;Attend the conference for free from anywhere in the world by joining the BSides Orlando Discord server.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/site/discord/&quot;&gt;Discord&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/discord/&quot;&gt;Discord&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;volunteer-at-bsides-orlando&quot;&gt;Volunteer at BSides Orlando&lt;/h2&gt;
 &lt;p&gt;Come lend a hand in during planning or event days as a volunteer.&lt;/p&gt;
