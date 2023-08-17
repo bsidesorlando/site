@@ -14,7 +14,7 @@ permalink: /participate/
 
     Tickets will be on sale soon.
 
-    NOTE: Properly worn, safe masks are required indoors at BSides Orlando for all attendees. See COVID information for more details.
+    NOTE: Properly worn, safe masks are encouraged indoors at BSides Orlando for all attendees. See COVID information for more details.
     
     <p><a href="{{ site.baseurl }}/policies/">Policies</a></p>
     
