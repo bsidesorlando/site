@@ -252,7 +252,7 @@ GEM
     webrick (1.8.1)
 
 PLATFORMS
-  arm64-darwin-22
+
 
 DEPENDENCIES
   faraday-retry (>= 2.0)
