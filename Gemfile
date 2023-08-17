@@ -40,3 +40,5 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 gem "webrick", "~> 1.8"
 
 gem "faraday-retry", ">= 2.0"
+
+gem "jekyll-redirect-from", "~> 0.16.0"
