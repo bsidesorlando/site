@@ -13,4 +13,23 @@ Or contact sponsors@bsidesorlando.org
 <br>
 <br>
 
-<img src="{{ '/assets/images/sponsor.png' | prepend: site.baseurl }}" alt="BSides Orlando Sponsor Village" width="730">
+# 2023 Sponsors
+
+
+<img src="{{ '/assets/images/sponsor-logos-d.png' | prepend: site.baseurl }}" alt="2023 Diamond Sponsors" width="530">
+
+
+
+<img src="{{ '/assets/images/sponsor-logos-p.png' | prepend: site.baseurl }}" alt="2023 Platinum Sponsors" width="530">
+
+
+
+<img src="{{ '/assets/images/sponsor-logos-g.png' | prepend: site.baseurl }}" alt="2023 Gold Sponsors" width="530">
+
+
+
+<img src="{{ '/assets/images/sponsor-logos-s.png' | prepend: site.baseurl }}" alt="2023 Silver Sponsors" width="530">
+
+
+
+<img src="{{ '/assets/images/sponsor-logos-b.png' | prepend: site.baseurl }}" alt="2023 Bronze Sponsors" width="530">
