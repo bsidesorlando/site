@@ -1,11 +1,7 @@
 ---
 layout: splash
-title: Schedule
+title: Schedule - BSides Orlando 2023
 permalink: /schedule/
 ---
 # Schedule
-Our conference dates have been announced! Stay tuned for more schedule updates as they'll be posted here.
-
-| Fri October 6th   | Sat October 7th |
-| -------- | ------- |
-| Training  | Conference    |
+<script type="text/javascript" src="https://sessionize.com/api/v2/dl406ofm/view/GridSmart"></script>
