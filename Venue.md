@@ -15,7 +15,7 @@ Full Sail Live
 
 [View on Google Maps](https://goo.gl/maps/ZBtsMG7EK2UiFKZk9)
 
-![Venue Image](assets\images\fullsail.jpg) ![Map Image](/assets/images/map.png)
+![Venue Image](/assets/images/fullsail.jpg) ![Map Image](/assets/images/map.png)
 
 Local Hotels
 ------------
@@ -40,7 +40,7 @@ Local Grub
 
 101 University Park Dr, Winter Park, FL 32792
 
-![Miller's Ale House Image](assets\images\millers.png)
+![Miller's Ale House Image](/assets/images/millers.png)
 
 Consistent and Variety - They have a great burger.
 
@@ -48,7 +48,7 @@ Consistent and Variety - They have a great burger.
 
 6860 Aloma Ave, Winter Park, FL 32792
 
-![Boston Fish House Image](assets\images\bostonfishhouse.png)
+![Boston Fish House Image](/assets/images/bostonfishhouse.png)
 
 If you like fish you gotta try this place.
 
@@ -56,7 +56,7 @@ If you like fish you gotta try this place.
 
 1600 W Fairbanks Ave, Winter Park, FL 32789
 
-![4 Rivers Image 1](assets\images\smokehouse.png) ![4 Rivers Image 2](assets\images\smokhouse-2.png)
+![4 Rivers Image 1](/assets/images/smokehouse.png) ![4 Rivers Image 2](/assets/images/smokhouse-2.png)
 
 Texas BBQ - If you haven't tried them... you should!
 
@@ -64,7 +64,7 @@ Texas BBQ - If you haven't tried them... you should!
 
 227 S Semoran Blvd, Winter Park, FL 32792
 
-![Arooga's Image 1](assets\images\arcogas.png) ![Arooga's Image 2](assets\images\arcogas-2.png)
+![Arooga's Image 1](/assets/images/arcogas.png) ![Arooga's Image 2](/assets/images/arcogas-2.png)
 
 Consistent and Variety - Great Atmosphere, Fantastic Bar Food and TV's EVERYWHERE!
 
@@ -72,7 +72,7 @@ Consistent and Variety - Great Atmosphere, Fantastic Bar Food and TV's EVERYWHER
 
 2203 Aloma Ave, Winter Park, FL 32792
 
-![Tibby's Image 1](assets\images\tibbys.png) ![Tibby's Image 2](assets\images\tibbys-2.png)
+![Tibby's Image 1](/assets/images/tibbys.png) ![Tibby's Image 2](/assets/images/tibbys-2.png)
 
 This place looks fun.
 
@@ -80,7 +80,7 @@ This place looks fun.
 
 10169 University Blvd, Orlando, FL 32817
 
-![Johny's Diner Image](assets\images\johnnys.png)
+![Johny's Diner Image](/assets/images/johnnys.png)
 
 Quiet and comfortable - huge breakfast, great coffee, and prices.
 
@@ -88,7 +88,7 @@ Quiet and comfortable - huge breakfast, great coffee, and prices.
 
 7355 Aloma Ave, Winter Park, FL 32792
 
-![Thai Villa Image](assets\images\thaivilla.png)
+![Thai Villa Image](/assets/images/thaivilla.png)
 
 Friendly, Clean, Great Thai!
 
