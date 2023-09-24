@@ -1,19 +1,21 @@
 # main links
 main:
 
-  - title: "Register"
-    url: /register/
+  - title: "About"
+    url: /about/
   - title: "Schedule"
     url: /schedule/
   - title: "Event"
     url: /event/
+  - title: "Venue"
+    url: /venue/
   - title: "Speakers"
     url: /speakers/
   - title: "Sponsors"
     url: /sponsors/
-  - title: "Participate"
-    url: /participate/
   - title: "Policies"
     url: /policies/
-  - title: "About"
-    url: /about/
+  - title: "Participate"
+    url: /participate/
+  - title: "Register"
+    url: /register/
