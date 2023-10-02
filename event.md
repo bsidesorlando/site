@@ -47,16 +47,6 @@ We develop and renew content for each year, but we offer a core set of activitie
     </td>
 </table>
 
-## Demonstration Village
-<table style="width:100%">
-    <td style="width:30%">
-
-      <img src="{{ '/assets/images/demos.png' | prepend: site.baseurl }}" alt="Demonstation Village">
-      </td>
-    <td>
-      Exhibitors and vendors can showcase their products, services, or technologies here. Attendees get a hands-on experience with the latest innovations and interact with experts. Our demo village hosts live demonstrations, interactive displays, and hands-on lab exercises.
-    </td>
-</table>
 
 ## Soldering Village
 <table style="width:100%">
@@ -69,11 +59,9 @@ We develop and renew content for each year, but we offer a core set of activitie
     </td>
 </table>
 
+
 ## Unconference
 If you have some wisdom to add, sign up for a lightning talk in the Unconference. Lightning talks are 15 minutes or less so it’s a great opportunity to acquire knowledge quickly. The Unconference features talks from other conference attendees that want to share their knowledge with you.
 
-## Chillout Room
-Relax, unwind, and take a break from the hustle and bustle of the conference. This space provides a comfortable and calming atmosphere, away from the noise and crowds of the main event, allowing you time to take a breather and return to the main conference feeling refreshed and re-energized.
-
-## Sticker Swap & Hangout Room
+## Sticker Swap 
 Recycle and Upcycle your stickers or collect new ones! This area is available to drop off or pick up stickers.
