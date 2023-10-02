@@ -23,7 +23,6 @@ We develop and renew content for each year, but we offer a core set of activitie
     </td>
 </table>
 
-
 ## Sponsor Village
 <table style="width:100%">
     <td style="width:30%">
@@ -34,7 +33,6 @@ We develop and renew content for each year, but we offer a core set of activitie
     Check out our Sponsor Village to engage with the organizations that made this possible!
     </td>
 </table>
-
 
 ## Lockpick Village (LPV)
 <table style="width:100%">
@@ -47,7 +45,6 @@ We develop and renew content for each year, but we offer a core set of activitie
     </td>
 </table>
 
-
 ## Soldering Village
 <table style="width:100%">
     <td style="width:30%">
@@ -59,9 +56,15 @@ We develop and renew content for each year, but we offer a core set of activitie
     </td>
 </table>
 
+## Information and Swag
+You’ve got questions, we’ve got answers in this space. After the success of last year we split the registration and swag lines to expedite entrance into the conference. Swag includes items from our fabulous sponsor and a sticker sheet themed for this year. Recycle and Upcycle your stickers or collect new ones! This area is available to drop off or pick up stickers.
+
+## Career Village
+Embarking on a journey into the realm of cybersecurity? Whether you're a newcomer or contemplating a shift within the field, the Career Village is your gateway to invaluable insights and guidance.  Register on the day of for resume review and professional headshot services in the morning.  The afternoon will have several sessions for attendees to enrich your career prospects and network with industry professionals.
+
+## Community Village
+If you’re representing another cybersecurity community organization, or interested in learning about the other local community organizations out there, this room is for you.
 
 ## Unconference
 If you have some wisdom to add, sign up for a lightning talk in the Unconference. Lightning talks are 15 minutes or less so it’s a great opportunity to acquire knowledge quickly. The Unconference features talks from other conference attendees that want to share their knowledge with you.
 
-## Sticker Swap 
-Recycle and Upcycle your stickers or collect new ones! This area is available to drop off or pick up stickers.
