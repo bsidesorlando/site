@@ -3,6 +3,12 @@ main:
 
   - title: "About"
     url: /about/
+  - title: "Event Archives"
+    children:
+    - title: "BSides Orlando 2023"
+      url: /event-archives/bsides-orlando-2023/
+    - title: BSides Orlando 2013"
+      url: "https://2013.bsidesorlando.org/"
   - title: "Schedule"
     url: /schedule/
   - title: "Event"
