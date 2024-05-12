@@ -3,18 +3,12 @@ layout: splash
 title: Sponsors
 permalink: /sponsors/
 ---
-# BSides Orlando 2023 Sponsors
-Interested in becoming a sponsor? 
-<a href="{{ site.baseurl }}{% link /assets/files/20230619_Sponsorship_Guide.pdf %}">Download our Sponsorship Prospectus</a>
+# BSides Orlando 2024 Sponsors
+Interested in becoming a sponsor? Contact <sponsors@bsidesorlando.org>
 
-Or contact sponsors@bsidesorlando.org
 
-<b>Deadline for artwork: September 6th, 2023</b>
-<br>
-<br>
 
 # 2023 Sponsors
-
 
 <img src="{{ '/assets/images/sponsor-logos-d.png' | prepend: site.baseurl }}" alt="2023 Diamond Sponsors" width="530">
 

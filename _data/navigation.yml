@@ -3,19 +3,11 @@ main:
 
   - title: "About"
     url: /about/
-  - title: "Schedule"
-    url: /schedule/
   - title: "Event"
     url: /event/
   - title: "Venue"
     url: /venue/
-  - title: "Speakers"
-    url: /speakers/
   - title: "Sponsors"
     url: /sponsors/
   - title: "Policies"
     url: /policies/
-  - title: "Participate"
-    url: /participate/
-  - title: "Register"
-    url: /register/
