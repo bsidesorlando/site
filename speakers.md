@@ -1,7 +1,6 @@
 ---
 layout: splash
-title: Speakers - BSides Orlando 2023
+title: Speakers - BSides Orlando 2024
 permalink: /speakers/
 ---
-
-<script type="text/javascript" src="https://sessionize.com/api/v2/z0ibyaid/view/SpeakerWall"></script>
+TBD

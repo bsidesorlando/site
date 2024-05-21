@@ -1,11 +1,11 @@
 ---
 layout: splash
-title: Venue - BSides Orlando 2023
+title: Venue - BSides Orlando 2024
 permalink: /venue/
 ---
 
 
-## Bsides Orlando 2023 Location
+## Bsides Orlando 2024 Location
 
 Full Sail Live
 
