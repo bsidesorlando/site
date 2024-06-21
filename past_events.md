@@ -14,14 +14,6 @@ We are grateful for your continued interest and support in our cybersecurity ini
 
 <a href="https://2022.bsidesorlando.org/">BSides Orlando 2022</a>
 
-## BSides Orlando 2021
-
-<a href="https://2021.bsidesorlando.org/">BSides Orlando 2021</a>
-
-## BSides Orlando 2020
-
-<a href="https://2020.bsidesorlando.org/">BSides Orlando 2020</a>
-
 ## BSides Orlando 2019
 
 <a href="https://2019.bsidesorlando.org/">BSides Orlando 2019</a>
