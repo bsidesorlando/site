@@ -1,0 +1,228 @@
+- name: Diamond Sponsor 1
+  logo: /assets/images/sponsors/sponsor-logo.png
+  url: http://example.com
+  description: Description of Diamond Sponsor 1.
+  level: Diamond
+
+- name: Diamond Sponsor 2
+  logo: /assets/images/sponsors/sponsor-logo.png
+  url: http://example.com
+  description: Description of Diamond Sponsor 2.
+  level: Diamond
+
+- name: Diamond Sponsor 3
+  logo: /assets/images/sponsors/sponsor-logo.png
+  url: http://example.com
+  description: Description of Diamond Sponsor 3.
+  level: Diamond
+
+- name: Platinum Sponsor 1
+  logo: /assets/images/sponsors/sponsor-logo.png
+  url: http://example.com
+  description: Description of Platinum Sponsor 1.
+  level: Platinum
+
+- name: Platinum Sponsor 2
+  logo: /assets/images/sponsors/sponsor-logo.png
+  url: http://example.com
+  description: Description of Platinum Sponsor 2.
+  level: Platinum  
+
+- name: Platinum Sponsor 3
+  logo: /assets/images/sponsors/sponsor-logo.png
+  url: http://example.com
+  description: Description of Platinum Sponsor 3.
+  level: Platinum  
+
+- name: Platinum Sponsor 4
+  logo: /assets/images/sponsors/sponsor-logo.png
+  url: http://example.com
+  description: Description of Platinum Sponsor 4.
+  level: Platinum  
+
+- name: Gold Sponsor 1
+  logo: /assets/images/sponsors/sponsor-logo.png
+  url: http://example.com
+  description: Description of Gold Sponsor 1.
+  level: Gold
+
+- name: Gold Sponsor 1
+  logo: /assets/images/sponsors/sponsor-logo.png
+  url: http://example.com
+  description: Description of Gold Sponsor 1.
+  level: Gold
+    
+- name: Gold Sponsor 1
+  logo: /assets/images/sponsors/sponsor-logo.png
+  url: http://example.com
+  description: Description of Gold Sponsor 1.
+  level: Gold
+  
+- name: Gold Sponsor 1
+  logo: /assets/images/sponsors/sponsor-logo.png
+  url: http://example.com
+  description: Description of Gold Sponsor 1.
+  level: Gold
+  
+- name: Gold Sponsor 1
+  logo: /assets/images/sponsors/sponsor-logo.png
+  url: http://example.com
+  description: Description of Gold Sponsor 1.
+  level: Gold
+    
+- name: Gold Sponsor 1
+  logo: /assets/images/sponsors/sponsor-logo.png
+  url: http://example.com
+  description: Description of Gold Sponsor 1.
+  level: Gold
+  
+- name: Gold Sponsor 1
+  logo: /assets/images/sponsors/sponsor-logo.png
+  url: http://example.com
+  description: Description of Gold Sponsor 1.
+  level: Gold
+
+- name: Silver Sponsor 1
+  logo: /assets/images/sponsors/sponsor-logo.png
+  url: http://example.com
+  description: Description of Silver Sponsor 1.
+  level: Silver
+
+- name: Silver Sponsor 1
+  logo: /assets/images/sponsors/sponsor-logo.png
+  url: http://example.com
+  description: Description of Silver Sponsor 1.
+  level: Silver
+
+- name: Silver Sponsor 1
+  logo: /assets/images/sponsors/sponsor-logo.png
+  url: http://example.com
+  description: Description of Silver Sponsor 1.
+  level: Silver
+
+- name: Silver Sponsor 1
+  logo: /assets/images/sponsors/sponsor-logo.png
+  url: http://example.com
+  description: Description of Silver Sponsor 1.
+  level: Silver
+
+- name: Silver Sponsor 1
+  logo: /assets/images/sponsors/sponsor-logo.png
+  url: http://example.com
+  description: Description of Silver Sponsor 1.
+  level: Silver
+
+- name: Silver Sponsor 1
+  logo: /assets/images/sponsors/sponsor-logo.png
+  url: http://example.com
+  description: Description of Silver Sponsor 1.
+  level: Silver
+
+- name: Silver Sponsor 1
+  logo: /assets/images/sponsors/sponsor-logo.png
+  url: http://example.com
+  description: Description of Silver Sponsor 1.
+  level: Silver
+
+- name: Silver Sponsor 1
+  logo: /assets/images/sponsors/sponsor-logo.png
+  url: http://example.com
+  description: Description of Silver Sponsor 1.
+  level: Silver
+
+- name: Bronze Sponsor 1
+  logo: /assets/images/sponsors/sponsor-logo.png
+  url: http://example.com
+  description: Description of Bronze Sponsor 1.
+  level: Bronze
+
+- name: Bronze Sponsor 1
+  logo: /assets/images/sponsors/sponsor-logo.png
+  url: http://example.com
+  description: Description of Bronze Sponsor 1.
+  level: Bronze
+
+- name: Bronze Sponsor 1
+  logo: /assets/images/sponsors/sponsor-logo.png
+  url: http://example.com
+  description: Description of Bronze Sponsor 1.
+  level: Bronze
+
+- name: Bronze Sponsor 1
+  logo: /assets/images/sponsors/sponsor-logo.png
+  url: http://example.com
+  description: Description of Bronze Sponsor 1.
+  level: Bronze
+
+- name: Bronze Sponsor 1
+  logo: /assets/images/sponsors/sponsor-logo.png
+  url: http://example.com
+  description: Description of Bronze Sponsor 1.
+  level: Bronze
+
+- name: Bronze Sponsor 1
+  logo: /assets/images/sponsors/sponsor-logo.png
+  url: http://example.com
+  description: Description of Bronze Sponsor 1.
+  level: Bronze
+
+- name: Bronze Sponsor 1
+  logo: /assets/images/sponsors/sponsor-logo.png
+  url: http://example.com
+  description: Description of Bronze Sponsor 1.
+  level: Bronze
+
+
+- name: Bronze Sponsor 1
+  logo: /assets/images/sponsors/sponsor-logo.png
+  url: http://example.com
+  description: Description of Bronze Sponsor 1.
+  level: Bronze
+
+- name: Bronze Sponsor 1
+  logo: /assets/images/sponsors/sponsor-logo.png
+  url: http://example.com
+  description: Description of Bronze Sponsor 1.
+  level: Bronze
+
+- name: Bronze Sponsor 1
+  logo: /assets/images/sponsors/sponsor-logo.png
+  url: http://example.com
+  description: Description of Bronze Sponsor 1.
+  level: Bronze
+
+- name: Bronze Sponsor 1
+  logo: /assets/images/sponsors/sponsor-logo.png
+  url: http://example.com
+  description: Description of Bronze Sponsor 1.
+  level: Bronze
+
+- name: Bronze Sponsor 1
+  logo: /assets/images/sponsors/sponsor-logo.png
+  url: http://example.com
+  description: Description of Bronze Sponsor 1.
+  level: Bronze
+
+- name: Bronze Sponsor 1
+  logo: /assets/images/sponsors/sponsor-logo.png
+  url: http://example.com
+  description: Description of Bronze Sponsor 1.
+  level: Bronze
+
+- name: Bronze Sponsor 1
+  logo: /assets/images/sponsors/sponsor-logo.png
+  url: http://example.com
+  description: Description of Bronze Sponsor 1.
+  level: Bronze
+
+- name: Bronze Sponsor 1
+  logo: /assets/images/sponsors/sponsor-logo.png
+  url: http://example.com
+  description: Description of Bronze Sponsor 1.
+  level: Bronze
+
+- name: Community Partner 1
+  logo: /assets/images/sponsors/sponsor-logo.png
+  url: http://example.com
+  description: Description of Community Partner 1.
+  level: Community Partners

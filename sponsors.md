@@ -11,14 +11,4 @@ Interested in becoming a sponsor of BSides Orlando 2024?[Download the sponsor pr
 
 ## BSides Orlando 2024 Sponsors
 
-### Diamond Sponsors
-
-### Platinum Sponsors
-
-### Gold Sponsors
-
-### Silver Sponsors
-
-### Bronze Sponsors
-
-### Community Partners
+{% include sponsors.html %}

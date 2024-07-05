@@ -1,0 +1,46 @@
+/* Sponsors Gallery Styling */
+.sponsors .grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 20px; /* Adjust spacing between cards */
+  }
+  
+  .sponsor-card {
+    flex: 1;
+    min-width: calc(33.333% - 20px); /* 3 per row, adjust gap if needed */
+    max-width: calc(33.333% - 20px);
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1); /* Minimal Mistakes box shadow */
+    margin-bottom: 20px;
+  }
+  
+  .sponsor-card img {
+    width: 100%;
+    height: auto;
+    max-height: 120px; /* Adjust based on tier */
+  }
+  
+  /* Adjustments for smaller tiers */
+  .tier.bronze .sponsor-card img, .tier.community-partners .sponsor-card img {
+    max-height: 80px; /* Smaller logos for lower tiers */
+  }
+  
+  .tier.bronze .sponsor-card, .tier.community-partners .sponsor-card {
+    min-width: calc(16.666% - 20px); /* 6 per row for lower tiers */
+    max-width: calc(16.666% - 20px);
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    .sponsor-card {
+      min-width: 50%; /* 2 per row on smaller screens */
+      max-width: 50%;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .sponsor-card {
+      min-width: 100%; /* 1 per row on very small screens */
+      max-width: 100%;
+    }
+  }

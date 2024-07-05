@@ -186,6 +186,12 @@ tag_archive:
 #     tag: /tags/:name/
 
 
+# collections
+collections:
+  events:
+    output: true
+    permalink: /:collection/:path/
+
 # HTML Compression
 # - https://jch.penibelst.de/
 compress_html:
