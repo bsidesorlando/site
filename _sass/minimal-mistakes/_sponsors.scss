@@ -1,46 +1,56 @@
-/* Sponsors Gallery Styling */
-.sponsors .grid {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    gap: 20px; /* Adjust spacing between cards */
+/* Base styles for sponsor cards */
+.sponsor-card {
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1); /* Example shadow */
+  margin-bottom: 20px; /* Spacing between rows */
+}
+
+/* Adjustments for different tiers */
+.diamond .grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* 2 per row */
+  gap: 20px;
+}
+
+.platinum .grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 per row */
+  gap: 20px;
+}
+
+.gold .grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 4 per row */
+  gap: 20px;
+}
+
+.silver .grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 4 per row */
+  gap: 20px;
+}
+
+.bronze .grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr); /* 5 per row */
+  gap: 20px;
+  padding: 20px; /* Spacing between rows */
+}
+
+.community-partners .grid {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr); /* 4 per row */
+  gap: 20px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .diamond .grid, .platinum .grid, .gold .grid, .silver .grid, .bronze .grid {
+    grid-template-columns: repeat(2, 1fr); /* Adjust to 2 per row for all tiers on smaller screens */
   }
-  
-  .sponsor-card {
-    flex: 1;
-    min-width: calc(33.333% - 20px); /* 3 per row, adjust gap if needed */
-    max-width: calc(33.333% - 20px);
-    box-shadow: 0 4px 6px rgba(0,0,0,0.1); /* Minimal Mistakes box shadow */
-    margin-bottom: 20px;
+}
+
+@media (max-width: 480px) {
+  .diamond .grid, .platinum .grid, .gold .grid, .silver .grid, .bronze .grid {
+    grid-template-columns: repeat(1, 1fr); /* Adjust to 1 per row for all tiers on smallest screens */
   }
-  
-  .sponsor-card img {
-    width: 100%;
-    height: auto;
-    max-height: 120px; /* Adjust based on tier */
-  }
-  
-  /* Adjustments for smaller tiers */
-  .tier.bronze .sponsor-card img, .tier.community-partners .sponsor-card img {
-    max-height: 80px; /* Smaller logos for lower tiers */
-  }
-  
-  .tier.bronze .sponsor-card, .tier.community-partners .sponsor-card {
-    min-width: calc(16.666% - 20px); /* 6 per row for lower tiers */
-    max-width: calc(16.666% - 20px);
-  }
-  
-  /* Responsive adjustments */
-  @media (max-width: 768px) {
-    .sponsor-card {
-      min-width: 50%; /* 2 per row on smaller screens */
-      max-width: 50%;
-    }
-  }
-  
-  @media (max-width: 480px) {
-    .sponsor-card {
-      min-width: 100%; /* 1 per row on very small screens */
-      max-width: 100%;
-    }
-  }
+}
