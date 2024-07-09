@@ -38,19 +38,20 @@
 
 .community-partners .grid {
   display: grid;
-  grid-template-columns: repeat(6, 1fr); /* 4 per row */
+  grid-template-columns: repeat(4, 1fr); /* 4 per row */
   gap: 20px;
 }
 
 /* Responsive adjustments */
+/* Responsive adjustments */
 @media (max-width: 768px) {
-  .diamond .grid, .platinum .grid, .gold .grid, .silver .grid, .bronze .grid {
+  .diamond .grid, .platinum .grid, .gold .grid, .silver .grid, .bronze .grid, .community-partners .grid {
     grid-template-columns: repeat(2, 1fr); /* Adjust to 2 per row for all tiers on smaller screens */
   }
 }
 
 @media (max-width: 480px) {
-  .diamond .grid, .platinum .grid, .gold .grid, .silver .grid, .bronze .grid {
-    grid-template-columns: repeat(1, 1fr); /* Adjust to 1 per row for all tiers on smallest screens */
+  .diamond .grid, .platinum .grid, .gold .grid, .silver .grid, .bronze .grid, .community-partners .grid {
+    grid-template-columns: repeat(1, 1fr) !important; /* Adjust to 1 per row for all tiers on smallest screens */
   }
 }
