@@ -1,7 +1,7 @@
 # Site
 This is a static website for BSides Orlando generated in Jekyll using the Minimal Mistakes template.
 
-# Install Instructions
+# Local Development Instructions
 
 ## Install the Requirements
 Make sure to install Jekyll and bundle
@@ -30,3 +30,21 @@ gem "github-pages", group: :jekyll_plugins
 ```
 
 Several parts of the theme (`_data`, `_includes`, `_layouts`, etc.) have been copied to this repository. What is available in this repository overrides the corresponding element of the theme.
+
+###
+
+### To add a sponsor
+
+1. Create a branch: `git branch -b 'sponsor-name'`.
+2. Append the sponsor's details to `_data/sponsors.yaml`:
+   ```yaml
+   sponsors:
+     - name: Sponsor Name
+       logo: sponsor-logo.png
+       url: https://sponsorwebsite.com
+       description: Sponsor Name is a proud BSides Orlando Sponsor       
+       level: Diamond
+   ```
+3. Add the sponsor's logo to `assets/images/sponsors/`.
+4. Create a PR from your fork against `site/main`.
+5. Upon review, merge into `main`.
