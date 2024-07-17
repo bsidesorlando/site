@@ -8,3 +8,9 @@
        url: https://www.adventhealth.com/
        description: Advent Health is a proud BSides Orlando 2024 Sponsor       
        level: Diamond
+     - name: ThreatLocker
+       logo: logo-PLAT-ThreatLocker.png
+       url: https://www.threatlocker.com/
+       description: ThreatLocker is a proud BSides Orlando 2024 Sponsor    
+       level: Platinum
+        
