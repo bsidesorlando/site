@@ -1,0 +1,57 @@
+/* Base styles for sponsor cards */
+.sponsor-card {
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1); /* Example shadow */
+  margin-bottom: 20px; /* Spacing between rows */
+}
+
+/* Adjustments for different tiers */
+.diamond .grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* 2 per row */
+  gap: 20px;
+}
+
+.platinum .grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 per row */
+  gap: 20px;
+}
+
+.gold .grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 4 per row */
+  gap: 20px;
+}
+
+.silver .grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 4 per row */
+  gap: 20px;
+}
+
+.bronze .grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr); /* 5 per row */
+  gap: 20px;
+  padding: 20px; /* Spacing between rows */
+}
+
+.community-partners .grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 4 per row */
+  gap: 20px;
+}
+
+/* Responsive adjustments */
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .diamond .grid, .platinum .grid, .gold .grid, .silver .grid, .bronze .grid, .community-partners .grid {
+    grid-template-columns: repeat(2, 1fr); /* Adjust to 2 per row for all tiers on smaller screens */
+  }
+}
+
+@media (max-width: 480px) {
+  .diamond .grid, .platinum .grid, .gold .grid, .silver .grid, .bronze .grid, .community-partners .grid {
+    grid-template-columns: repeat(1, 1fr) !important; /* Adjust to 1 per row for all tiers on smallest screens */
+  }
+}

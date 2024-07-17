@@ -1,0 +1,19 @@
+<div class="sponsors">
+  {% assign tier_order = "Diamond,Platinum,Gold,Silver,Bronze,Community Partners" | split: "," %}
+  {% for tier in tier_order %}
+    <section class="tier {{ tier | downcase | replace: ' ', '-' }}">
+      <h2>{{ tier }}</h2>
+      <div class="grid">
+        {% for sponsor in site.data.sponsors %}
+          {% if sponsor.level == tier %}
+            <div class="sponsor-card">
+              <a href="{{ sponsor.url }}">
+                <img src="{{ sponsor.logo }}" alt="{{ sponsor.name }}">
+              </a>
+            </div>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </section>
+  {% endfor %}
+</div>
