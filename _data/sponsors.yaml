@@ -3,3 +3,8 @@
        url: https://hello.fullsail.edu/
        description: Full Sail University is a proud BSides Orlando 2024 Sponsor       
        level: Diamond
+     - name: Advent Health
+       logo: logo-DIAMOND-AdventHealth.png
+       url: https://www.adventhealth.com/
+       description: Advent Health is a proud BSides Orlando 2024 Sponsor       
+       level: Diamond
