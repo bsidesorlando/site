@@ -13,4 +13,9 @@
        url: https://www.threatlocker.com/
        description: ThreatLocker is a proud BSides Orlando 2024 Sponsor    
        level: Platinum
+     - name: Hak5
+       logo: logo-BRONZE-Hak5.jpg
+       url: https://hak5.org/
+       description: Hak5 is a proud BSides Orlando 2024 Sponsor    
+       level: Bronze
         
