@@ -11,10 +11,18 @@
   gap: 20px;
 }
 
+.diamond > .grid  > .sponsor-card > img {
+  max-width: 50%;
+}
+
 .platinum .grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr); /* 3 per row */
   gap: 20px;
+}
+
+.platinum > .grid  > .sponsor-card > img {
+  max-width: 33%;
 }
 
 .gold .grid {
@@ -23,10 +31,18 @@
   gap: 20px;
 }
 
+.gold > .grid  > .sponsor-card > img {
+  max-width: 25%;
+}
+
 .silver .grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr); /* 4 per row */
   gap: 20px;
+}
+
+.silver > .grid  > .sponsor-card > img {
+  max-width: 25%;
 }
 
 .bronze .grid {
@@ -34,6 +50,10 @@
   grid-template-columns: repeat(5, 1fr); /* 5 per row */
   gap: 20px;
   padding: 20px; /* Spacing between rows */
+}
+
+.bronze > .grid  > .sponsor-card > img {
+  max-width: 20%;
 }
 
 .community-partners .grid {
