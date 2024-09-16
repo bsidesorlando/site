@@ -59,8 +59,8 @@ We develop and renew content for each year, but we offer a core set of activitie
 ## Information and Swag
 You’ve got questions, we’ve got answers in this space. After the success of last year we split the registration and swag lines to expedite entrance into the conference. Swag includes items from our fabulous sponsor and a sticker sheet themed for this year. Recycle and Upcycle your stickers or collect new ones! This area is available to drop off or pick up stickers.
 
-## Career Village
-Embarking on a journey into the realm of cybersecurity? Whether you're a newcomer or contemplating a shift within the field, the Career Village is your gateway to invaluable insights and guidance.  Register on the day of for resume review and professional headshot services in the morning.  The afternoon will have several sessions for attendees to enrich your career prospects and network with industry professionals.
+## <a href="{{ site.baseurl }}/career_village/">Career Village</a>
+Embarking on a journey into the cybersecurity realm? Whether you're new to the field or considering a shift within it, the <a href="{{ site.baseurl }}/career_village/">Career Village</a> is the place to gain valuable insights and guidance. You can have your resume reviewed, get a professional headshot, or participate in a mock interview. If you're hiring, you can post your available positions on our job board. Join us to enhance your career prospects and network with industry professionals. Check out the <a href="{{ site.baseurl }}/career_village/">Career Village</a> page for more information on how you can best prepare. 
 
 ## Community Village
 If you’re representing another cybersecurity community organization, or interested in learning about the other local community organizations out there, this room is for you.

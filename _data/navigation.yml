@@ -6,6 +6,9 @@ main:
     url: /about/
   - title: "Event"
     url: /event/
+    children:
+      -title: "Career Village"
+      url: /career_village/
   - title: "Venue"
     url: /venue/
   - title: "Sponsors"
