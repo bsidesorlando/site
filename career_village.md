@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: BSides Orlando Career Village
-permalink: /career-village/
+permalink: /career_village/
 ---
 # Career Village
 Need help with your resume? Looking to ace your next interview? Hoping to find top talent? The career village is the place for you. Come network with other professionals at the career village where you can get a professional headshot, have your resume reviewed, and even participate in a mock interview. Are you hiring? Post your available positions on our job board. Come find your adventure at the career village.
