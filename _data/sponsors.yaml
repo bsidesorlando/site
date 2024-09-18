@@ -82,6 +82,14 @@
   description: Modus Create is a Bronze sponsor of BSides Orlando 2024
   level: Bronze
 
+
+- name: NOBANDWIDTH
+  logo: logo-BRONZE-Nobandwidth.png
+  url: https://nobandwidth.io
+  description: NOBANDWIDTH is a Bronze sponsor of BSides Orlando 2024
+  level: Bronze
+- 
+
 - name: Red Team LLC
   logo: logo-BRONZE-RedTeam.png
   url: https://redteam.vip/
