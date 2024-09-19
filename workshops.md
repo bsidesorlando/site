@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: Friday Workshop Schedule
-permalink: /workshops
+permalink: /workshops/
 ---
 
 # BSides Orlando 2024 Friday Workshops
