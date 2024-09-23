@@ -11,7 +11,7 @@ In preparation for the career village, we will be hosting online workshops to he
 All workshops will be at **8PM EDT**. 
 * **9/25** - **Networking Utilizing LinkedIn** - Join as Edna Jonsson will guide you through building a professional network on LinkedIn.
 * **10/2** - **Interviewing skills and tips** - Join Steve Hannon for a session on mastering interview techniques.
-* **10/9** - **Resume** - Details to be announced.
+* **10/9** - **Digital Portfolio Framework to Navigate the Tech Career Maze** - Yesenia Yser
 * **10/16** - **How to hire better**: panel discussion - Details to be announced.
 
 
