@@ -18,10 +18,10 @@ All workshops will be at **8PM EDT**.
 * **10/2** - **<a href="https://streamyard.com/watch/Bj6MbTvakwVA">Interviewing skills and tips</a>** - Join Steve Hannon for a session on mastering interview techniques.
   <br> Register at the link above or watch on <a href="https://www.youtube.com/live/wZcllUtCrKs">Youtube</a>
 
-* **10/9** - **Digital Portfolio Framework to Navigate the Tech Career Maze** - Yesenia Yser
-
-* **10/16** - **How to hire better**: panel discussion - Details to be announced.
-
+* **10/9** - **<a href="https://streamyard.com/watch/rrgvmMup2w5g">Digital Portfolio Framework to Navigate the Tech Career Maze</a>** - Yesenia Yser
+  <br> Register at the link above
+* **10/16** - **<a href="https://streamyard.com/watch/KDXiWR6PqPPF">How to hire better</a>**: panel discussion - Details to be announced.
+<br> Register at the link above
 
 
 ## How to Prepare for Your Resume Review
