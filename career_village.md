@@ -8,15 +8,20 @@ Need help with your resume? Looking to ace your next interview? Hoping to find t
 
 ## Online Workshops
 In preparation for the career village, we will be hosting online workshops to help you prepare. The workshops will be via Zoom and open for all to join.
-All workshops will be at **8PM EDT**. 
-* **9/25** - **<a href="https://gpsec.zoom.us/j/95775873977?pwd=cZ60kWTsq07HcMDxAPSOagIkbvbsab.1&from=addon">Networking Utilizing LinkedIn</a>** - Join as Edna Jonsson will guide you through building a professional network on LinkedIn.
-  <br>Zoom Meeting ID: 957 7587 3977 Passcode: 801304
-* **10/2** - **<a href="https://gpsec.zoom.us/j/97743514008?pwd=lo2dPwnHhMTnnUE0Nb215qgPQSizZF.1&from=addon">Interviewing skills and tips</a>** - Join Steve Hannon for a session on mastering interview techniques.
-  <br>Zoom Meeting ID: 977 4351 4008 Passcode: 326151
-* **10/9** - **<a href="https://gpsec.zoom.us/j/98434909930?pwd=GkG1RWmabi43QJUJbNhXNa4Jf6kytr.1&from=addon">Digital Portfolio Framework to Navigate the Tech Career Maze</a>** - Yesenia Yser
-  <br>Zoom Meeting ID: 984 3490 9930 Passcode: 107549
-* **10/16** - **<a href="https://gpsec.zoom.us/j/94028449219?pwd=zUooiH2Fsly79MSxgOiwqePjamaa3a.1&from=addon">How to hire better</a>**: panel discussion - Details to be announced.
-  <br>Zoom Meeting ID: 940 2844 9219 Passcode: 420066
+All workshops will be at **8PM EDT**.
+* **9/25** - **<a href="https://www.youtube.com/watch?v=_lDxgwEA8QI">Networking Utilizing LinkedIn</a>** - Join as Edna Jonsson will guide you through building a professional network on LinkedIn. 
+  <details>
+    <summary>Click to watch the video</summary>
+    {% include video id="_lDxgwEA8QI" provider="youtube" %}
+  </details>
+
+* **10/2** - **<a href="https://streamyard.com/watch/Bj6MbTvakwVA">Interviewing skills and tips</a>** - Join Steve Hannon for a session on mastering interview techniques.
+  <br> Register at the link above or watch on <a href="https://www.youtube.com/live/wZcllUtCrKs">Youtube</a>
+
+* **10/9** - **<a href="https://streamyard.com/watch/rrgvmMup2w5g">Digital Portfolio Framework to Navigate the Tech Career Maze</a>** - Yesenia Yser
+  <br> Register at the link above
+* **10/16** - **<a href="https://streamyard.com/watch/KDXiWR6PqPPF">How to hire better</a>**: panel discussion - Details to be announced.
+<br> Register at the link above
 
 
 ## How to Prepare for Your Resume Review
