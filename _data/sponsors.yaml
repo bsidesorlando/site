@@ -82,13 +82,11 @@
   description: Modus Create is a Bronze sponsor of BSides Orlando 2024
   level: Bronze
 
-
 - name: NOBANDWIDTH
   logo: logo-BRONZE-Nobandwidth.png
   url: https://nobandwidth.io
   description: NOBANDWIDTH is a Bronze sponsor of BSides Orlando 2024
   level: Bronze
-- 
 
 - name: Red Team LLC
   logo: logo-BRONZE-RedTeam.png
@@ -100,4 +98,10 @@
   logo: logo-BRONZE-rot13labs.png
   url: https://rot13labs.com/
   description: rot 13 labs is a Bronze sponsor of BSides Orlando 2024
+  level: Bronze
+  
+- name: TechSquad, Inc
+  logo: logo-BRONZE-TechSquad.png
+  url: https://techsquadinc.com/
+  description: TechSquad, Inc is a Bronze sponsor of BSides Orlando 2024
   level: Bronze
