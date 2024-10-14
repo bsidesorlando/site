@@ -9,7 +9,7 @@ We develop and renew content for each year, but we offer a core set of activitie
 ## Sunshine Capture the Flag (CTF)
 <table style="width:100%">
     <td style="width:30%">
-    
+
       <img src="{{ '/assets/images/ctf.png' | prepend: site.baseurl }}" alt="Capture the Flag">
 
       </td>
@@ -60,7 +60,10 @@ We develop and renew content for each year, but we offer a core set of activitie
 You’ve got questions, we’ve got answers in this space. After the success of last year we split the registration and swag lines to expedite entrance into the conference. Swag includes items from our fabulous sponsor and a sticker sheet themed for this year. Recycle and Upcycle your stickers or collect new ones! This area is available to drop off or pick up stickers.
 
 ## <a href="{{ site.baseurl }}/career_village/">Career Village</a>
-Embarking on a journey into the cybersecurity realm? Whether you're new to the field or considering a shift within it, the <a href="{{ site.baseurl }}/career_village/">Career Village</a> is the place to gain valuable insights and guidance. You can have your resume reviewed, get a professional headshot, or participate in a mock interview. If you're hiring, you can post your available positions on our job board. Join us to enhance your career prospects and network with industry professionals. Check out the <a href="{{ site.baseurl }}/career_village/">Career Village</a> page for more information on how you can best prepare. 
+Embarking on a journey into the cybersecurity realm? Whether you're new to the field or considering a shift within it, the <a href="{{ site.baseurl }}/career_village/">Career Village</a> is the place to gain valuable insights and guidance. You can have your resume reviewed, get a professional headshot, or participate in a mock interview. If you're hiring, you can post your available positions on our job board. Join us to enhance your career prospects and network with industry professionals. Check out the <a href="{{ site.baseurl }}/career_village/">Career Village</a> page for more information on how you can best prepare.
+
+## <a href="{{ site.baseurl }}/se_village/">Social Engineering Adventure</a>
+The human element to cybersecurity. Want to learn more about the psychology of the human mind, how magicians have been able to fool audiences and how threat actors have used employees of companies to gain unauthorized access to systems. Come visit the social engineering adventure and learn about the fun side of social engineering. We will have talks, OSINT exercises and learn about the psychology of building trust and rapport.
 
 ## Community Village
 If you’re representing another cybersecurity community organization, or interested in learning about the other local community organizations out there, this room is for you.
