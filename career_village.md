@@ -10,16 +10,16 @@ Need help with your resume? Looking to ace your next interview? Hoping to find t
 In preparation for the career village, we will be hosting online workshops to help you prepare. The workshops will be via Zoom and open for all to join.
 All workshops will be at **8PM EDT**.
 * **9/25** - **<a href="https://www.youtube.com/watch?v=_lDxgwEA8QI">Networking Utilizing LinkedIn</a>** - Join as Edna Jonsson will guide you through building a professional network on LinkedIn.
-  <a href="https://www.youtube.com/watch?v=_lDxgwEA8QI"><img src="{{ '/assets/images/CVPre1.png' | prepend: site.baseurl }}" alt="Networking Utilizing LinkedIn Youtube"></a>
+<br>  <a href="https://www.youtube.com/watch?v=_lDxgwEA8QI"><img src="{{ '/assets/images/CVPre1.png' | prepend: site.baseurl }}" alt="Networking Utilizing LinkedIn Youtube"></a>
 
 * **10/2** - **<a href="https://www.youtube.com/live/wZcllUtCrKs">Interviewing skills and tips</a>** - Join Steve Hannon for a session on mastering interview techniques.
-  <a href="https://www.youtube.com/watch?v=_lDxgwEA8QI"><img src="{{ '/assets/images/CVPre2.png' | prepend: site.baseurl }}" alt="Interviewing skills and tips"></a>
+ <br> <a href="https://www.youtube.com/watch?v=_lDxgwEA8QI"><img src="{{ '/assets/images/CVPre2.png' | prepend: site.baseurl }}" alt="Interviewing skills and tips"></a>
 
 * **10/9** - **<a href="https://streamyard.com/watch/rrgvmMup2w5g">Digital Portfolio Framework to Navigate the Tech Career Maze</a>** - Yesenia Yser
-  <a href="https://www.youtube.com/watch?v=_lDxgwEA8QI"><img src="{{ '/assets/images/CVPre3.png' | prepend: site.baseurl }}" alt="Digital Portfolio Framework to Navigate the Tech Career MazeDigital Portfolio Framework to Navigate the Tech Career Maze"></a>
+ <br> <a href="https://www.youtube.com/watch?v=_lDxgwEA8QI"><img src="{{ '/assets/images/CVPre3.png' | prepend: site.baseurl }}" alt="Digital Portfolio Framework to Navigate the Tech Career MazeDigital Portfolio Framework to Navigate the Tech Career Maze"></a>
 
 * **10/16** - **<a href="https://streamyard.com/watch/KDXiWR6PqPPF">How to hire better</a>**: panel discussion.
-  <a href="https://www.youtube.com/watch?v=_lDxgwEA8QI"><img src="{{ '/assets/images/CVPre4.png' | prepend: site.baseurl }}" alt="How to hire better"></a>
+<br>  <a href="https://www.youtube.com/watch?v=_lDxgwEA8QI"><img src="{{ '/assets/images/CVPre4.png' | prepend: site.baseurl }}" alt="How to hire better"></a>
 
 ## How to Prepare for Your Resume Review
 * **Bring Multiple Copies:** Print several copies of your resume to share with reviewers.
