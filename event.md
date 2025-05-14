@@ -14,7 +14,7 @@ We develop and renew content for each year, but we offer a core set of activitie
 
       </td>
     <td>
-    SunshineCTF is back for its 9th year in conjunction with BSides Orlando 2024 and hosted by current and former members of Hack@UCF. This year’s competition will include categories like pwn, reverse engineering, web, crypto, scripting, and something special!
+    SunshineCTF is back for its 10th year in conjunction with BSides Orlando 2025 and hosted by current and former members of Hack@UCF. This year’s competition will include categories like pwn, reverse engineering, web, crypto, scripting, and something special!
 
     SunshineCTF is an online competition that’s open to anyone, though some prizes (TBD) may only be given to the top-ranked in-person team(s) during the BSides Orlando closing ceremony.
 

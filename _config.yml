@@ -30,7 +30,7 @@ title                    : "Security BSides Orlando" # Used for the <title> tag 
 title_separator          : "-"
 subtitle                 : " " # site tagline that appears below site title in masthead
 name                     : "Security BSides Orlando" # name of the website
-description              : "Security BSides Orlando October 19 2024 "
+description              : "Security BSides Orlando Septemeber 27, 2025 "
 url                      : "https://bsidesorlando.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bsidesorlando/site" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
