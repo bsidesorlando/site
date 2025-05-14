@@ -56,7 +56,7 @@ Now in our 10th year, BSides Orlando has grown from modest beginnings and seeks 
 
 * 2021 – BSides Orlando does Byte Sized! a live CTF style, virtual event
 
-* 2022-23 - BSides Orlando is back live at Full Sail University
+* 2022-25 - BSides Orlando is back live at Full Sail University
 
 # What is a Security BSides?
 
