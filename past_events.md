@@ -8,7 +8,7 @@ We are grateful for your continued interest and support in our cybersecurity ini
 
 
 ## Bsides Orlando 2024
-<a href="https://2024/bsidesorlando.org/">BSides Orlando 2024</a>
+<a href="https://2024.bsidesorlando.org/">BSides Orlando 2024</a>
 
 ## BSides Orlando 2023
 <a href="https://2023.bsidesorlando.org/">BSides Orlando 2023</a>
