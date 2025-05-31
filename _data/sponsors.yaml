@@ -1,5 +1,8 @@
-#- name: Advent Health
-#  logo: logo-DIAMOND-AdventHealth.png
-#  url: https://www.adventhealth.com/
-#  description: Advent Health is a Diamond sponsor of BSides Orlando 2024
-#  level: Diamond
+#- name: Sponsor Name
+#  logo: logo in assets/images/sponsors
+#  url: sponsor url
+#  level: Diamond | Platinum | Gold | Silver | Bronze | Community Partners
+- name: Advent Health
+  logo: logo-DIAMOND-AdventHealth.png
+  url: https://www.adventhealth.com/
+  level: Diamond
