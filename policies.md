@@ -23,15 +23,11 @@ Our Call for Papers and Review Process is a blind process that encourages new vo
 We are very proud of our conference, team, and what we’ve built at BSides Orlando. However, in any organization with a large enough attendance there is the opportunity for the unfortunate, unwarranted, and unwanted to arise. To that end BSides Orlando has established procedures to report incidents that may be a violation of our Code of Conduct, Ethics Agreements, or impact the safety and well being of attendees.
 
 # COVID Information
-As long-term advocates of harm reduction, we want to take reasonable measures to reduce the risk of transmission of COVID-19 for our event and community. It has been difficult to decide how to approach conference planning that accommodates varying degrees of acceptable risk. Accordingly, we have updated our COVID-19 safety measures for in-person conferences.
+BSides Orlando remains mindful of COVID-19 and its ongoing impact, and we want everyone to feel as comfortable as possible while attending. We encourage all participants to stay up to date with vaccinations and boosters, and to consider taking a rapid test before arriving, especially if they've recently been exposed or are feeling uncertain. **If you’re experiencing symptoms such as fever, cough, or congestion, we ask that you err on the side of caution and prioritize your health and the health of others.**
 
-<b>Attendees are strongly advised to wear a mask at all times</b> in the indoor conference spaces, except when actively eating or drinking, and for speakers while presenting. This includes the foyer and hallways. We strongly suggest everyone wear disposable N95, KN95, or KF94 respirators and use a fresh mask at least once a day. We understand that there is no local mandate regarding masks, but as a private event we recommend masking to reduce the risk of spreading illness. 
+**Masking is optional but fully supported**, particularly in crowded spaces or during peak sessions. High-quality masks like N95, or KN95 provide added protection for those who prefer it, and we welcome anyone who chooses to mask at any time. We trust attendees to make the choices that suit their comfort level while being mindful of the shared nature of the event.
 
-While we are not requiring on-site testing, we do ask you to test yourself frequently while you are in Florida. Please follow CDC quarantine guidelines and do not attend BSides Orlando if you test positive for COVID or are experiencing COVID symptoms.
-
-<b>We also strongly encourage participants to be vaccinated.</b> While we are not requiring proof of vaccination to attend, we believe that vaccination, including the recommended booster doses, is one of the most important tools we have in protecting ourselves and our community from COVID-19.
-
-<b>We ask that you use common sense.</b> Please do not attend the conference if you are feeling any symptoms of illness or have reason to believe you have been exposed to someone who is ill. We encourage frequent testing when traveling or around large groups of people. If possible, please take a COVID-19 test in the day or days leading up to the conference. Please wash your hands frequently throughout the conference.
+Thank you for helping us maintain a respectful, inclusive environment where everyone can focus on learning, connecting, and enjoying the BSides Orlando experience.
 
 We may revisit this policy based on changing information. In case of changes to this policy, the published policy with the latest date is controlling.
 
