@@ -6,3 +6,15 @@
   logo: logo-DIAMOND-AdventHealth.png
   url: https://www.adventhealth.com/
   level: Diamond
+- name: Full Sail University
+  logo: logo-DIAMOND-FullSail.png
+  url: https://www.fullsail.edu/
+  level: Diamond
+- name: ICR
+  logo: logo-GOLD-ICR.png
+  url: https://icr-team.com
+  level: Platinum
+- name: ThreatLocker
+  logo: logo-PLAT-ThreatLocker.png
+  url: https://www.threatlocker.com/
+  level: Platinum
