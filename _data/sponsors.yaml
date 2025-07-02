@@ -18,3 +18,7 @@
   logo: logo-PLAT-ThreatLocker.png
   url: https://www.threatlocker.com/
   level: Platinum
+- name: NBCUniversal
+  logo: logo-GOLD-NBCUniversal.jpg
+  url: http://nbcuniversal.com
+  level: Gold
