@@ -18,7 +18,27 @@
   logo: logo-PLAT-ThreatLocker.png
   url: https://www.threatlocker.com/
   level: Platinum
+- name: White Knight Labs
+  logo: logo-PLAT-WhiteKnightLabs.svg
+  url: https://whiteknightlabs.com/
+  level: Platinum
+- name: Lockheed Martin
+  logo: logo-PLAT-Lockheed.png
+  url: https://lockheedmartin.com/
+  level: Platinum
 - name: NBCUniversal
   logo: logo-GOLD-NBCUniversal.jpg
   url: http://nbcuniversal.com
   level: Gold
+- name: Dark Wolf Solutions
+  logo: logo-GOLD-DarkWolf-official.png
+  url: https://darkwolfsolutions.com/
+  level: Gold
+- name: Oligo Security
+  logo: logo-GOLD-Oligo.svg
+  url: https://www.oligo.security/
+  level: Gold
+- name: WISP 
+  logo: logo-COMMUNITY-WISP.png
+  url: https://www.wisporg.com/
+  level: Community Partners
