@@ -22,3 +22,19 @@
   logo: logo-GOLD-NBCUniversal.jpg
   url: http://nbcuniversal.com
   level: Gold
+- name: White Knight Labs
+  logo: logo-PLAT-WhiteKnightLabs.png
+  url: https://whiteknightlabs.com
+  level: Platinum
+- name: Lockheed Martin
+  logo: logo-PLAT-lockheed.png
+  url: https://lockheedmartin.com
+  level: Platinum
+- name: Dark Wolf Solutions
+  logo: logo-GOLD-DarkWolf-official.png
+  url: https://darkwolfsolutions.com
+  level: Gold
+- name: Oligo Security
+  logo: logo-GOLD-Oligo.png
+  url: https://oligo.security
+  level: Gold
