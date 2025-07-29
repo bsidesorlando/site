@@ -38,7 +38,15 @@
   logo: logo-GOLD-Oligo.svg
   url: https://www.oligo.security/
   level: Gold
+- name: Breacher.ai
+  logo: logo-BRONZE-BreacherAI.png
+  url: https://breacher.ai/
+  level: Bronze
 - name: WISP 
   logo: logo-COMMUNITY-WISP.png
   url: https://www.wisporg.com/
+  level: Community Partners
+- name: DC407 
+  logo: logo-COMMUNITY-DC407.png
+  url: https://dc407.com/
   level: Community Partners
