@@ -5,9 +5,7 @@ permalink: /speakers/
 ---
 
 # BSides Orlando 2025 Speakers
-## Become one of our Speakers! Our Call for Papers is open! 
+## Call for Papers is Closed!
 
-Want to become a Speaker at BSides Orlando 2025? Our [Call for Sessions](https://sessionize.com/bsides-orlando-2025) is open now! More information about what to expect is available here: [https://sessionize.com/bsides-orlando-2025](https://sessionize.com/bsides-orlando-2025).
+We've closed our CFP and are reviewing the talks submitted. Notifications on if your talk was accepted will be sent out starting August 1st.
 
-**Note:** Speaker CFP form closes July 18th so get your submissions in soon!
-{: .notice--warning}
