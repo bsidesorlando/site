@@ -4,6 +4,8 @@ main:
     url: /schedule/
   - title: "Workshops"
     url: /workshops/
+  - title: "Register"
+    url: https://www.eventbrite.com/e/security-bsides-orlando-2025-conference-tickets-1497767435719
   - title: "Activities"
     url: /event/
   - title: "Sponsors"
