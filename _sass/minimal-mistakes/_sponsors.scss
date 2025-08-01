@@ -9,6 +9,7 @@
   display: grid;
   grid-template-columns: repeat(2, 1fr); /* 2 per row */
   gap: 20px;
+  align-items:center;
 }
 
 .diamond > .grid  > .sponsor-card > img {
@@ -19,6 +20,7 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr); /* 3 per row */
   gap: 20px;
+  align-items:center;
 }
 
 .platinum > .grid  > .sponsor-card > img {
@@ -29,6 +31,7 @@
   display: grid;
   grid-template-columns: repeat(4, 1fr); /* 4 per row */
   gap: 20px;
+  align-items:center;
 }
 
 .gold > .grid  > .sponsor-card > img {
@@ -39,6 +42,7 @@
   display: grid;
   grid-template-columns: repeat(4, 1fr); /* 4 per row */
   gap: 20px;
+  align-items:center;
 }
 
 .silver > .grid  > .sponsor-card > img {
@@ -47,22 +51,27 @@
 
 .bronze .grid {
   display: grid;
-  grid-template-columns: repeat(5, 1fr); /* 5 per row */
+  grid-template-columns: repeat(4, 1fr); /* 4 per row */
   gap: 20px;
   padding: 20px; /* Spacing between rows */
+  align-items:center;
 }
 
 .bronze > .grid  > .sponsor-card > img {
-  max-width: 20%;
+  max-width: 25%;
 }
 
 .community-partners .grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr); /* 4 per row */
+  grid-template-columns: repeat(5, 1fr); /* 5 per row */
   gap: 20px;
+  align-items:center;
 }
 
-/* Responsive adjustments */
+.community-partners > .grid  > .sponsor-card > img {
+  max-width: 20%;
+}
+
 /* Responsive adjustments */
 @media (max-width: 768px) {
   .diamond .grid, .platinum .grid, .gold .grid, .silver .grid, .bronze .grid, .community-partners .grid {
