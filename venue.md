@@ -19,7 +19,7 @@ Full Sail Live
 
 Links take you to location and prices.
 
-*   [Best Western Orlando East](https://www.bestwestern.com/en_US/book/hotel-rooms.10346.html)
+*   [Baymont](https://www.wyndhamhotels.com/baymont/orlando-florida/baymont-orlando-east/overview)
 *   [Holiday Inn UCF](https://www.ihg.com/holidayinn/hotels/us/en/orlando/mcohs/hoteldetail)
 *   [La Quinta](https://www.wyndhamhotels.com/laquinta/orlando-florida/la-quinta-orlando-ucf/overview)
 *   [Best Western Plus UCF](https://www.bestwestern.com/en_US/book/hotel-rooms.10429.html)
@@ -51,12 +51,6 @@ If you like fish you gotta try this place.
 
 Texas BBQ - If you haven't tried them... you should!
 
-### Arooga's
-
-227 S Semoran Blvd, Winter Park, FL 32792
-
-Consistent and Variety - Great Atmosphere, Fantastic Bar Food and TV's EVERYWHERE!
-
 ### Tibby's New Orleans Kitchen
 
 2203 Aloma Ave, Winter Park, FL 32792
@@ -81,9 +75,15 @@ Friendly, Clean, Great Thai!
 
 ### Publix
 
-1501 Meeting Pl, Orlando, FL 32814
+4000 N Goldenrod Rd, Winter Park, FL 32792
 
-Located in the general area of Full Sail
+Located close by to Full Sail Live
+
+### Firehouse Subs
+
+419 S Semoran Blvd, Winter Park, FL 32792
+
+Close by and quick to grab in between talks!
 
 ### McDonald's
 On University Blvd
