@@ -29,13 +29,13 @@
 
 .gold .grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr); /* 4 per row */
+  grid-template-columns: repeat(3, 1fr); /* 3 per row */
   gap: 20px;
   align-items:center;
 }
 
 .gold > .grid  > .sponsor-card > img {
-  max-width: 25%;
+  max-width: 30%;
 }
 
 .silver .grid {
@@ -58,7 +58,7 @@
 }
 
 .bronze > .grid  > .sponsor-card > img {
-  max-width: 25%;
+  max-width: 20%;
 }
 
 .community-partners .grid {
@@ -69,7 +69,7 @@
 }
 
 .community-partners > .grid  > .sponsor-card > img {
-  max-width: 20%;
+  max-width: 15%;
 }
 
 /* Responsive adjustments */

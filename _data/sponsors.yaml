@@ -38,6 +38,10 @@
   logo: logo-GOLD-Oligo.svg
   url: https://www.oligo.security/
   level: Gold
+- name: Vibrint
+  logo: logo-GOLD-Vibrint.png
+  url: https://vibrint.com/
+  level: Gold
 - name: Breacher.ai
   logo: logo-BRONZE-BreacherAI.png
   url: https://breacher.ai/
@@ -51,6 +55,10 @@
 - name: Secure Point Solutions
   logo: logo-BRONZE-SecurePoint.png
   url: https://www.secureps.net/
+  level: Bronze
+- name: Kevtech Academy
+  logo: logo-BRONZE-KevtechAcademy.png
+  url: https://www.kevtechitsupport.com/
   level: Bronze
 - name: WISP 
   logo: logo-COMMUNITY-WISP.png
