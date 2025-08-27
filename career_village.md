@@ -7,19 +7,19 @@ permalink: /career_village/
 Need help with your resume? Looking to ace your next interview? Hoping to find top talent? The career village is the place for you. Come network with other professionals at the career village where you can get a professional headshot, have your resume reviewed, and even participate in a mock interview. Are you hiring? Post your available positions on our job board. Come find your adventure at the career village.
 
 ## Online Workshops
-In preparation for the career village, we will be hosting online workshops to help you prepare. The workshops will be via Zoom and open for all to join.
-All workshops will be at **8PM EDT**.
-* **9/25** - **<a href="https://www.youtube.com/watch?v=_lDxgwEA8QI">Networking Utilizing LinkedIn</a>** - Join as Edna Jonsson will guide you through building a professional network on LinkedIn.
-<br>  <a href="https://www.youtube.com/watch?v=_lDxgwEA8QI"><img src="{{ '/assets/images/CVPre1.png' | prepend: site.baseurl }}" alt="Networking Utilizing LinkedIn Youtube"></a>
+In preparation for the career village, we will be hosting online workshops to help you prepare. The workshops will be via Zoom and open for all to join. They last for 45 minutes to an hour and are jam packed with useful information.
+All workshops will be at **6PM EDT**.
+* **9/4** - **<a href="https://www.youtube.com/watch?v=_lDxgwEA8QI">Networking Utilizing LinkedIn</a>** - TBD
+<br>  <a href="https://www.youtube.com/watch?v=_lDxgwEA8QI"><img src="{{ '/assets/images/CVPre1.png' | prepend: site.baseurl }}" alt="TBD"></a>
 
-* **10/2** - **<a href="https://www.youtube.com/live/wZcllUtCrKs">Interviewing skills and tips</a>** - Join Steve Hannon for a session on mastering interview techniques.
- <br> <a href="https://www.youtube.com/watch?v=_lDxgwEA8QI"><img src="{{ '/assets/images/CVPre2.png' | prepend: site.baseurl }}" alt="Interviewing skills and tips"></a>
+* **9/11** - **<a href="https://www.youtube.com/live/wZcllUtCrKs">Credential Not Found: Imposter Syndrome in Cyber & How AI Is Creating New Careers in Cybersecurity</a>** - Join Steve Hannon for a session on dealing with imposter syndrome and ________ for how AI is affecting the job market.
+ <br> <a href="https://www.youtube.com/watch?v=_lDxgwEA8QI"><img src="{{ '/assets/images/CVPre2.png' | prepend: site.baseurl }}" alt="Credential Not Found: Imposter Syndrome in Cyber & How AI Is Creating New Careers in Cybersecurity"></a>
 
-* **10/9** - **<a href="https://streamyard.com/watch/rrgvmMup2w5g">Digital Portfolio Framework to Navigate the Tech Career Maze</a>** - Yesenia Yser
- <br> <a href="https://www.youtube.com/watch?v=_lDxgwEA8QI"><img src="{{ '/assets/images/CVPre3.png' | prepend: site.baseurl }}" alt="Digital Portfolio Framework to Navigate the Tech Career MazeDigital Portfolio Framework to Navigate the Tech Career Maze"></a>
+* **9/18** - **<a href="https://streamyard.com/watch/rrgvmMup2w5g">How I Weaseled My Way into Cyber: A Journey from Music to Maritime to Blue Team</a>** - Yesenia Yser
+ <br> <a href="https://www.youtube.com/watch?v=_lDxgwEA8QI"><img src="{{ '/assets/images/CVPre3.png' | prepend: site.baseurl }}" alt="How I Weaseled My Way into Cyber: A Journey from Music to Maritime to Blue Team"></a>
 
-* **10/16** - **<a href="https://streamyard.com/watch/KDXiWR6PqPPF">How to hire better</a>**: panel discussion.
-<br>  <a href="https://www.youtube.com/watch?v=_lDxgwEA8QI"><img src="{{ '/assets/images/CVPre4.png' | prepend: site.baseurl }}" alt="How to hire better"></a>
+## Hiring? We've got a spot for you too.
+We'll have a **job board** for posting open positions and a dedicated space to connect with potential hires. Bring your job openings and engage with top talent!
 
 ## How to Prepare for Your Resume Review
 * **Bring Multiple Copies:** Print several copies of your resume to share with reviewers.
@@ -36,7 +36,18 @@ All workshops will be at **8PM EDT**.
 * **List Key Questions:** Know what aspects of interviewing (e.g., answering tough questions) you want feedback on.
 * **Come with a Growth Mindset:** Be open to learning and improving from the feedback you receive.
 
+## Historic Workshops
+In preparation for the career village, we will be hosting online workshops to help you prepare. The workshops will be via Zoom and open for all to join.
+* **<a href="https://www.youtube.com/watch?v=_lDxgwEA8QI">Networking Utilizing LinkedIn</a>** - Join as Edna Jonsson will guide you through building a professional network on LinkedIn.
+<br>  <a href="https://www.youtube.com/watch?v=_lDxgwEA8QI"><img src="{{ '/assets/images/CVPre1.png' | prepend: site.baseurl }}" alt="Networking Utilizing LinkedIn Youtube"></a>
 
-## Hiring? We've got a spot for you too.
-We'll have a **job board** for posting open positions and a dedicated space to connect with potential hires. Bring your job openings and engage with top talent!
+* **<a href="https://www.youtube.com/live/wZcllUtCrKs">Interviewing skills and tips</a>** - Join Steve Hannon for a session on mastering interview techniques.
+ <br> <a href="https://www.youtube.com/watch?v=_lDxgwEA8QI"><img src="{{ '/assets/images/CVPre2.png' | prepend: site.baseurl }}" alt="Interviewing skills and tips"></a>
+
+* **<a href="https://streamyard.com/watch/rrgvmMup2w5g">Digital Portfolio Framework to Navigate the Tech Career Maze</a>** - Yesenia Yser
+ <br> <a href="https://www.youtube.com/watch?v=_lDxgwEA8QI"><img src="{{ '/assets/images/CVPre3.png' | prepend: site.baseurl }}" alt="Digital Portfolio Framework to Navigate the Tech Career MazeDigital Portfolio Framework to Navigate the Tech Career Maze"></a>
+
+* **<a href="https://streamyard.com/watch/KDXiWR6PqPPF">How to hire better</a>**: panel discussion.
+<br>  <a href="https://www.youtube.com/watch?v=_lDxgwEA8QI"><img src="{{ '/assets/images/CVPre4.png' | prepend: site.baseurl }}" alt="How to hire better"></a>
+
 
