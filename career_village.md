@@ -9,20 +9,20 @@ Need help with your resume? Looking to ace your next interview? Hoping to find t
 Hello, can we get the anchor link #online-workshops on  /career_village updated with the following:
 
 **Career Village Pre-Show**
-*Get ready to level up your cybersecurity career before the big event!*
+<br>*Get ready to level up your cybersecurity career before the big event!*
 
 The Career Village Pre-Show is a free online series designed to help you navigate the job-hunting landscape with confidence. Whether you’re a student, a career changer, or a seasoned pro exploring your next step, these sessions will give you practical tools and insider knowledge.
 
 From resume-building tips to tackling imposter syndrome, and from networking hacks to landing your dream job, our speakers will guide you through it all.
 
 **Who should attend:**
-• Students and newcomers seeking their first role
-• Professionals considering a career pivot
-• Anyone looking to strengthen their cybersecurity career path
+* Students and newcomers seeking their first role
+* Professionals considering a career pivot
+* Anyone looking to strengthen their cybersecurity career path
 
 **Where & When:**
-• Online sessions leading up to the conference
-• Join virtually from anywhere!
++ Online sessions leading up to the conference
++ Join virtually from anywhere!
 
 
 __Upcoming Sessions__
