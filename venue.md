@@ -19,6 +19,7 @@ Full Sail Live
 
 Links take you to location and prices.
 
+*   [The Celeste](https://www.marriott.com/event-reservations/reservation-link.mi?id=1756325616692&key=GRP&app=resvlink) We've got a room block here so grab a room soon!
 *   [Baymont](https://www.wyndhamhotels.com/baymont/orlando-florida/baymont-orlando-east/overview)
 *   [Holiday Inn UCF](https://www.ihg.com/holidayinn/hotels/us/en/orlando/mcohs/hoteldetail)
 *   [La Quinta](https://www.wyndhamhotels.com/laquinta/orlando-florida/la-quinta-orlando-ucf/overview)
