@@ -6,17 +6,41 @@ permalink: /career_village/
 # Career Village
 Need help with your resume? Looking to ace your next interview? Hoping to find top talent? The career village is the place for you. Come network with other professionals at the career village where you can get a professional headshot, have your resume reviewed, and even participate in a mock interview. Are you hiring? Post your available positions on our job board. Come find your adventure at the career village.
 
-## Online Workshops
-In preparation for the career village, we will be hosting online workshops to help you prepare. The workshops will be via Zoom and open for all to join. They last for 45 minutes to an hour and are jam packed with useful information.
-All workshops will be at **6PM EDT**.
-* **9/4** - **Misconceptions in Cyber & How to Stand Out** - Listen to Levi Cook go over the common issues new people in the field run into.
-<br> 
+Hello, can we get the anchor link #online-workshops on  /career_village updated with the following:
 
-* **9/11** - **Credential Not Found: Imposter Syndrome in Cyber** - Join Carmen Estela for a session on dealing with imposter syndrome.
- <br>
+**Career Village Pre-Show**
+*Get ready to level up your cybersecurity career before the big event!*
 
-* **9/18** - **How I Weaseled My Way into Cyber: A Journey from Music to Maritime to Blue Team** - Join Kyle Ford working his way through life, one step at a time. 
- <br>
+The Career Village Pre-Show is a free online series designed to help you navigate the job-hunting landscape with confidence. Whether you’re a student, a career changer, or a seasoned pro exploring your next step, these sessions will give you practical tools and insider knowledge.
+
+From resume-building tips to tackling imposter syndrome, and from networking hacks to landing your dream job, our speakers will guide you through it all.
+
+**Who should attend:**
+• Students and newcomers seeking their first role
+• Professionals considering a career pivot
+• Anyone looking to strengthen their cybersecurity career path
+
+**Where & When:**
+• Online sessions leading up to the conference
+• Join virtually from anywhere!
+
+
+__Upcoming Sessions__
+
+**September 4 – 6:00 PM ET**  
+**Common Misconceptions on Starting in Cybersecurity & How You Can Stand Out**  
+*Speaker: Levi Cook | 45 min*  
+An overview of common misconceptions about entering cybersecurity, with guidance on how to stand out when breaking into the field.
+
+**September 11 – 6:00 PM ET**  
+**Credential Not Found: Imposter Syndrome in Cyber**  
+*Speaker: Carmen Estela | 25 min*  
+Think you don’t belong in cyber? You’re not alone. This talk breaks down imposter syndrome, why it thrives in infosec, and how to outsmart it with real strategies and mindset shifts.
+
+**September 18 – 6:00 PM ET**  
+**How I Weaseled My Way into Cyber: A Journey from Music to Maritime to Blue Team**  
+*Speaker: Kyle Ford | 45 min*  
+Breaking into cybersecurity can feel daunting without a traditional technical background. This talk highlights how nontraditional paths can provide valuable skills and perspectives for success in cybersecurity.
 
 ## Hiring? We've got a spot for you too.
 We'll have a **job board** for posting open positions and a dedicated space to connect with potential hires. Bring your job openings and engage with top talent!
@@ -35,19 +59,3 @@ We'll have a **job board** for posting open positions and a dedicated space to c
 * **Prepare Your Elevator Pitch:** Be ready to introduce yourself concisely.
 * **List Key Questions:** Know what aspects of interviewing (e.g., answering tough questions) you want feedback on.
 * **Come with a Growth Mindset:** Be open to learning and improving from the feedback you receive.
-
-## Historic Workshops
-In preparation for the career village, we will be hosting online workshops to help you prepare. The workshops will be via Zoom and open for all to join.
-* **<a href="https://www.youtube.com/watch?v=_lDxgwEA8QI">Networking Utilizing LinkedIn</a>** - Join as Edna Jonsson will guide you through building a professional network on LinkedIn.
-<br>  <a href="https://www.youtube.com/watch?v=_lDxgwEA8QI"><img src="{{ '/assets/images/CVPre1.png' | prepend: site.baseurl }}" alt="Networking Utilizing LinkedIn Youtube"></a>
-
-* **<a href="https://www.youtube.com/live/wZcllUtCrKs">Interviewing skills and tips</a>** - Join Steve Hannon for a session on mastering interview techniques.
- <br> <a href="https://www.youtube.com/watch?v=_lDxgwEA8QI"><img src="{{ '/assets/images/CVPre2.png' | prepend: site.baseurl }}" alt="Interviewing skills and tips"></a>
-
-* **<a href="https://streamyard.com/watch/rrgvmMup2w5g">Digital Portfolio Framework to Navigate the Tech Career Maze</a>** - Yesenia Yser
- <br> <a href="https://www.youtube.com/watch?v=_lDxgwEA8QI"><img src="{{ '/assets/images/CVPre3.png' | prepend: site.baseurl }}" alt="Digital Portfolio Framework to Navigate the Tech Career MazeDigital Portfolio Framework to Navigate the Tech Career Maze"></a>
-
-* **<a href="https://streamyard.com/watch/KDXiWR6PqPPF">How to hire better</a>**: panel discussion.
-<br>  <a href="https://www.youtube.com/watch?v=_lDxgwEA8QI"><img src="{{ '/assets/images/CVPre4.png' | prepend: site.baseurl }}" alt="How to hire better"></a>
-
-
