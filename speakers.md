@@ -5,7 +5,7 @@ permalink: /speakers/
 ---
 
 # BSides Orlando 2025 Speakers
-## Call for Papers is Closed!
 
-We've closed our CFP and are reviewing the talks submitted. Notifications on if your talk was accepted will be sent out starting August 1st.
+These are our wonderful speakers, please give them all a hand!
 
+<script type="text/javascript" src="https://sessionize.com/api/v2/orfms5ds/view/SpeakerWall"></script>
