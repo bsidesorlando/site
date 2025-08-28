@@ -6,8 +6,6 @@ permalink: /career_village/
 # Career Village
 Need help with your resume? Looking to ace your next interview? Hoping to find top talent? The career village is the place for you. Come network with other professionals at the career village where you can get a professional headshot, have your resume reviewed, and even participate in a mock interview. Are you hiring? Post your available positions on our job board. Come find your adventure at the career village.
 
-Hello, can we get the anchor link #online-workshops on  /career_village updated with the following:
-
 **Career Village Pre-Show**
 <br>*Get ready to level up your cybersecurity career before the big event!*
 
@@ -29,17 +27,17 @@ __Upcoming Sessions__
 
 **September 4 – 6:00 PM ET**  
 **Common Misconceptions on Starting in Cybersecurity & How You Can Stand Out**  
-*Speaker: Levi Cook | 45 min*  
+*Speaker: Levi Cook *  
 An overview of common misconceptions about entering cybersecurity, with guidance on how to stand out when breaking into the field.
 
 **September 11 – 6:00 PM ET**  
 **Credential Not Found: Imposter Syndrome in Cyber**  
-*Speaker: Carmen Estela | 25 min*  
+*Speaker: Carmen Estela*  
 Think you don’t belong in cyber? You’re not alone. This talk breaks down imposter syndrome, why it thrives in infosec, and how to outsmart it with real strategies and mindset shifts.
 
 **September 18 – 6:00 PM ET**  
 **How I Weaseled My Way into Cyber: A Journey from Music to Maritime to Blue Team**  
-*Speaker: Kyle Ford | 45 min*  
+*Speaker: Kyle Ford*  
 Breaking into cybersecurity can feel daunting without a traditional technical background. This talk highlights how nontraditional paths can provide valuable skills and perspectives for success in cybersecurity.
 
 ## Hiring? We've got a spot for you too.
