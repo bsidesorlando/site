@@ -9,14 +9,14 @@ Need help with your resume? Looking to ace your next interview? Hoping to find t
 ## Online Workshops
 In preparation for the career village, we will be hosting online workshops to help you prepare. The workshops will be via Zoom and open for all to join. They last for 45 minutes to an hour and are jam packed with useful information.
 All workshops will be at **6PM EDT**.
-* **9/4** - **<a href="https://www.youtube.com/watch?v=_lDxgwEA8QI">Networking Utilizing LinkedIn</a>** - TBD
-<br>  <a href="https://www.youtube.com/watch?v=_lDxgwEA8QI"><img src="{{ '/assets/images/CVPre1.png' | prepend: site.baseurl }}" alt="TBD"></a>
+* **9/4** - **Misconceptions in Cyber & How to Stand Out** - Listen to Levi Cook go over the common issues new people in the field run into.
+<br> 
 
-* **9/11** - **<a href="https://www.youtube.com/live/wZcllUtCrKs">Credential Not Found: Imposter Syndrome in Cyber & How AI Is Creating New Careers in Cybersecurity</a>** - Join Steve Hannon for a session on dealing with imposter syndrome and ________ for how AI is affecting the job market.
- <br> <a href="https://www.youtube.com/watch?v=_lDxgwEA8QI"><img src="{{ '/assets/images/CVPre2.png' | prepend: site.baseurl }}" alt="Credential Not Found: Imposter Syndrome in Cyber & How AI Is Creating New Careers in Cybersecurity"></a>
+* **9/11** - **Credential Not Found: Imposter Syndrome in Cyber** - Join Carmen Estela for a session on dealing with imposter syndrome.
+ <br>
 
-* **9/18** - **<a href="https://streamyard.com/watch/rrgvmMup2w5g">How I Weaseled My Way into Cyber: A Journey from Music to Maritime to Blue Team</a>** - Yesenia Yser
- <br> <a href="https://www.youtube.com/watch?v=_lDxgwEA8QI"><img src="{{ '/assets/images/CVPre3.png' | prepend: site.baseurl }}" alt="How I Weaseled My Way into Cyber: A Journey from Music to Maritime to Blue Team"></a>
+* **9/18** - **How I Weaseled My Way into Cyber: A Journey from Music to Maritime to Blue Team** - Join Kyle Ford working his way through life, one step at a time. 
+ <br>
 
 ## Hiring? We've got a spot for you too.
 We'll have a **job board** for posting open positions and a dedicated space to connect with potential hires. Bring your job openings and engage with top talent!
