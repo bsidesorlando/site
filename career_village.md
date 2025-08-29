@@ -27,7 +27,7 @@ __Upcoming Sessions__
 
 **September 4 – 6:00 PM ET**  
 **Common Misconceptions on Starting in Cybersecurity & How You Can Stand Out**  
-*Speaker: Levi Cook *  
+*Speaker: Levi Cook*  
 An overview of common misconceptions about entering cybersecurity, with guidance on how to stand out when breaking into the field.
 
 **September 11 – 6:00 PM ET**  
