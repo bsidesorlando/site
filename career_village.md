@@ -34,6 +34,7 @@ An overview of common misconceptions about entering cybersecurity, with guidance
 **Credential Not Found: Imposter Syndrome in Cyber**  
 *Speaker: Carmen Estela*  
 Think you don’t belong in cyber? You’re not alone. This talk breaks down imposter syndrome, why it thrives in infosec, and how to outsmart it with real strategies and mindset shifts.
+
 **How AI Is Creating New Careers in Cybersecurity**  
 *Speaker: Francesca Sala*  
 A beginner-friendly overview of how AI is reshaping security roles and creating new career paths across the industry.
