@@ -35,6 +35,10 @@ An overview of common misconceptions about entering cybersecurity, with guidance
 *Speaker: Carmen Estela*  
 Think you don’t belong in cyber? You’re not alone. This talk breaks down imposter syndrome, why it thrives in infosec, and how to outsmart it with real strategies and mindset shifts.
 
+**How AI Is Creating New Careers in Cybersecurity**  
+*Speaker: Francesca Sala*  
+A beginner-friendly overview of how AI is reshaping security roles and creating new career paths across the industry.
+
 **September 18 – 6:00 PM ET**  
 **How I Weaseled My Way into Cyber: A Journey from Music to Maritime to Blue Team**  
 *Speaker: Kyle Ford*  
