@@ -7,10 +7,7 @@ permalink: /participate/
 # Participate
 
 ## Volunteer at BSides Orlando
-We're excited you want to join the BSides Orlando Family!
+We're excited you want to join the BSides Orlando Family! Unfortunately at this time we've already filled all volunteer slots for the year!
 
-Join the <a href="https://discord.gg/rQQxBqr9FM" target="_blank" rel="noopener noreferrer">Orlando Bsides Discord</a> and fill out this <a href="https://forms.gle/KvKFADU8aNkoVrbZ6" target="_blank" rel="noopener noreferrer">form</a>, and congratulations, you're now a Volunteer!
+Those interested in helping out are still encouraged to join the <a href="https://discord.gg/rQQxBqr9FM" target="_blank" rel="noopener noreferrer">Orlando Bsides Discord</a> and those willing to help out next year can sign up through this  <a href="https://forms.gle/7awwaAxxAZHx2Qw4A" target="_blank" rel="noopener noreferrer">form</a> to be informed about next years availability early.
 
-We're going to need people skilled in anything from soldering to checking people in, whatever your skill level or knowledge in this space, we've got a spot for you to help! 
-
-Plus you get free entry so come and join in!
