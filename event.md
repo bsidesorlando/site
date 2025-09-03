@@ -18,8 +18,8 @@ We develop and renew content for each year, but we offer a core set of activitie
 
     SunshineCTF is an online competition that’s open to anyone, though some prizes (TBD) may only be given to the top-ranked in-person team(s) during the BSides Orlando closing ceremony.
 
-    Registration is hosted at <a href="https://sunshinectf.org/">https://sunshinectf.org/</a>, and you can check out last year's event on
-    <a href="https://ctftime.org/event/1629 ">https://ctftime.org/event/1629 </a>
+    Registration is hosted at <a href="https://sunshinectf.org/">https://sunshinectf.org/</a>, and you can check out the event on
+    <a href="https://ctftime.org/event/2863 ">https://ctftime.org/event/2863 </a>
     </td>
 </table>
 
