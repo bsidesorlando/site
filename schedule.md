@@ -6,7 +6,10 @@ permalink: /schedule/
 
 # BSides Orlando 2025 Conference Schedule
 
-No schedule released yet, come back soon!
+<script type="text/javascript" src="https://sessionize.com/api/v2/u075vbmm/view/GridSmart"></script>
+
+_Schedule subject to change, updates will be posted here and at the conference._
+{: .text-center}
 
 **Looking for Friday's pre-conference workshop schedule? [Get more information and pre-register here](/workshops.md)**  
 _NOTE: Pre-conference workshops require separate pre-registration from the conference._
