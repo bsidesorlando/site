@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: BSides Orlando 2025 After Party
-permalink: /sponsors/
+permalink: /after_party/
 ---
 
 # After Party!
