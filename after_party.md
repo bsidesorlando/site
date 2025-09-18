@@ -34,6 +34,8 @@ permalink: /after_party/
 
 ### Where
 > The Celeste Hotel on UCF Campus, Celeste Ballroom, 4105 N Alafaya Trail, Orlando FL, 32826, United States
+> <img width="1916" height="859" alt="BSORL2AfterParty" src="https://github.com/user-attachments/assets/20d0f500-ace7-49b6-8576-e2864469162d" />
+
 
 ### Why
 > To have fun? To meet awesome people? The real question is, why not?
