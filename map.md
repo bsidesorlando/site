@@ -6,8 +6,8 @@ permalink: /map/
 
 # Star Map
 
-Welcome Astrial Travellers to the Stars! I've asked my minions to to make a map of the conference. Not for me, I never lose my self among the Stars... 
+Welcome Astral Travelers to the Stars! I've asked my minions to make a map of the conference. Not for me, I never lose my self among the Stars...
 
-*- Ypmohc, Astrial Traveller*
+*- Ypmohc, Astral Traveler, Tester of Pens*
 
 <object data="/assets/files/Map2025.pdf" width="1000" height="1000" type='application/pdf'></object>
