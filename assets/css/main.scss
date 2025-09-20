@@ -8,6 +8,80 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+// Masthead dropdown navigation enhancements
+.masthead {
+  z-index: 999; // ensure dropdown shows above page content
+  .greedy-nav {
+    overflow: visible; // allow dropdown to escape nav container
+    // allow dropdowns to escape the main link row
+    .visible-links { overflow: visible; }
+    .visible-links > li.has-subnav { position: relative; }
+    .dropdown-toggle { cursor: pointer; }
+    .dropdown-toggle::after {
+      content: "\25BE"; // down-pointing small triangle
+      display: inline-block;
+      margin-left: 0.35rem;
+      font-size: 0.7em;
+      line-height: 1;
+      transition: transform 0.18s ease;
+    }
+
+    // Base dropdown panel
+    .subnav {
+      position: absolute;
+      left: 0;
+      top: 100%;
+      min-width: 220px;
+      background: #fff;
+      border: 1px solid $border-color;
+      border-radius: 10px;
+      box-shadow: 0 10px 24px rgba(0,0,0,0.12);
+      padding: 0.35rem 0.35rem;
+      display: none;
+      z-index: 1001;
+    }
+
+    .subnav .masthead__menu-item a {
+      display: block;
+      padding: 0.45rem 0.6rem;
+      border-radius: 8px;
+      color: $text-color;
+      text-decoration: none;
+      white-space: nowrap;
+    }
+
+    .subnav .masthead__menu-item a:hover { background: mix($primary-color, #fff, 12%); }
+
+    // Show on hover and keyboard focus
+    .visible-links > li.has-subnav:hover > .subnav,
+    .visible-links > li.has-subnav:focus-within > .subnav,
+    .visible-links > li.has-subnav.open > .subnav { display: block !important; }
+
+    // When closed via click while still hovering, temporarily suppress hover-open
+    .visible-links > li.has-subnav.suppress-hover:hover > .subnav,
+    .visible-links > li.has-subnav.suppress-hover:focus-within > .subnav { display: none !important; }
+
+    // Rotate caret when open
+    .visible-links > li.has-subnav.open > .dropdown-toggle::after {
+      transform: rotate(180deg);
+    }
+
+    // Behavior inside the hidden overflow menu: make it static/stacked
+    .hidden-links .has-subnav { position: static; }
+    .hidden-links .has-subnav > .subnav {
+      position: static;
+      display: block; // always visible when inside the hidden stack
+      box-shadow: none;
+      border: 0;
+      padding: 0.25rem 0 0.35rem 0.5rem;
+      background: transparent;
+      border-left: 2px solid mix($primary-color, #ddd, 40%);
+      margin-left: 0.25rem;
+    }
+    .hidden-links .has-subnav > .subnav .masthead__menu-item a { padding: 0.3rem 0.4rem; }
+  }
+}
+
 // Grins page custom styles
 .grins-page {
   // Feature cards
@@ -467,20 +541,21 @@ search: false
 .after-party-page {
   .event-card.venue-map {
     padding: 0;
-    width: 100vw;
-    max-width: 100vw;
-    margin-left: calc(50% - 50vw);
-    margin-right: calc(50% - 50vw);
-    border: 0;
-    border-radius: 0;
-    box-shadow: none;
+    width: auto;
+    max-width: 1200px; // confine within content width and add side margins
+    margin-left: auto;
+    margin-right: auto;
+    // restore standard card chrome so it sits nicely within the page
+    border: 1px solid $border-color;
+    border-radius: 14px;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.06);
   }
   .event-card.venue-map img {
     display: block;
     width: 100%;
     max-width: 100%;
     height: auto;
-    max-height: none; // allow full-width image to determine height
+    max-height: none; // keep natural height; container now provides margins
   }
   .event-card.venue-map .event-content {
     padding: 1rem 1rem 1.25rem;

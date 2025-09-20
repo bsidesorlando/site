@@ -1,32 +1,42 @@
 # main links
 main:
-  - title: "Schedule"
-    url: /schedule/
-  - title: "Workshops"
-    url: /workshops/
-  - title: "Map"
-    url: /map/
-  - title: "Register"
-    url: https://www.eventbrite.com/e/security-bsides-orlando-2025-conference-tickets-1497767435719
-  - title: "Activities"
-    url: /event/
-  - title: "Note From Chompy"
-    url: /after_party/
+  - title: "Attend"
+    children:
+      - title: "Register"
+        url: https://www.eventbrite.com/e/security-bsides-orlando-2025-conference-tickets-1497767435719
+      - title: "Schedule"
+        url: /schedule/
+      - title: "Workshops"
+        url: /workshops/
+      - title: "Speakers"
+        url: /speakers/
+      - title: "Venue Info"
+        url: /venue/
+      - title: "Map"
+        url: /map/
+      - title: "Policies"
+        url: /policies/
+  - title: "Explore"
+    children:
+      - title: "Activities"
+        url: /event/
+      - title: "Career Village"
+        url: /career_village/
+      - title: "Social Engineering Adventure"
+        url: /se_village/
+      - title: "PreShow"
+        url: /preshow/
+      - title: "After Party"
+        url: /after_party/
+  - title: "Get Involved"
+    children:
+      - title: "Join Us"
+        url: /participate/
   - title: "Sponsors"
     url: /sponsors/
-  - title: "Speakers"
-    url: /speakers/
-  - title: "Join Us"
-    url: /participate/
-  - title: "Venue Info"
-    url: /venue/
-  - title: "Policies"
-    url: /policies/
   - title: "About"
     url: /about/
   - title: "Past Events"
     url: /past_events/
-  - title: "PreShow"
-    url: /preshow/
 #  - title: "Community Patrons"
 #    url: /grins/
