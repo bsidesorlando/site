@@ -28,3 +28,5 @@ main:
     url: /past_events/
   - title: "PreShow"
     url: /preshow/
+#  - title: "Community Patrons"
+#    url: /grins/

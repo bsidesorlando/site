@@ -2,59 +2,49 @@
 layout: splash
 title: Event
 permalink: /event/
+classes: event-page
 ---
 # Event Activities
 We develop and renew content for each year, but we offer a core set of activities to participate in BSides Orlando.
 
 ## Sunshine Capture the Flag (CTF)
-<table style="width:100%">
-    <td style="width:30%">
-
-      <img src="{{ '/assets/images/ctf.png' | prepend: site.baseurl }}" alt="Capture the Flag">
-
-      </td>
-    <td>
-    SunshineCTF is back for its 10th year in conjunction with BSides Orlando 2025 and hosted by current and former members of Hack@UCF. This year’s competition will include categories like pwn, reverse engineering, web, crypto, scripting, and something special!
-
-    SunshineCTF is an online competition that’s open to anyone, though some prizes (TBD) may only be given to the top-ranked in-person team(s) during the BSides Orlando closing ceremony.
-
-    Registration is hosted at <a href="https://sunshinectf.org/">https://sunshinectf.org/</a>, and you can check out the event on
-    <a href="https://ctftime.org/event/2863 ">https://ctftime.org/event/2863 </a>
-    </td>
-</table>
+<div class="event-card">
+  <img src="{{ '/assets/images/ctf.png' | prepend: site.baseurl }}" alt="Capture the Flag">
+  <div class="event-content">
+    <p>SunshineCTF is back for its 10th year in conjunction with BSides Orlando 2025 and hosted by current and former members of Hack@UCF. This year’s competition will include categories like pwn, reverse engineering, web, crypto, scripting, and something special!</p>
+    <p>SunshineCTF is an online competition that’s open to anyone, though some prizes (TBD) may only be given to the top-ranked in-person team(s) during the BSides Orlando closing ceremony.</p>
+    <p>Registration is hosted at <a href="https://sunshinectf.org/" target="_blank" rel="noopener">https://sunshinectf.org/</a>, and you can check out the event on
+    <a href="https://ctftime.org/event/2863" target="_blank" rel="noopener">https://ctftime.org/event/2863</a></p>
+  </div>
+  
+</div>
 
 ## Sponsor Village
-<table style="width:100%">
-    <td style="width:30%">
-
-      <img src="{{ '/assets/images/sponsor.png' | prepend: site.baseurl }}" alt="Sponsor Village">
-      </td>
-    <td>
-    Check out our Sponsor Village to engage with the organizations that made this possible!
-    </td>
-</table>
+<div class="event-card">
+  <img src="{{ '/assets/images/sponsor.png' | prepend: site.baseurl }}" alt="Sponsor Village">
+  <div class="event-content">
+    <p>Check out our Sponsor Village to engage with the organizations that made this possible!</p>
+  </div>
+  
+</div>
 
 ## Lockpick Village (LPV)
-<table style="width:100%">
-    <td style="width:30%">
-
-      <img src="{{ '/assets/images/lpv.png' | prepend: site.baseurl }}" alt="Lockpick Village">
-      </td>
-    <td>
-      The Lockpick Village is a physical security demonstration and participation area. Visitors can learn about the vulnerabilities of various locking devices, and techniques used to exploit them, and practice locks of various difficulty levels to try themselves. By exploring the faults and flaws in many popular lock designs, you can not only learn about the fun hobby of sportpicking, but also gain much stronger knowledge about the best methods and practices for protecting your own property.
-    </td>
-</table>
+<div class="event-card">
+  <img src="{{ '/assets/images/lpv.png' | prepend: site.baseurl }}" alt="Lockpick Village">
+  <div class="event-content">
+    <p>The Lockpick Village is a physical security demonstration and participation area. Visitors can learn about the vulnerabilities of various locking devices, and techniques used to exploit them, and practice locks of various difficulty levels to try themselves. By exploring the faults and flaws in many popular lock designs, you can not only learn about the fun hobby of sportpicking, but also gain much stronger knowledge about the best methods and practices for protecting your own property.</p>
+  </div>
+  
+</div>
 
 ## Soldering Village
-<table style="width:100%">
-    <td style="width:30%">
-
-      <img src="{{ '/assets/images/soldering.png' | prepend: site.baseurl }}" alt="Soldering Village">
-      </td>
-    <td>
-      Hone your skills and assemble your badge in our soldering village. This village is a great opportunity for beginners to get started with soldering. Never soldered before? No worries, we have staff available to assist you whether you're looking to learn a new skill or to improve your existing knowledge.
-    </td>
-</table>
+<div class="event-card">
+  <img src="{{ '/assets/images/soldering.png' | prepend: site.baseurl }}" alt="Soldering Village">
+  <div class="event-content">
+    <p>Hone your skills and assemble your badge in our soldering village. This village is a great opportunity for beginners to get started with soldering. Never soldered before? No worries, we have staff available to assist you whether you're looking to learn a new skill or to improve your existing knowledge.</p>
+  </div>
+  
+</div>
 
 ## Information and Swag
 You’ve got questions, we’ve got answers in this space. After the success of last year we split the registration and swag lines to expedite entrance into the conference. Swag includes items from our fabulous sponsor and a sticker sheet themed for this year. Recycle and Upcycle your stickers or collect new ones! This area is available to drop off or pick up stickers.

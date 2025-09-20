@@ -2,11 +2,22 @@
 layout: splash
 title: Participate
 permalink: /participate/
+classes: participate-page
 ---
 
 # Participate
 
-## Volunteer at BSides Orlando
-We're excited you want to join the BSides Orlando Family! Those interested in helping out are encouraged to join the <a href="https://discord.gg/rQQxBqr9FM" target="_blank" rel="noopener noreferrer">Orlando Bsides Discord</a> and  sign up through this  <a href="https://forms.gle/7awwaAxxAZHx2Qw4A" target="_blank" rel="noopener noreferrer">form</a> to be informed about our volunteer needs.
+<div class="cta-grid">
+  <section class="cta-card">
+    <h2>Volunteer at BSides Orlando</h2>
+    <p>We’re excited you want to join the BSides Orlando family! Sign up to be informed about volunteer needs and shifts.</p>
+    <p><a class="btn btn--primary" href="https://forms.gle/7awwaAxxAZHx2Qw4A" target="_blank" rel="noopener noreferrer">Volunteer Sign‑Up Form</a></p>
+    <p class="text-small">Roles include event prep (Fri, Sept 26) and on‑site support (Sat, Sept 27): soldering, registration, after party, and more.</p>
+  </section>
 
-Several slots are available to do general event prep on Friday, September 26th, as well as soldering roles, registration roles, afterparty roles (and more!) on Saturday, September 27th! Additional sign up details will be shared via Discord or email once the above form is completed.  
+  <section class="cta-card">
+    <h2>Join Our Community</h2>
+    <p>Stay up to date on announcements and coordination by joining our Discord.</p>
+    <p><a class="btn" href="https://discord.gg/rQQxBqr9FM" target="_blank" rel="noopener noreferrer">Join the Orlando BSides Discord</a></p>
+  </section>
+</div>

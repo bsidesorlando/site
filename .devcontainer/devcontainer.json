@@ -1,0 +1,38 @@
+{
+  "name": "BSides Orlando Jekyll",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": ".."
+  },
+  "remoteUser": "vscode",
+  "features": {
+    "ghcr.io/devcontainers/features/node:1": {
+      "version": "20"
+    }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "Shopify.ruby-lsp",
+        "rebornix.Ruby",
+        "EditorConfig.EditorConfig",
+        "GitHub.vscode-github-actions"
+      ]
+    }
+  },
+  "containerEnv": {
+    "JEKYLL_ENV": "development",
+    "BUNDLE_PATH": "/usr/local/bundle"
+  },
+  "mounts": [
+    "type=volume,source=jekyll-bundle,target=/usr/local/bundle"
+  ],
+  "runArgs": ["-p", "4000:4000", "-p", "35729:35729"],
+  "forwardPorts": [4000, 35729],
+  "portsAttributes": {
+    "4000": { "label": "Jekyll", "onAutoForward": "openBrowser" },
+    "35729": { "label": "LiveReload", "onAutoForward": "silent" }
+  },
+  "overrideCommand": false
+}
+
