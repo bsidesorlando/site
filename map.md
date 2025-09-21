@@ -7,9 +7,9 @@ classes: map-page
 
 # Star Map
 
-Welcome Astrial Travellers to the Stars! I've asked my minions to to make a map of the conference. Not for me, I never lose my self among the Stars... 
+Welcome Astral Travelers to the Stars! I've asked my minions to make a map of the conference. Not for me, I never lose my self among the Stars...
 
-*- Ypmohc, Astrial Traveller*
+*- Ypmohc, Astral Traveler, Tester of Pens*
 
 <div class="map-embed">
   <img src="/assets/images/map2025.png" alt="Conference map" />
