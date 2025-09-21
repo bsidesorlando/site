@@ -58,7 +58,6 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
     steps:
@@ -68,3 +67,7 @@ jobs:
         with:
           # Enable preview deployments for PRs; production on main
           preview: ${{ github.event_name == 'pull_request' }}
+      - name: Output deployment URL
+        if: always()
+        run: |
+          echo "GitHub Pages URL: ${{ steps.deployment.outputs.page_url }}" >> "$GITHUB_STEP_SUMMARY"
