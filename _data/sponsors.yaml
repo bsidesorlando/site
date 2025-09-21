@@ -6,10 +6,12 @@
   logo: logo-DIAMOND-AdventHealth.png
   url: https://www.adventhealth.com/
   level: Diamond
+  scale: .8
 - name: Full Sail University
   logo: logo-DIAMOND-FullSail.png
   url: https://www.fullsail.edu/
   level: Diamond
+  scale: 1.3
 - name: ICR
   logo: logo-GOLD-ICR.png
   url: https://icr-team.com
@@ -18,6 +20,7 @@
   logo: logo-PLAT-ThreatLocker.png
   url: https://www.threatlocker.com/
   level: Platinum
+  scale: 1
 - name: White Knight Labs
   logo: logo-PLAT-WhiteKnightLabs.svg
   url: https://whiteknightlabs.com/
@@ -26,6 +29,7 @@
   logo: logo-PLAT-Lockheed.png
   url: https://lockheedmartin.com/
   level: Platinum
+  scale: 1.1
 - name: NBCUniversal
   logo: logo-GOLD-NBCUniversal.jpg
   url: http://nbcuniversal.com
@@ -38,10 +42,12 @@
   logo: logo-GOLD-Oligo.svg
   url: https://www.oligo.security/
   level: Gold
+  scale: .8
 - name: Vibrint
   logo: logo-GOLD-Vibrint.png
   url: https://vibrint.com/
   level: Gold
+  scale: .9
 - name: Breacher.ai
   logo: logo-BRONZE-BreacherAI.png
   url: https://breacher.ai/
@@ -51,11 +57,14 @@
   logo: logo-BRONZE-LutherLanard.png
   url: https://franchiseelawyer.com/business-law/
   level: Bronze
+  scale: 1.1
 ### DO NOT REMOVE Luther before Aug 1, 2026 ###
 - name: Secure Point Solutions
   logo: logo-BRONZE-SecurePoint.png
   url: https://www.secureps.net/
   level: Bronze
+  scale: 1.5
+
 - name: Kevtech Academy
   logo: logo-BRONZE-KevtechAcademy.png
   url: https://www.kevtechitsupport.com/
@@ -76,6 +85,7 @@
   logo: logo-SILVER-BHIS.png
   url: https://www.blackhillsinfosec.com/
   level: Silver
+  scale: 1.5
 - name: Orlando Health
   logo: logo-BRONZE-Orlando Health.jpg
   level: Bronze
@@ -92,6 +102,7 @@
   logo: logo-PLAT-GuidePoint.png
   level: Platinum
   url: https://www.guidepointsecurity.com
+  scale: 1.4
 - name: HackCFL
   logo: logo-COMMUNITY-HackCFL.png
   level: Community Partners
@@ -100,6 +111,7 @@
   logo: logo-SILVER-G-Research.png
   level: Silver
   url: https://www.gresearch.com
+  scale: 2
 - name: HackerHaus Security Solutions
   logo: logo-BRONZE-HackerHaus.png
   level: Bronze

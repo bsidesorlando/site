@@ -7,3 +7,606 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// Masthead dropdown navigation enhancements
+.masthead {
+  z-index: 999; // ensure dropdown shows above page content
+  .greedy-nav {
+    overflow: visible; // allow dropdown to escape nav container
+    // allow dropdowns to escape the main link row
+    .visible-links { overflow: visible; }
+    .visible-links > li.has-subnav { position: relative; }
+    .dropdown-toggle { cursor: pointer; }
+    .dropdown-toggle::after {
+      content: "\25BE"; // down-pointing small triangle
+      display: inline-block;
+      margin-left: 0.35rem;
+      font-size: 0.7em;
+      line-height: 1;
+      transition: transform 0.18s ease;
+    }
+
+    // Base dropdown panel
+    .subnav {
+      position: absolute;
+      left: 0;
+      top: 100%;
+      min-width: 220px;
+      background: #fff;
+      border: 1px solid $border-color;
+      border-radius: 10px;
+      box-shadow: 0 10px 24px rgba(0,0,0,0.12);
+      padding: 0.35rem 0.35rem;
+      display: none;
+      z-index: 1001;
+    }
+
+    .subnav .masthead__menu-item a {
+      display: block;
+      padding: 0.45rem 0.6rem;
+      border-radius: 8px;
+      color: $text-color;
+      text-decoration: none;
+      white-space: nowrap;
+    }
+
+    .subnav .masthead__menu-item a:hover { background: mix($primary-color, #fff, 12%); }
+
+    // Show on hover and keyboard focus
+    .visible-links > li.has-subnav:hover > .subnav,
+    .visible-links > li.has-subnav:focus-within > .subnav,
+    .visible-links > li.has-subnav.open > .subnav { display: block !important; }
+
+    // When closed via click while still hovering, temporarily suppress hover-open
+    .visible-links > li.has-subnav.suppress-hover:hover > .subnav,
+    .visible-links > li.has-subnav.suppress-hover:focus-within > .subnav { display: none !important; }
+
+    // Rotate caret when open
+    .visible-links > li.has-subnav.open > .dropdown-toggle::after {
+      transform: rotate(180deg);
+    }
+
+    // Behavior inside the hidden overflow menu: make it static/stacked
+    .hidden-links .has-subnav { position: static; }
+    .hidden-links .has-subnav > .subnav {
+      position: static;
+      display: block; // always visible when inside the hidden stack
+      box-shadow: none;
+      border: 0;
+      padding: 0.25rem 0 0.35rem 0.5rem;
+      background: transparent;
+      border-left: 2px solid mix($primary-color, #ddd, 40%);
+      margin-left: 0.25rem;
+    }
+    .hidden-links .has-subnav > .subnav .masthead__menu-item a { padding: 0.3rem 0.4rem; }
+  }
+}
+
+// Grins page custom styles
+.grins-page {
+  // Feature cards
+  .feature__wrapper {
+    margin-top: 1rem;
+  }
+
+// Venue page styled cards and grids (appended for correct cascade)
+.venue-page {
+  .info-card {
+    background: linear-gradient(180deg, rgba(255,255,255,0.96), rgba(255,255,255,0.92));
+    border: 1px solid $border-color;
+    border-radius: 14px;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+    padding: 1rem;
+    margin: 0.5rem 0 1rem;
+  }
+  .info-card .addr { color: mix($text-color, #666, 70%); margin-bottom: 0.25rem; }
+
+  .hotel-grid,
+  .eat-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 0.75rem 1rem;
+    margin-top: 0.5rem;
+  }
+
+  .hotel-card,
+  .eat-card {
+    background: linear-gradient(180deg, rgba(255,255,255,0.98), rgba(255,255,255,0.94));
+    border: 1px solid $border-color;
+    border-radius: 12px;
+    box-shadow: 0 4px 14px rgba(0,0,0,0.06);
+    padding: 0.85rem 1rem;
+    transition: transform 0.18s ease, box-shadow 0.18s ease;
+  }
+  .hotel-card:hover,
+  .eat-card:hover { transform: translateY(-2px); box-shadow: 0 10px 24px rgba(0,0,0,0.10); }
+
+  .hotel-card a { font-weight: 700; text-decoration: none; }
+  .hotel-card a:hover { text-decoration: underline; }
+  .hotel-card .note { margin: 0.25rem 0 0; color: mix($text-color, #666, 65%); }
+
+  .eat-card h3 { margin: 0 0 0.15rem; color: $primary-color; }
+  .eat-card .addr { color: mix($text-color, #666, 70%); margin: 0 0 0.25rem; }
+
+  @media (max-width: 600px) {
+    .hotel-grid,
+    .eat-grid { grid-template-columns: 1fr; }
+  }
+}
+
+// Past Events page styles
+.past-events-page {
+  .year-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 0.75rem;
+    margin-top: 0.5rem;
+  }
+  .year-card {
+    display: block;
+    background: linear-gradient(180deg, rgba(255,255,255,0.96), rgba(255,255,255,0.92));
+    border: 1px solid $border-color;
+    border-radius: 12px;
+    box-shadow: 0 4px 14px rgba(0,0,0,0.06);
+    padding: 0.85rem 1rem;
+    font-weight: 700;
+    color: $text-color;
+    text-decoration: none;
+    transition: transform 0.18s ease, box-shadow 0.18s ease;
+  }
+  .year-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 24px rgba(0,0,0,0.10);
+  }
+}
+
+// Policies page tweaks
+.policies-page {
+  .btn { margin-top: 0.25rem; }
+}
+
+// Venue page tweaks
+.venue-page {
+  h2, h3 { margin-top: 1rem; }
+  ul { margin-top: 0.25rem; }
+}
+  .feature__item {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.95), rgba(255, 255, 255, 0.88));
+    border: 1px solid $border-color;
+    border-radius: 12px;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.06);
+    padding: 1.1rem 1.25rem;
+    transition: transform 0.18s ease, box-shadow 0.18s ease;
+  }
+  .feature__item:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 24px rgba(0, 0, 0, 0.1);
+  }
+  .feature__title {
+    color: $primary-color;
+    margin-bottom: 0.25rem;
+  }
+  .feature__item p {
+    margin-bottom: 0;
+  }
+
+  // Headings
+  h2 {
+    margin-top: 1.25rem;
+    margin-bottom: 0.5rem;
+  }
+  h3 {
+    margin-top: 1.5rem;
+    margin-bottom: 0.25rem;
+  }
+
+  // Honoree list grid (the UL right after each H3)
+  h3 + ul {
+    list-style: none;
+    padding-left: 0;
+    margin-top: 0.75rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 0.5rem 0.75rem;
+  }
+  h3 + ul > li {
+    background: mix($primary-color, #fff, 6%);
+    border: 1px solid $border-color;
+    color: $text-color;
+    font-weight: 600;
+    border-radius: 999px;
+    padding: 0.45rem 0.75rem;
+  }
+}
+
+// After Party page overrides
+.after-party-page {
+  // Make the venue map image large and full-width within the card
+  .venue-map {
+    flex-direction: column;
+    padding: 0; // remove inner padding so image can use full width
+    overflow: hidden; // clip any overflow
+  }
+  .venue-map img {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    max-height: 85vh; // allow a tall display without running into footer
+  }
+  .venue-map .event-content {
+    padding: 1rem; // restore padding for the text after removing it from the card
+    margin-top: 0; // no extra gap needed
+  }
+}
+
+// Sponsors page custom styles
+.sponsors-page {
+  .sponsors {
+    margin-top: 0.75rem;
+  }
+
+  // Tier heading styling
+  .tier {
+    margin: 1.25rem 0 2rem;
+  }
+  .tier > h2 {
+    position: relative;
+    display: inline-block;
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.2rem;
+    color: $primary-color;
+  }
+  .tier > h2::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 3px;
+    background: linear-gradient(90deg, $primary-color, rgba($primary-color, 0));
+    border-radius: 2px;
+  }
+
+  // Responsive grid for sponsors
+  .sponsors .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 0.75rem 1rem;
+    align-items: stretch;
+  }
+
+  // Sponsor cards
+  .sponsors .sponsor-card a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(180deg, rgba(255,255,255,0.98), rgba(255,255,255,0.92));
+    border: 1px solid $border-color;
+    border-radius: 12px;
+    box-shadow: 0 4px 14px rgba(0,0,0,0.06);
+    padding: 0.5rem;
+    min-height: 130px;
+    overflow: hidden; // keep scaled images clipped
+    transition: transform 0.18s ease, box-shadow 0.18s ease;
+  }
+  .sponsors .sponsor-card a:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 24px rgba(0,0,0,0.10);
+  }
+  .sponsors .sponsor-card img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain; // prioritize height fill while preserving aspect ratio
+    transform-origin: center center; // keep scaling centered
+  }
+
+  // Tier-specific sizing
+  .sponsors .tier.diamond .grid { grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); }
+  .sponsors .tier.platinum .grid { grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); }
+  .sponsors .tier.gold .grid { grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); }
+  .sponsors .tier.silver .grid { grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); }
+  .sponsors .tier.bronze .grid,
+  .sponsors .tier.community-partners .grid { grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); }
+
+  .sponsors .tier.diamond .sponsor-card a { height: 220px; }
+  .sponsors .tier.platinum .sponsor-card a { height: 200px; }
+  .sponsors .tier.gold .sponsor-card a { height: 180px; }
+  .sponsors .tier.silver .sponsor-card a { height: 160px; }
+  .sponsors .tier.bronze .sponsor-card a { height: 130px; }
+  .sponsors .tier.community-partners .sponsor-card a { height: 140px; }
+  
+}
+
+// Schedule page custom styles
+.schedule-page {
+  .schedule-embed {
+    margin-top: 0.75rem;
+    background: linear-gradient(180deg, rgba(255,255,255,0.96), rgba(255,255,255,0.94));
+    border: 1px solid $border-color;
+    border-radius: 12px;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+    padding: 0.75rem;
+    overflow-x: auto; // wide grids can scroll on small screens
+    -webkit-overflow-scrolling: touch;
+  }
+
+  // Generic tweaks targeting common Sessionize class names (safe no-ops if classes differ)
+  .schedule-embed .sz-session {
+    background: #fff;
+    border: 1px solid $border-color;
+    border-left: 4px solid $primary-color;
+    border-radius: 10px;
+    box-shadow: 0 3px 12px rgba(0,0,0,0.05);
+    padding: 0.55rem 0.65rem;
+    transition: transform 0.18s ease, box-shadow 0.18s ease;
+  }
+  .schedule-embed .sz-session:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+  }
+
+  .schedule-embed .sz-title {
+    font-weight: 700;
+    color: $text-color;
+    margin-bottom: 0.15rem;
+  }
+  .schedule-embed .sz-speakers {
+    color: mix($text-color, #666, 70%);
+  }
+  .schedule-embed .sz-time,
+  .schedule-embed .sz-room {
+    font-size: 0.9rem;
+    color: mix($text-color, #666, 65%);
+  }
+
+  // Day/room headers
+  .schedule-embed .sz-day,
+  .schedule-embed .sz-roomname,
+  .schedule-embed .sz-room-header {
+    font-weight: 700;
+    color: $primary-color;
+  }
+
+  // Links inside the embed
+  .schedule-embed a {
+    text-decoration: none;
+  }
+  .schedule-embed a:hover {
+    text-decoration: underline;
+  }
+
+  @media (max-width: 600px) {
+    .schedule-embed {
+      padding: 0.5rem;
+      border-radius: 10px;
+    }
+    .schedule-embed .sz-session {
+      padding: 0.5rem 0.55rem;
+    }
+  }
+}
+
+// Workshops page custom styles
+.workshops-page {
+  .workshops-embed {
+    margin-top: 0.75rem;
+    background: linear-gradient(180deg, rgba(255,255,255,0.96), rgba(255,255,255,0.94));
+    border: 1px solid $border-color;
+    border-radius: 12px;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+    padding: 0.75rem;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .workshops-embed .sz-session {
+    background: #fff;
+    border: 1px solid $border-color;
+    border-left: 4px solid $primary-color;
+    border-radius: 10px;
+    box-shadow: 0 3px 12px rgba(0,0,0,0.05);
+    padding: 0.55rem 0.65rem;
+    transition: transform 0.18s ease, box-shadow 0.18s ease;
+  }
+  .workshops-embed .sz-session:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+  }
+  .workshops-embed .sz-title { font-weight: 700; margin-bottom: 0.15rem; }
+  .workshops-embed .sz-speakers { color: mix($text-color, #666, 70%); }
+  .workshops-embed .sz-time,
+  .workshops-embed .sz-room { font-size: 0.9rem; color: mix($text-color, #666, 65%); }
+
+  @media (max-width: 600px) {
+    .workshops-embed { padding: 0.5rem; border-radius: 10px; }
+    .workshops-embed .sz-session { padding: 0.5rem 0.55rem; }
+  }
+}
+
+// Map page custom styles
+.map-page {
+  .map-embed {
+    margin-top: 0.75rem;
+    background: #fff;
+    border: 1px solid $border-color;
+    border-radius: 12px;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+    padding: 0.5rem;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1rem;
+    overflow: hidden; // prevent any child from bleeding over the footer
+  }
+  .map-embed object {
+    display: block;
+    width: 100%;
+    height: min(70vh, 900px);
+    border-radius: 10px;
+    border: none;
+  }
+  .map-embed img {
+    display: block;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    max-height: min(70vh, 900px);
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+  }
+  .map-actions {
+    display: flex;
+    gap: 0.5rem;
+    margin-top: 0.5rem;
+    flex-wrap: wrap;
+  }
+}
+
+// Register/Participate page custom styles
+.register-page,
+.participate-page {
+  .cta-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 1rem;
+    margin-top: 0.5rem;
+  }
+  .cta-card {
+    background: linear-gradient(180deg, rgba(255,255,255,0.96), rgba(255,255,255,0.92));
+    border: 1px solid $border-color;
+    border-radius: 14px;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+    padding: 1rem;
+    transition: transform 0.18s ease, box-shadow 0.18s ease;
+  }
+  .cta-card:hover { transform: translateY(-2px); box-shadow: 0 10px 24px rgba(0,0,0,0.1); }
+  .cta-card h2 { margin-top: 0; color: $primary-color; }
+  .cta-card p { margin-bottom: 0.75rem; }
+
+  .btn-group { display: flex; gap: 0.5rem; flex-wrap: wrap; }
+}
+
+// Event-style card component shared across multiple pages
+.event-page,
+.se-village-page,
+.career-village-page,
+.after-party-page,
+.preshow-page,
+.about-page {
+  h2 { margin-top: 1.5rem; }
+
+  .event-card {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    background: linear-gradient(180deg, rgba(255,255,255,0.96), rgba(255,255,255,0.92));
+    border: 1px solid $border-color;
+    border-radius: 14px;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+    padding: 1rem;
+    margin: 0.5rem 0 1rem;
+  }
+
+  .event-card img {
+    display: block;
+    width: clamp(140px, 26vw, 220px);
+    height: auto;
+    object-fit: contain;
+    border-radius: 10px;
+    background: #fff;
+    border: 1px solid $border-color;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.04);
+  }
+
+  .event-content p { margin: 0 0 0.5rem; }
+  .event-content p:last-child { margin-bottom: 0; }
+
+  @media (max-width: 760px) {
+    .event-card {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+    .event-card img {
+      width: 100%;
+    }
+  }
+}
+
+// After Party map strongest overrides (placed after shared component to win cascade)
+.after-party-page {
+  .event-card.venue-map {
+    padding: 0;
+    width: auto;
+    max-width: 1200px; // confine within content width and add side margins
+    margin-left: auto;
+    margin-right: auto;
+    // restore standard card chrome so it sits nicely within the page
+    border: 1px solid $border-color;
+    border-radius: 14px;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+  }
+  .event-card.venue-map img {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    max-height: none; // keep natural height; container now provides margins
+  }
+  .event-card.venue-map .event-content {
+    padding: 1rem 1rem 1.25rem;
+    margin-top: 0;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+// Venue page styled cards and grids (ensured at top-level)
+.venue-page {
+  .info-card {
+    background: linear-gradient(180deg, rgba(255,255,255,0.96), rgba(255,255,255,0.92));
+    border: 1px solid $border-color;
+    border-radius: 14px;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+    padding: 1rem;
+    margin: 0.5rem 0 1rem;
+  }
+  .info-card .addr { color: mix($text-color, #666, 70%); margin-bottom: 0.25rem; }
+
+  .hotel-grid,
+  .eat-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 0.75rem 1rem;
+    margin-top: 0.5rem;
+  }
+
+  .hotel-card,
+  .eat-card {
+    background: linear-gradient(180deg, rgba(255,255,255,0.98), rgba(255,255,255,0.94));
+    border: 1px solid $border-color;
+    border-radius: 12px;
+    box-shadow: 0 4px 14px rgba(0,0,0,0.06);
+    padding: 0.85rem 1rem;
+    transition: transform 0.18s ease, box-shadow 0.18s ease;
+  }
+  .hotel-card:hover,
+  .eat-card:hover { transform: translateY(-2px); box-shadow: 0 10px 24px rgba(0,0,0,0.10); }
+
+  .hotel-card a { font-weight: 700; text-decoration: none; }
+  .hotel-card a:hover { text-decoration: underline; }
+  .hotel-card .note { margin: 0.25rem 0 0; color: mix($text-color, #666, 65%); }
+
+  .eat-card h3 { margin: 0 0 0.15rem; color: $primary-color; }
+  .eat-card .addr { color: mix($text-color, #666, 70%); margin: 0 0 0.25rem; }
+
+  @media (max-width: 600px) {
+    .hotel-grid,
+    .eat-grid { grid-template-columns: 1fr; }
+  }
+}

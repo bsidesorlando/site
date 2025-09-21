@@ -2,6 +2,7 @@
 layout: splash
 title: BSides Orlando 2025 Sponsors
 permalink: /sponsors/
+classes: sponsors-page
 ---
 
 ## Thank You BSides Orlando 2025 Sponsors

@@ -2,72 +2,98 @@
 layout: splash
 title: Event
 permalink: /event/
+classes: event-page
 ---
 # Event Activities
-We develop and renew content for each year, but we offer a core set of activities to participate in BSides Orlando.
+BSides Orlando is built around learning, doing, and connecting. From hands-on villages to contests, talks, and parties, there’s something for every hacker, maker, and security enthusiast.
 
-## Sunshine Capture the Flag (CTF)
-<table style="width:100%">
-    <td style="width:30%">
+---
 
-      <img src="{{ '/assets/images/ctf.png' | prepend: site.baseurl }}" alt="Capture the Flag">
+## Competitions & Contests
 
-      </td>
-    <td>
-    SunshineCTF is back for its 10th year in conjunction with BSides Orlando 2025 and hosted by current and former members of Hack@UCF. This year’s competition will include categories like pwn, reverse engineering, web, crypto, scripting, and something special!
+### Sunshine Capture the Flag (CTF)
+<div class="event-card">
+  <img src="{{ '/assets/images/ctf.png' | prepend: site.baseurl }}" alt="Capture the Flag">
+  <div class="event-content">
+    <p>SunshineCTF returns for its 10th anniversary! Hosted by Hack@UCF, this 48-hour global competition features challenges in pwn, reversing, web, crypto, scripting — plus a few surprises. Whether you’re a first-timer or a seasoned CTF team, there’s a challenge waiting for you.</p>
+    <p>The CTF is open online to everyone. Top in-person teams will be recognized (and rewarded) at our closing ceremony. Bring your skills and a little caffeine — and see how far you can go.</p>
+    <p>Register at <a href="https://sunshinectf.org/" target="_blank" rel="noopener">sunshinectf.org</a> and track the event on <a href="https://ctftime.org/event/2863" target="_blank" rel="noopener">CTFtime</a>.</p>
+  </div>
+</div>
 
-    SunshineCTF is an online competition that’s open to anyone, though some prizes (TBD) may only be given to the top-ranked in-person team(s) during the BSides Orlando closing ceremony.
+### Contests & Chill
+Need a change of pace? Contests & Chill is your space to reset, play, or hack on something fun:
+- <strong>Fox Hunts</strong>: tutorial and competitive  
+- <strong>RFID Badge Cloning</strong> demos  
+- <strong>Orbital CTF</strong> mini-game  
+- <strong>Sticker Swap</strong> table  
+- Games, puzzles, and a relaxing corner to breathe  
 
-    Registration is hosted at <a href="https://sunshinectf.org/">https://sunshinectf.org/</a>, and you can check out the event on
-    <a href="https://ctftime.org/event/2863 ">https://ctftime.org/event/2863 </a>
-    </td>
-</table>
+---
 
-## Sponsor Village
-<table style="width:100%">
-    <td style="width:30%">
+## Villages
 
-      <img src="{{ '/assets/images/sponsor.png' | prepend: site.baseurl }}" alt="Sponsor Village">
-      </td>
-    <td>
-    Check out our Sponsor Village to engage with the organizations that made this possible!
-    </td>
-</table>
+### Soldering Village
+<div class="event-card">
+  <img src="{{ '/assets/images/soldering.png' | prepend: site.baseurl }}" alt="Soldering Village">
+  <div class="event-content">
+    <p>Bring your badge to life! Our volunteers will walk you through soldering — from your first blinking LED to building circuits like a pro. Outdoor tents are stocked with stations, tools, and plenty of guidance. No experience needed, just curiosity.</p>
+  </div>
+</div>
 
-## Lockpick Village (LPV)
-<table style="width:100%">
-    <td style="width:30%">
+### Lockpick Village (LPV)
+<div class="event-card">
+  <img src="{{ '/assets/images/lpv.png' | prepend: site.baseurl }}" alt="Lockpick Village">
+  <div class="event-content">
+    <p>Test your skills against locks of all shapes and sizes. Learn how locks are built, where they fail, and how professionals and hobbyists alike approach sportpicking. From beginner pin tumblers to advanced challenges, there’s always a new trick to master. <strong>Bonus:</strong> scheduled talks and demos add extra depth.</p>
+  </div>
+</div>
 
-      <img src="{{ '/assets/images/lpv.png' | prepend: site.baseurl }}" alt="Lockpick Village">
-      </td>
-    <td>
-      The Lockpick Village is a physical security demonstration and participation area. Visitors can learn about the vulnerabilities of various locking devices, and techniques used to exploit them, and practice locks of various difficulty levels to try themselves. By exploring the faults and flaws in many popular lock designs, you can not only learn about the fun hobby of sportpicking, but also gain much stronger knowledge about the best methods and practices for protecting your own property.
-    </td>
-</table>
+### <a href="{{ site.baseurl }}/se_village/">Social Engineering Adventure</a>
+Hack the human element. At the SE Adventure Village, explore how persuasion, psychology, and trust are used to gain access — and how to defend against it.  
+Expect <strong>OSINT challenges</strong>, an <strong>AI Vishing Contest</strong>, and live talks that mix fun with practical takeaways.
 
-## Soldering Village
-<table style="width:100%">
-    <td style="width:30%">
+### <a href="{{ site.baseurl }}/career_village/">Career Village</a>
+Level up your career journey. Career Village offers:
+- Resume reviews  
+- Professional headshots  
+- Mock interviews  
+- A job board of open positions  
+Plus fun networking games like <strong>BINGO</strong> and a <strong>Scavenger Hunt</strong> that will take you across the con. Check out the <a href="{{ site.baseurl }}/career_village/">Career Village page</a> for tips to get the most out of it.
 
-      <img src="{{ '/assets/images/soldering.png' | prepend: site.baseurl }}" alt="Soldering Village">
-      </td>
-    <td>
-      Hone your skills and assemble your badge in our soldering village. This village is a great opportunity for beginners to get started with soldering. Never soldered before? No worries, we have staff available to assist you whether you're looking to learn a new skill or to improve your existing knowledge.
-    </td>
-</table>
+### Community Village
+Cybersecurity is bigger than one event. Meet local community groups, learn what they’re building, and discover how you can get involved year-round.
 
-## Information and Swag
-You’ve got questions, we’ve got answers in this space. After the success of last year we split the registration and swag lines to expedite entrance into the conference. Swag includes items from our fabulous sponsor and a sticker sheet themed for this year. Recycle and Upcycle your stickers or collect new ones! This area is available to drop off or pick up stickers.
+### Sponsor Village
+The companies and organizations that make BSides Orlando possible are here to meet you! Stop by their tables to check out demos, opportunities, and (of course) swag.
 
-## <a href="{{ site.baseurl }}/career_village/">Career Village</a>
-Embarking on a journey into the cybersecurity realm? Whether you're new to the field or considering a shift within it, the <a href="{{ site.baseurl }}/career_village/">Career Village</a> is the place to gain valuable insights and guidance. You can have your resume reviewed, get a professional headshot, or participate in a mock interview. If you're hiring, you can post your available positions on our job board. Join us to enhance your career prospects and network with industry professionals. Check out the <a href="{{ site.baseurl }}/career_village/">Career Village</a> page for more information on how you can best prepare.
+---
 
-## <a href="{{ site.baseurl }}/se_village/">Social Engineering Adventure</a>
-The human element to cybersecurity. Want to learn more about the psychology of the human mind, how magicians have been able to fool audiences and how threat actors have used employees of companies to gain unauthorized access to systems. Come visit the social engineering adventure and learn about the fun side of social engineering. We will have talks, OSINT exercises and learn about the psychology of building trust and rapport.
+## Talks & Unconference
 
-## Community Village
-If you’re representing another cybersecurity community organization, or interested in learning about the other local community organizations out there, this room is for you.
+### Unconference
+Your voice belongs here. Sign up onsite to give a lightning talk (15 minutes or less) on anything you want to share — tools, tips, war stories, or ideas. Short, sharp, and community-driven, the Unconference stage is always full of surprises.
 
-## Unconference
-If you have some wisdom to add, sign up for a lightning talk in the Unconference. Lightning talks are 15 minutes or less so it’s a great opportunity to acquire knowledge quickly. The Unconference features talks from other conference attendees that want to share their knowledge with you.
+### Village Talks
+Many villages feature their own short talks and demos. Drop by for sessions on topics like lockpicking basics, deepfake detection, vishing, and more. Check the onsite schedule for times and details.
 
+---
+
+## Info & Logistics
+
+### Information & Swag
+Registration and swag pickup are streamlined with split lines this year. Every attendee gets sponsor goodies and a collectible BSides Orlando sticker sheet. Trade extras at the sticker table and expand your collection.
+
+### Workshops
+Workshops run the day before the main con. Past sessions have included malware forensics with Volatility 3, IoT hacking labs, and threat modeling. Space is limited, so plan ahead — details are at <a href="{{ site.baseurl }}/workshops/">bsidesorlando.org/workshops</a>.
+
+---
+
+## Social & Networking
+
+### After Party
+Keep the energy going after the talks wrap up.  
+**Saturday, Sept 27 | 7–10 PM | The Celeste Hotel, Celestial Ballroom**  
+- Cash bar (alcoholic & non-alcoholic options)  
+- Music, board games, and hallway-con vibes  
+- A relaxed place to connect, unwind, and celebrate the community  

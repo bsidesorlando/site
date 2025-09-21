@@ -16,9 +16,22 @@
         </a>
         <ul class="visible-links">
           {%- for link in site.data.navigation.main -%}
-            <li class="masthead__menu-item">
-              <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
-            </li>
+            {% if link.children %}
+              <li class="masthead__menu-item has-subnav">
+                <a href="#" class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
+                <ul class="subnav">
+                  {%- for child in link.children -%}
+                    <li class="masthead__menu-item">
+                      <a href="{% if child.url contains '://' or child.url contains 'mailto:' %}{{ child.url }}{% else %}{{ child.url | relative_url }}{% endif %}"{% if child.description %} title="{{ child.description }}"{% endif %}>{{ child.title }}</a>
+                    </li>
+                  {%- endfor -%}
+                </ul>
+              </li>
+            {% else %}
+              <li class="masthead__menu-item">
+                <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
+              </li>
+            {% endif %}
           {%- endfor -%}
         </ul>
         {% if site.search == true %}
@@ -33,6 +46,55 @@
         </button>
         <ul class="hidden-links hidden"></ul>
       </nav>
+      <script>
+        (function(){
+          var nav = document.getElementById('site-nav');
+          if(!nav) return;
+          var openItem = null;
+          function closeOpen(){
+            if(openItem){
+              openItem.classList.remove('open');
+              var toggle = openItem.querySelector('.dropdown-toggle');
+              if(toggle){ toggle.setAttribute('aria-expanded','false'); }
+              openItem = null;
+            }
+          }
+          nav.addEventListener('click', function(e){
+            var toggle = e.target.closest('.dropdown-toggle');
+            if(toggle){
+              e.preventDefault();
+              var li = toggle.closest('.has-subnav');
+              if(!li) return;
+              if(openItem && openItem !== li){ closeOpen(); }
+              var willOpen = !li.classList.contains('open');
+              li.classList.toggle('open');
+              toggle.setAttribute('aria-expanded', willOpen ? 'true' : 'false');
+              var sub = li.querySelector('.subnav');
+              if(sub){ sub.style.display = willOpen ? 'block' : ''; }
+              // If closing while still hovered, briefly suppress hover-open so it actually closes
+              if(!willOpen){
+                li.classList.add('suppress-hover');
+                // remove focus so :focus-within doesn't keep it open
+                try { toggle.blur(); } catch(e){}
+                setTimeout(function(){ li.classList.remove('suppress-hover'); }, 200);
+              }
+              openItem = willOpen ? li : null;
+            } else {
+              // clicking elsewhere inside nav should close any open dropdowns if click is outside a subnav
+              if(!e.target.closest('.subnav')){
+                closeOpen();
+              }
+            }
+          });
+          document.addEventListener('click', function(e){
+            if(!nav.contains(e.target)) closeOpen();
+          });
+          document.addEventListener('keydown', function(e){
+            if(e.key === 'Escape'){ closeOpen(); }
+          });
+        })();
+      </script>
     </div>
   </div>
 </div>
+

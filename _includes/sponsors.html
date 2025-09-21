@@ -1,19 +1,20 @@
 <div class="sponsors">
   {% assign tier_order = "Diamond,Platinum,Gold,Silver,Bronze,Community Partners" | split: "," %}
   {% for tier in tier_order %}
-    <section class="tier {{ tier | downcase | replace: ' ', '-' }}">
-      <h2>{{ tier }}</h2>
-      <div class="grid">
-        {% for sponsor in site.data.sponsors %}
-          {% if sponsor.level == tier %}
+    {% assign tier_sponsors = site.data.sponsors | where: "level", tier %}
+    {% if tier_sponsors.size > 0 %}
+      <section class="tier {{ tier | downcase | replace: ' ', '-' }}">
+        <h2>{{ tier }}</h2>
+        <div class="grid">
+          {% for sponsor in tier_sponsors %}
             <div class="sponsor-card">
-              <a href="{{ sponsor.url }}">
-                <img src="/assets/images/sponsors/{{ sponsor.logo }}" alt="{{ sponsor.name }}">
+              <a href="{{ sponsor.url }}" target="_blank" rel="noopener noreferrer" aria-label="Visit {{ sponsor.name }} website">
+                <img loading="lazy" decoding="async" src="/assets/images/sponsors/{{ sponsor.logo }}" alt="{{ sponsor.name }}"{% if sponsor.scale %} style="transform: scale({{ sponsor.scale }});"{% endif %}>
               </a>
             </div>
-          {% endif %}
-        {% endfor %}
-      </div>
-    </section>
+          {% endfor %}
+        </div>
+      </section>
+    {% endif %}
   {% endfor %}
 </div>
