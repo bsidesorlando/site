@@ -69,22 +69,9 @@ jobs:
           preview: ${{ github.event_name == 'pull_request' }}
       - name: Output deployment URL
         if: always()
-        env:
-          GH_TOKEN: ${{ github.token }}
         run: |
-          # Query the latest GitHub Pages deployment for this repo and extract its page_url
-          RAW=$(gh api -H "Accept: application/vnd.github+json" \
-                 repos/${{ github.repository }}/pages/deployments \
-                 --method GET --paginate -f per_page=1)
-          URL=$(echo "$RAW" | python - <<'PY'
-          import json, sys
-          data = json.loads(sys.stdin.read())
-          if isinstance(data, list) and data:
-            print(data[0].get('page_url') or '')
-          else:
-            print('')
-          PY
-          )
+          # Read the deployment URL directly from the deploy-pages action output
+          URL="${{ steps.deployment.outputs.page_url }}"
           if [ -n "$URL" ]; then
             if [ "${{ github.event_name }}" = "pull_request" ]; then
               echo "Preview deployment URL: $URL" >> "$GITHUB_STEP_SUMMARY"
