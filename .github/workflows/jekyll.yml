@@ -10,6 +10,9 @@ on:
   # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
+  # Build preview for pull requests
+  pull_request:
+    branches: ["**"]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -62,3 +65,6 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          # Enable preview deployments for PRs; production on main
+          preview: ${{ github.event_name == 'pull_request' }}
