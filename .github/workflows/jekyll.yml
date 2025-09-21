@@ -76,15 +76,15 @@ jobs:
           RAW=$(gh api -H "Accept: application/vnd.github+json" \
                  repos/${{ github.repository }}/pages/deployments \
                  --method GET --paginate -f per_page=1)
-          URL=$(python - <<'PY'
-import json,sys
-data=json.loads(sys.stdin.read())
-if isinstance(data,list) and data:
-  print(data[0].get('page_url') or '')
-else:
-  print('')
-PY
-          <<< "$RAW")
+          URL=$(echo "$RAW" | python - <<'PY'
+          import json, sys
+          data = json.loads(sys.stdin.read())
+          if isinstance(data, list) and data:
+            print(data[0].get('page_url') or '')
+          else:
+            print('')
+          PY
+          )
           if [ -n "$URL" ]; then
             if [ "${{ github.event_name }}" = "pull_request" ]; then
               echo "Preview deployment URL: $URL" >> "$GITHUB_STEP_SUMMARY"
