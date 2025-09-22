@@ -2,6 +2,8 @@
 #  logo: logo in assets/images/sponsors
 #  url: sponsor url
 #  level: Diamond | Platinum | Gold | Silver | Bronze | Community Partners
+
+# Diamond
 - name: Advent Health
   logo: logo-DIAMOND-AdventHealth.png
   url: https://www.adventhealth.com/
@@ -12,10 +14,21 @@
   url: https://www.fullsail.edu/
   level: Diamond
   scale: 1.3
+
+  # Platinum
+- name: GuidePoint Security
+  logo: logo-PLAT-GuidePoint.png
+  level: Platinum
+  url: https://www.guidepointsecurity.com
 - name: ICR
-  logo: logo-GOLD-ICR.png
+  logo: logo-PLAT-ICR.png
   url: https://icr-team.com
   level: Platinum
+- name: Lockheed Martin
+  logo: logo-PLAT-Lockheed.png
+  url: https://lockheedmartin.com/
+  level: Platinum
+  scale: 1.1
 - name: ThreatLocker
   logo: logo-PLAT-ThreatLocker.png
   url: https://www.threatlocker.com/
@@ -25,18 +38,15 @@
   logo: logo-PLAT-WhiteKnightLabs.svg
   url: https://whiteknightlabs.com/
   level: Platinum
-- name: Lockheed Martin
-  logo: logo-PLAT-Lockheed.png
-  url: https://lockheedmartin.com/
-  level: Platinum
-  scale: 1.1
-- name: NBCUniversal
-  logo: logo-GOLD-NBCUniversal.jpg
-  url: http://nbcuniversal.com
-  level: Gold
+
+# Gold
 - name: Dark Wolf Solutions
   logo: logo-GOLD-DarkWolf-official.png
   url: https://darkwolfsolutions.com/
+  level: Gold
+- name: NBCUniversal
+  logo: logo-GOLD-NBCUniversal.jpg
+  url: http://nbcuniversal.com
   level: Gold
 - name: Oligo Security
   logo: logo-GOLD-Oligo.svg
@@ -48,9 +58,37 @@
   url: https://vibrint.com/
   level: Gold
   scale: .9
+
+# Silver
+- name: Black Hills Infosec
+  logo: logo-SILVER-BHIS.png
+  url: https://www.blackhillsinfosec.com/
+  level: Silver
+  scale: 1.5
+- name: G-Research
+  logo: logo-SILVER-G-Research.png
+  level: Silver
+  url: https://www.gresearch.com
+  scale: 2
+- name: Impress Ink
+  logo: logo-SILVER-Impress Ink.png
+  level: Silver
+  url: https://www.impressink.com 
+  scale: 1.4
+
+
+# Bronze
 - name: Breacher.ai
   logo: logo-BRONZE-BreacherAI.png
   url: https://breacher.ai/
+  level: Bronze
+- name: HackerHaus Security Solutions
+  logo: logo-BRONZE-HackerHaus.png
+  level: Bronze
+  url: https://www.hackerhaus.io
+- name: Kevtech Academy
+  logo: logo-BRONZE-KevtechAcademy.png
+  url: https://www.kevtechitsupport.com/
   level: Bronze
 ### DO NOT REMOVE Luther before Aug 1, 2026 ###
 - name: Luther Lanard, PC
@@ -64,59 +102,34 @@
   url: https://www.secureps.net/
   level: Bronze
   scale: 1.5
-
-- name: Kevtech Academy
-  logo: logo-BRONZE-KevtechAcademy.png
-  url: https://www.kevtechitsupport.com/
-  level: Bronze
-- name: WISP 
-  logo: logo-COMMUNITY-WISP.png
-  url: https://www.wisporg.com/
-  level: Community Partners
-- name: DC407 
-  logo: logo-COMMUNITY-DC407.png
-  url: https://dc407.com/
-  level: Community Partners
-- name: Space Coast Sec 
-  logo: logo-COMMUNITY-SpaceCoastSec.png
-  url: https://spacecoastsec.com/
-  level: Community Partners
-- name: Black Hills Infosec
-  logo: logo-SILVER-BHIS.png
-  url: https://www.blackhillsinfosec.com/
-  level: Silver
-  scale: 1.5
 - name: Orlando Health
   logo: logo-BRONZE-Orlando Health.jpg
   level: Bronze
   url: https://orlandohealth.com
-- name: DEATHCon
-  logo: logo-COMMUNITY-DEATHCon2025.png
-  level: Community Partners
-  url: https://deathcon.io
-- name: Impress Ink
-  logo: logo-SILVER-Impress Ink.png
-  level: Silver
-  url: https://www.impressink.com 
-- name: GuidePoint Security
-  logo: logo-PLAT-GuidePoint.png
-  level: Platinum
-  url: https://www.guidepointsecurity.com
-  scale: 1.4
-- name: HackCFL
-  logo: logo-COMMUNITY-HackCFL.png
-  level: Community Partners
-  url: https://hackcfl.com
-- name: G-Research
-  logo: logo-SILVER-G-Research.png
-  level: Silver
-  url: https://www.gresearch.com
-  scale: 2
-- name: HackerHaus Security Solutions
-  logo: logo-BRONZE-HackerHaus.png
-  level: Bronze
-  url: https://www.hackerhaus.io
+  
+
+# Community Partners
 - name: 2600 Orlando
   logo: logo-COMMUNITY-2600.png
   level: Community Partners
   url: https://2600.com/meetings
+- name: DC407 
+  logo: logo-COMMUNITY-DC407.png
+  url: https://dc407.com/
+  level: Community Partners
+- name: DEATHCon
+  logo: logo-COMMUNITY-DEATHCon2025.png
+  level: Community Partners
+  url: https://deathcon.io
+- name: HackCFL
+  logo: logo-COMMUNITY-HackCFL.png
+  level: Community Partners
+  url: https://hackcfl.com
+- name: Space Coast Sec 
+  logo: logo-COMMUNITY-SpaceCoastSec.png
+  url: https://spacecoastsec.com/
+  level: Community Partners
+- name: WISP 
+  logo: logo-COMMUNITY-WISP.png
+  url: https://www.wisporg.com/
+  level: Community Partners
