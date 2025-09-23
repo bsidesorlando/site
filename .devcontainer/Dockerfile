@@ -13,7 +13,6 @@ RUN apt-get update \
 
 # Pre-install gems at build time for faster startup
 # Use the repo root as build context (set in devcontainer.json) to copy Gemfile/lock
-WORKDIR /tmp/site
 COPY Gemfile* ./
 # Ensure bundle directory exists and is writable by vscode
 RUN mkdir -p "$BUNDLE_PATH" && chown -R vscode:vscode "$BUNDLE_PATH"
