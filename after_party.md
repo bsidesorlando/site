@@ -44,3 +44,12 @@ classes: after-party-page
     <p><strong>Why:</strong> To have fun. To meet awesome people. The real question is — why not?</p>
   </div>
 </div>
+
+<div class="event-card">
+  <div class="event-content">
+    <p><strong>Parking:</strong> The parking pass below will allow you to park onsite for the duration of the afterparty, but not overnight.</p>
+    <p> If you can, please print this pass! Limited printed passes will also be available.</p>
+    <a class="btn btn--primary" href="/assets/files/09.27.25BSidesOrlando2025-ParkingPass.pdf" target="_blank" rel="noopener">Open Full Screen in New Tab</a>
+    <a class="btn" href="/assets/files/09.27.25BSidesOrlando2025-ParkingPass.pdf" download> Download PDF</a>
+  </div>
+</div>
