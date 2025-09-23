@@ -15,14 +15,11 @@ RUN apt-get update \
 # Use the repo root as build context (set in devcontainer.json) to copy Gemfile/lock
 COPY Gemfile* ./
 # Ensure bundle directory exists and is writable by vscode
-RUN mkdir -p "$BUNDLE_PATH" && chown -R vscode:vscode "$BUNDLE_PATH"
+RUN mkdir -p "$BUNDLE_PATH"
 # Install bundle to the configured path. Run as the vscode user so permissions match.
-USER vscode
-RUN bundle config set path "$BUNDLE_PATH" \
- && bundle install
+RUN bundle config set path "$BUNDLE_PATH" && bundle install
 
 # Switch back to root to install entrypoint and set permissions
-USER root
 # Copy entrypoint script into the image
 COPY .devcontainer/entrypoint.sh /usr/local/bin/entrypoint.sh
 RUN chmod +x /usr/local/bin/entrypoint.sh
