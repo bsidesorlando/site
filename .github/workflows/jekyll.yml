@@ -10,6 +10,9 @@ on:
   # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
+  # Build preview for pull requests
+  pull_request:
+    branches: ["**"]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -55,10 +58,26 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          # Enable preview deployments for PRs; production on main
+          preview: ${{ github.event_name == 'pull_request' }}
+      - name: Output deployment URL
+        if: always()
+        run: |
+          # Read the deployment URL directly from the deploy-pages action output
+          URL="${{ steps.deployment.outputs.page_url }}"
+          if [ -n "$URL" ]; then
+            if [ "${{ github.event_name }}" = "pull_request" ]; then
+              echo "Preview deployment URL: $URL" >> "$GITHUB_STEP_SUMMARY"
+            else
+              echo "Production deployment URL: $URL" >> "$GITHUB_STEP_SUMMARY"
+            fi
+          else
+            echo "Deployment completed. Open the PR and click 'View deployment' under 'GitHub Pages - Preview' to access the preview URL." >> "$GITHUB_STEP_SUMMARY"
+          fi
