@@ -111,7 +111,12 @@
   logo: logo-BRONZE-CyberSkyline.png
   level: Bronze
   url: https://cyberskyline.com/
-  
+### DO NOT REMOVE ZenBusiness before Dec 31, 2026 ###
+- name: ZenBusiness
+  logo: logo-BRONZE-ZenBusiness.jpg
+  level: Bronze
+  url: https://www.zenbusiness.com/
+### DO NOT REMOVE ZenBusiness before Dec 31, 2026 ###  
   
 
 # Community Partners
