@@ -5,4 +5,4 @@ permalink: /discord/
 ---
 Join our Discord server!
 
-<a href="https://discord.gg/rQQxBqr9FM">Discord</a>
+<a href="https://discord.gg/fqjRQQr">Discord</a>
