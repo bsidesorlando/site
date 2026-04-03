@@ -5,7 +5,7 @@ permalink: /sponsors/
 classes: sponsors-page
 ---
 
-## Thank You BSides Orlando 2026 Sponsors
+## Thank You BSides Orlando 2025 Sponsors
 
 {% include sponsors.html %}
 
