@@ -4,11 +4,11 @@
 #  level: Diamond | Platinum | Gold | Silver | Bronze | Community Partners
 
 # Diamond
-- name: Advent Health
-  logo: logo-DIAMOND-AdventHealth.png
-  url: https://www.adventhealth.com/
-  level: Diamond
-  scale: .8
+# - name: Advent Health
+#   logo: logo-DIAMOND-AdventHealth.png
+#   url: https://www.adventhealth.com/
+#   level: Diamond
+#   scale: .8
 - name: Full Sail University
   logo: logo-DIAMOND-FullSail.png
   url: https://www.fullsail.edu/
@@ -16,81 +16,69 @@
   scale: 1.3
 
   # Platinum
-- name: GuidePoint Security
-  logo: logo-PLAT-GuidePoint.png
-  level: Platinum
-  url: https://www.guidepointsecurity.com
-  scale: 1.4
-- name: ICR
-  logo: logo-PLAT-ICR.png
-  url: https://icr-team.com
-  level: Platinum
-- name: Lockheed Martin
-  logo: logo-PLAT-Lockheed.png
-  url: https://lockheedmartin.com/
-  level: Platinum
-  scale: 1.1
-- name: ThreatLocker
-  logo: logo-PLAT-ThreatLocker.png
-  url: https://www.threatlocker.com/
-  level: Platinum
-  scale: 1
-- name: White Knight Labs
-  logo: logo-PLAT-WhiteKnightLabs.svg
-  url: https://whiteknightlabs.com/
-  level: Platinum
+# - name: GuidePoint Security
+#   logo: logo-PLAT-GuidePoint.png
+#   level: Platinum
+#   url: https://www.guidepointsecurity.com
+#   scale: 1.4
+# - name: ICR
+#   logo: logo-PLAT-ICR.png
+#   url: https://icr-team.com
+#   level: Platinum
+# - name: Lockheed Martin
+#   logo: logo-PLAT-Lockheed.png
+#   url: https://lockheedmartin.com/
+#   level: Platinum
+#   scale: 1.1
+# - name: ThreatLocker
+#   logo: logo-PLAT-ThreatLocker.png
+#   url: https://www.threatlocker.com/
+#   level: Platinum
+#   scale: 1
+# - name: White Knight Labs
+#   logo: logo-PLAT-WhiteKnightLabs.svg
+#   url: https://whiteknightlabs.com/
+#   level: Platinum
 
 # Gold
-- name: Dark Wolf Solutions
-  logo: logo-GOLD-DarkWolf-official.png
-  url: https://darkwolfsolutions.com/
-  level: Gold
-- name: NBCUniversal
-  logo: logo-GOLD-NBCUniversal.jpg
-  url: http://nbcuniversal.com
-  level: Gold
-- name: Oligo Security
-  logo: logo-GOLD-Oligo.svg
-  url: https://www.oligo.security/
-  level: Gold
-  scale: .8
-- name: Vibrint
-  logo: logo-GOLD-Vibrint.png
-  url: https://vibrint.com/
-  level: Gold
-  scale: .9
+# - name: Dark Wolf Solutions
+#   logo: logo-GOLD-DarkWolf-official.png
+#   url: https://darkwolfsolutions.com/
+#   level: Gold
+# - name: NBCUniversal
+#   logo: logo-GOLD-NBCUniversal.jpg
+#   url: http://nbcuniversal.com
+#   level: Gold
+# - name: Oligo Security
+#   logo: logo-GOLD-Oligo.svg
+#   url: https://www.oligo.security/
+#   level: Gold
+#   scale: .8
+# - name: Vibrint
+#   logo: logo-GOLD-Vibrint.png
+#   url: https://vibrint.com/
+#   level: Gold
+#   scale: .9
 
 # Silver
-- name: Black Hills Infosec
-  logo: logo-SILVER-BHIS.png
-  url: https://www.blackhillsinfosec.com/
-  level: Silver
-  scale: 1.5
-- name: G-Research
-  logo: logo-SILVER-G-Research.png
-  level: Silver
-  url: https://www.gresearch.com
-  scale: 2
-- name: Impress Ink
-  logo: logo-SILVER-Impress Ink.png
-  level: Silver
-  url: https://www.impressink.com 
-  scale: 1.4
+# - name: Black Hills Infosec
+#   logo: logo-SILVER-BHIS.png
+#   url: https://www.blackhillsinfosec.com/
+#   level: Silver
+#   scale: 1.5
+# - name: G-Research
+#   logo: logo-SILVER-G-Research.png
+#   level: Silver
+#   url: https://www.gresearch.com
+#   scale: 2
+# - name: Impress Ink
+#   logo: logo-SILVER-Impress Ink.png
+#   level: Silver
+#   url: https://www.impressink.com 
+#   scale: 1.4
 
 
 # Bronze
-- name: Breacher.ai
-  logo: logo-BRONZE-BreacherAI.png
-  url: https://breacher.ai/
-  level: Bronze
-- name: HackerHaus Security Solutions
-  logo: logo-BRONZE-HackerHaus.png
-  level: Bronze
-  url: https://www.hackerhaus.io
-- name: Kevtech Academy
-  logo: logo-BRONZE-KevtechAcademy.png
-  url: https://www.kevtechitsupport.com/
-  level: Bronze
 ### DO NOT REMOVE Luther before Aug 1, 2026 ###
 - name: Luther Lanard, PC
   logo: logo-BRONZE-LutherLanard.png
@@ -98,25 +86,37 @@
   level: Bronze
   scale: 1.1
 ### DO NOT REMOVE Luther before Aug 1, 2026 ###
-- name: Secure Point Solutions
-  logo: logo-BRONZE-SecurePoint.png
-  url: https://www.secureps.net/
-  level: Bronze
-  scale: 1.5
-- name: Orlando Health
-  logo: logo-BRONZE-Orlando Health.jpg
-  level: Bronze
-  url: https://orlandohealth.com
-- name: Cyberskyline 
-  logo: logo-BRONZE-CyberSkyline.png
-  level: Bronze
-  url: https://cyberskyline.com/
 ### DO NOT REMOVE ZenBusiness before Dec 31, 2026 ###
 - name: ZenBusiness
   logo: logo-BRONZE-ZenBusiness.jpg
   level: Bronze
   url: https://www.zenbusiness.com/
 ### DO NOT REMOVE ZenBusiness before Dec 31, 2026 ###  
+# - name: Breacher.ai
+#   logo: logo-BRONZE-BreacherAI.png
+#   url: https://breacher.ai/
+#   level: Bronze
+# - name: HackerHaus Security Solutions
+#   logo: logo-BRONZE-HackerHaus.png
+#   level: Bronze
+#   url: https://www.hackerhaus.io
+# - name: Kevtech Academy
+#   logo: logo-BRONZE-KevtechAcademy.png
+#   url: https://www.kevtechitsupport.com/
+#   level: Bronze
+# - name: Secure Point Solutions
+#   logo: logo-BRONZE-SecurePoint.png
+#   url: https://www.secureps.net/
+#   level: Bronze
+#   scale: 1.5
+# - name: Orlando Health
+#   logo: logo-BRONZE-Orlando Health.jpg
+#   level: Bronze
+#   url: https://orlandohealth.com
+# - name: Cyberskyline 
+#   logo: logo-BRONZE-CyberSkyline.png
+#   level: Bronze
+#   url: https://cyberskyline.com/
   
 
 # Community Partners
@@ -128,10 +128,10 @@
   logo: logo-COMMUNITY-DC407.png
   url: https://dc407.com/
   level: Community Partners
-- name: DEATHCon
-  logo: logo-COMMUNITY-DEATHCon2025.png
-  level: Community Partners
-  url: https://deathcon.io
+# - name: DEATHCon
+#   logo: logo-COMMUNITY-DEATHCon2025.png
+#   level: Community Partners
+#   url: https://deathcon.io
 - name: HackCFL
   logo: logo-COMMUNITY-HackCFL.png
   level: Community Partners
@@ -144,7 +144,7 @@
   logo: logo-COMMUNITY-WISP.png
   url: https://www.wisporg.com/
   level: Community Partners
-- name: Hacker Threat
+- name: Hacker Tracker
   logo: logo-COMMUNITY-HT.png
   url: https://hackertracker.app/
   level: Community Partners
