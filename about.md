@@ -25,7 +25,7 @@ classes: about-page
 
 # History
 
-Now in our 10th year, BSides Orlando has grown from modest beginnings and seeks to stay true to our roots.
+Now in our 13th year, BSides Orlando has grown from modest beginnings and seeks to stay true to our roots.
 
 <img src="{{ '/assets/images/bsidesorl-timeline.svg' | prepend: site.baseurl }}" alt="BSides Orlando Timeline" width="500">
 
@@ -51,7 +51,9 @@ Now in our 10th year, BSides Orlando has grown from modest beginnings and seeks 
 
 * 2021 – BSides Orlando does Byte Sized! a live CTF style, virtual event
 
-* 2022-25 - BSides Orlando is back live at Full Sail University
+* 2022-26 - BSides Orlando is back live at Full Sail University
+
+* 2025 - BSides Orlando breaks 1000 tickets sold
 
 # What is a Security BSides?
 

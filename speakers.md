@@ -1,11 +1,10 @@
 ---
 layout: splash
-title: Speakers - BSides Orlando 2025
+title: Speakers - BSides Orlando
 permalink: /speakers/
 ---
 
-# BSides Orlando 2025 Speakers
+# BSides Orlando 2026 Speakers
 
-These are our wonderful speakers, please give them all a hand!
+Currently call for papers isn't open yet, but keep your eyes peeled!
 
-<script type="text/javascript" src="https://sessionize.com/api/v2/orfms5ds/view/SpeakerWall"></script>
