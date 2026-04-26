@@ -16,6 +16,6 @@ classes: participate-page
   <section class="cta-card">
     <h2>Join Our Community</h2>
     <p>Stay up to date on announcements and coordination by joining our Discord.</p>
-    <p><a class="btn" href="https://discord.gg/rQQxBqr9FM" target="_blank" rel="noopener noreferrer">Join the Orlando BSides Discord</a></p>
+    <p><a class="btn" href="https://bsorl.org/discord" target="_blank" rel="noopener noreferrer">Join the Orlando BSides Discord</a></p>
   </section>
 </div>
