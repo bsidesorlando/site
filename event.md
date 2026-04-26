@@ -94,8 +94,4 @@ Workshops run the day before the main con. Past sessions have included malware f
 # Social & Networking
 
 ## After Party
-Keep the energy going after the talks wrap up.  
-**Saturday, Sept 27 | 7–10 PM | The Celeste Hotel, Celestial Ballroom**  
-- Cash bar (alcoholic & non-alcoholic options)  
-- Music, board games, and hallway-con vibes  
-- A relaxed place to connect, unwind, and celebrate the community  
+Keep the energy going after the talks wrap up. Keep an eye out for when this gets announced!
