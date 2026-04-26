@@ -1,11 +1,11 @@
 ---
 layout: splash
-title: Saturday Conference Schedule - BSides Orlando September 27, 2025
+title: Saturday Conference Schedule - BSides Orlando September 26, 2026
 permalink: /schedule/
 classes: schedule-page
 ---
 
-# BSides Orlando 2025 Conference Schedule
+# BSides Orlando 2026 Conference Schedule
 
 Schedule isn't available yet, though keep your eyes peeled!
 

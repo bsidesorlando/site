@@ -1,12 +1,12 @@
 ---
 layout: splash
-title: Venue - BSides Orlando 2025
+title: Venue - BSides Orlando 2026
 permalink: /venue/
 classes: venue-page
 ---
 
 
-## Bsides Orlando 2025 Location
+## Bsides Orlando 2026 Location
 
 <div class="info-card">
   <h3>Full Sail Live</h3>

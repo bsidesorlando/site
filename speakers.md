@@ -8,3 +8,4 @@ permalink: /speakers/
 
 Currently call for papers isn't open yet, but keep your eyes peeled!
 
+ 
