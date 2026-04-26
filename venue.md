@@ -1,12 +1,12 @@
 ---
 layout: splash
-title: Venue - BSides Orlando 2025
+title: Venue - BSides Orlando 2026
 permalink: /venue/
 classes: venue-page
 ---
 
 
-## Bsides Orlando 2025 Location
+## Bsides Orlando 2026 Location
 
 <div class="info-card">
   <h3>Full Sail Live</h3>
@@ -20,8 +20,7 @@ classes: venue-page
 
 <div class="hotel-grid">
   <div class="hotel-card">
-    <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1756325616692&key=GRP&app=resvlink" target="_blank" rel="noopener">The Celeste</a>
-    <p class="note">Room block — book soon!</p>
+    <a href="https://thecelestehotel.com/" target="_blank" rel="noopener">The Celeste</a>
   </div>
   <div class="hotel-card"><a href="https://www.wyndhamhotels.com/baymont/orlando-florida/baymont-orlando-east/overview" target="_blank" rel="noopener">Baymont</a></div>
   <div class="hotel-card"><a href="https://www.ihg.com/holidayinn/hotels/us/en/orlando/mcohs/hoteldetail" target="_blank" rel="noopener">Holiday Inn UCF</a></div>

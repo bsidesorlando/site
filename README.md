@@ -34,6 +34,7 @@ You can build and serve the site inside a Docker-based development container.
 
 Prerequisites:
 - VS Code + Dev Containers extension (or GitHub Codespaces)
+   * When installing Git as apart of setting up VS Code, ensure that you choose "Checkout as-is, commit Unix-style line endings"
 - Docker running locally
 
 How to use:

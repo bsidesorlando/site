@@ -6,6 +6,8 @@ permalink: /past_events/
 # Past Events
 We are grateful for your continued interest and support in our cybersecurity initiatives. We invite you to explore the highlights of our past years' events through the links below. Each conference has been a remarkable journey of learning, collaboration, and innovation, and we are excited to share these moments with you. Thank you for being a part of our community and helping us advance the field of cybersecurity.
 
+## Bsides Orlando 2025
+<a href="https://2025.bsidesorlando.org/">BSides Orlando 2025</a>
 
 ## Bsides Orlando 2024
 <a href="https://2024.bsidesorlando.org/">BSides Orlando 2024</a>

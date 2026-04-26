@@ -5,7 +5,12 @@ permalink: /preshow/
 classes: preshow-page
 ---
 
-# BSides 2025 PreShow Content
+# Current PreShows
+Unfortunately there's no pre-show content available yet, but keep your eyes peeled!
+
+# Historical PreShows
+
+## BSides 2025 PreShow Content
 
 <div class="event-card">
   <div class="event-content">
