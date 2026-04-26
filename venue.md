@@ -21,7 +21,6 @@ classes: venue-page
 <div class="hotel-grid">
   <div class="hotel-card">
     <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1756325616692&key=GRP&app=resvlink" target="_blank" rel="noopener">The Celeste</a>
-    <p class="note">Room block — book soon!</p>
   </div>
   <div class="hotel-card"><a href="https://www.wyndhamhotels.com/baymont/orlando-florida/baymont-orlando-east/overview" target="_blank" rel="noopener">Baymont</a></div>
   <div class="hotel-card"><a href="https://www.ihg.com/holidayinn/hotels/us/en/orlando/mcohs/hoteldetail" target="_blank" rel="noopener">Holiday Inn UCF</a></div>
