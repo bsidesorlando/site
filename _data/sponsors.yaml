@@ -9,6 +9,11 @@
 #   url: https://www.adventhealth.com/
 #   level: Diamond
 #   scale: .8
+- name: Research Innovations Incorporated
+  logo: logo-DIAMOND-RII.svg
+  url: https://www.researchinnovations.com/
+  level: Diamond
+  scale: 1.0
 - name: Full Sail University
   logo: logo-DIAMOND-FullSail.png
   url: https://www.fullsail.edu/
