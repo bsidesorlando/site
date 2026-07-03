@@ -26,6 +26,11 @@
   url: https://www.threatlocker.com/
   level: Platinum
   scale: 1
+- name: Lockheed Martin
+  logo: logo-PLAT-Lockheed.png
+  url: https://lockheedmartin.com/
+  level: Platinum
+  scale: 1.1
 # - name: GuidePoint Security
 #   logo: logo-PLAT-GuidePoint.png
 #   level: Platinum
@@ -35,11 +40,6 @@
 #   logo: logo-PLAT-ICR.png
 #   url: https://icr-team.com
 #   level: Platinum
-# - name: Lockheed Martin
-#   logo: logo-PLAT-Lockheed.png
-#   url: https://lockheedmartin.com/
-#   level: Platinum
-#   scale: 1.1
 # - name: White Knight Labs
 #   logo: logo-PLAT-WhiteKnightLabs.svg
 #   url: https://whiteknightlabs.com/
@@ -152,4 +152,8 @@
 - name: Hacker Tracker
   logo: logo-COMMUNITY-HT.png
   url: https://hackertracker.app/
+  level: Community Partners
+- name: InfoSecMap
+  logo: logo-COMMUNITY-InfoSecMap.png
+  url: https://infosecmap.com/
   level: Community Partners
