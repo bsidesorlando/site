@@ -48,7 +48,7 @@ Each player will get hands on experience moments into the workshop and build on 
 Requirements for this are:
 Understanding of general progamming concepts
 
-Scheduled 2 AM - 6 PM</p>
+Scheduled 2 PM - 6 PM</p>
   </div>
 </div>
 
@@ -66,7 +66,7 @@ Requirements for this are:
 Basic Python Familiarity
 Familiarity with core security concepts
 
-Scheduled 2 AM - 6 PM</p>
+Scheduled 2 PM - 6 PM</p>
   </div>
 </div>
 
@@ -102,7 +102,7 @@ Scheduled 9 AM - 1 PM </p>
 Requirements for this are:
 Kali or Parrot OS, on a VM or bare metal laptop.
 
-Scheduled 2 AM - 6 PM</p>
+Scheduled 2 PM - 6 PM</p>
   </div>
 </div>
 
@@ -137,12 +137,10 @@ HTTP request and think like an attacker, you'll thrive. This session is ideal fo
 analysts, application developers, security engineers, students, and anyone shipping (or defending)
 AI-powered features.
 
-Would like the price to be $20 per person but there wasn't an option for 20 but there was for 25.
-
 Requirements for this are:
 Laptop with current up to date browser.
 
-Scheduled 2 AM - 6 PM</p>
+Scheduled 2 PM - 6 PM</p>
   </div>
 </div>
 
@@ -183,5 +181,56 @@ Portswigger account
 Burp Suite installed
 
 Scheduled 9 AM - 1 PM</p>
+  </div>
+</div>
+
+---
+
+## Ready Steady Hack Training Course Workshop - Johnny Villarreal
+<div class="event-card">
+  <div class="event-content">
+    <p>If you are an intermediate hacker, working towards a career in cyber security, come be an unethical hacker for half a day. Get hands on lab experience with OSINT, exploitation, building attack paths, pivoting, and harvesting credentials to achieve root access.
+
+For leaders, the routine, operational demands of a busy cybersecurity and IT department can often get in the way of good security strategy and leave you with little time to prepare for the decisions that really matter. If this sounds like your day-to-day, join this short, hands-on course. It’s designed to take you temporarily out of the ring and put you into the mind of the adversaries targeting your organization so you can adopt a more calculated approach. Plus, you can get your hands dirty with our popular virtual labs and learn from experienced, practicing Penetration Testers with a legacy of training at Black Hat as you do it.
+
+Who it’s for
+• Security and IT decision makers (CISOs, Heads of, budget-holding managers, etc.)
+• CTOs and development Team Leads
+• Network Managers
+- Inspiring Hackers
+
+Delegates must have the following to make the most of this course:
+• Intermediate to advanced cybersecurity experience
+• A good understanding of basic networking technologies
+• Confidence using basic computer commands
+
+Top 3 takeaways
+• How to think like a real-world threat actor and plan your security tactics with the same offensive mindset
+• Where to identify the “low hanging fruit” that’s creating high-risk vectors across your attack surface
+• How single vulnerabilities can lead to a larger and more destructive attack chain
+
+What you’ll learn
+This course uses a Defense by Offense methodology based on real world offensive research (not theory). That means everything we teach has been tried and tested on live environments and in our labs. By the end of the course, you’ll understand how threat actors may:
+• Gather information on your organization to identify exposures and prepare your tactics
+• Exploit web application vulnerabilities to achieve Initial Access to your network
+• Build attack paths to pivot across your environments
+• Evade detection and maintain their foothold in your environments
+• Pivot from system to system to gain access to your critical assets
+• Harvest credentials and achieve root access By stepping back to trace the behaviors displayed in many cyber attacks and learn more about the tools used, you can arm yourself and approach your security with the same combative mentality.
+
+What you’ll be doing
+You’ll be learning hands on:
+• Spending over half the session (~55%) on lab-based exercises
+• Using lab-based flows to explore and hack lifelike systems and environments
+• Discussing the impact of the hacks and the security context around them with your course trainer
+Why it’s relevant
+We created this course in response to a growing challenge facing many of our own customers. Across the board, CISOs and other security decision makers are finding that in being so caught up with day-to- day operational tasks, they’re not performing the strategic work or providing the leadership needed to keep their organizations safe.
+The best way to address the barriers getting in your way is to step back and refocus, which is what this course is designed to help you do. For half a day, drill into the mind of the threat actors you’re up against so you can approach your defense with greater knowledge and deeper insight.
+Unlike our technical courses, Ready, Steady, Hack isn’t designed to blow your mind with complex, novel hacks that you’ll never be able to replicate or apply context to in your organization. Instead, you’ll be operating in a bespoke lab that uses commands to simulate many of the common behaviors of a real threat actor. We’ve identified some of the most popular techniques being used in the wild and modeled them so that you can see exactly why threat actors use them, how they’re deployed against the types of systems you use, and how they would impact your organization.
+
+Requirements for this are:
+Laptop
+
+Scheduled 2 PM - 6 PM</p>
   </div>
 </div>
