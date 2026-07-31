@@ -29,7 +29,9 @@ In this Ultimate Bootcamp session, you will:
 Led by Evan "Shortrange" Cook — RF trainer to hundreds and creator of the OpenDoorSim — this is a bootcamp you won't want to miss. All are welcome!
 
 Requirements for this are:
-Laptop</p>
+Laptop
+
+Scheduled 9 AM - 1 PM</p>
   </div>
 </div>
 
@@ -44,7 +46,9 @@ Laptop</p>
 Each player will get hands on experience moments into the workshop and build on concepts until they're able to write their first buffer overflow exploit using pwntools. Everything is provided in the browser: No need for VMs or installing tools. The workshop extends into a CTF after conclusion and runs until the end of the conference with top three players winning a binary jiujitsu placement medal. Electronic badge belts are also available to show off skill level.
 
 Requirements for this are:
-Understanding of general progamming concepts</p>
+Understanding of general progamming concepts
+
+Scheduled 2 AM - 6 PM</p>
   </div>
 </div>
 
@@ -60,7 +64,9 @@ In this intensive one-day session, participants will move from zero to a functio
 
 Requirements for this are:
 Basic Python Familiarity
-Familiarity with core security concepts</p>
+Familiarity with core security concepts
+
+Scheduled 2 AM - 6 PM</p>
   </div>
 </div>
 
@@ -79,7 +85,9 @@ Students will work directly with Raspberry Pi Pico W devices configured to emula
 By the end of the workshop, attendees will have a foundational understanding of BLE security concepts and practical experience analyzing and securing BLE-enabled devices.
 
 Requirements for this are:
-Laptop at least 8GB of RAM and 250 GB free storage. </p>
+Laptop at least 8GB of RAM and 250 GB free storage.
+
+Scheduled 9 AM - 1 PM </p>
   </div>
 </div>
 
@@ -92,7 +100,9 @@ Laptop at least 8GB of RAM and 250 GB free storage. </p>
     <p>In this intro to web application penetration testing workshop, participants will learn the basics of web application penetration testing including; methodology, tools, techniques, and resources. The skills taught in this workshop are valuable to aspiring bug hunters for use in bug bounties.
 
 Requirements for this are:
-Kali or Parrot OS, on a VM or bare metal laptop.</p>
+Kali or Parrot OS, on a VM or bare metal laptop.
+
+Scheduled 2 AM - 6 PM</p>
   </div>
 </div>
 
@@ -130,7 +140,9 @@ AI-powered features.
 Would like the price to be $20 per person but there wasn't an option for 20 but there was for 25.
 
 Requirements for this are:
-Laptop with current up to date browser.</p>
+Laptop with current up to date browser.
+
+Scheduled 2 AM - 6 PM</p>
   </div>
 </div>
 
@@ -146,7 +158,9 @@ Laptop with current up to date browser.</p>
 This hands-on workshop flips the script on traditional cybersecurity testing by diving deep into the attacker's playbook. Instead of theoretical discussions about threat landscapes, we'll explore the practical behaviors and methodologies used by modern threat actors through hands-on emulation techniques that will fundamentally change how you think about defense.
 
 Requirements for this are:
-Laptop</p>
+Laptop
+
+Scheduled 9 AM - 1 PM</p>
   </div>
 </div>
 
@@ -166,6 +180,8 @@ Requirements for this are:
 Laptop
 Previous hacking knowledge
 Portswigger account
-Burp Suite installed</p>
+Burp Suite installed
+
+Scheduled 9 AM - 1 PM</p>
   </div>
 </div>
