@@ -3,7 +3,9 @@ main:
   - title: "Attend"
     children:
       - title: "Register"
-        url: /register/
+        url: https://bsorl.org/tickets
+      - title: "Workshop tickets"
+        url: https://bsorl.org/workshops
       - title: "Schedule"
         url: /schedule/
       - title: "Workshops"
@@ -16,6 +18,8 @@ main:
       #  url: /map/
       - title: "Policies"
         url: /policies/
+      - title: "Ticket Info"
+        url: /register/
   - title: "Explore"
     children:
       - title: "Activities"
