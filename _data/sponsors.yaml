@@ -25,10 +25,20 @@
   logo: logo-PLAT-ThreatLocker.png
   url: https://www.threatlocker.com/
   level: Platinum
-  scale: 1
+  scale: 1.1
 - name: Lockheed Martin
   logo: logo-PLAT-Lockheed.png
   url: https://lockheedmartin.com/
+  level: Platinum
+  scale: 1.1
+- name: BigID
+  logo: logo-PLAT-BigID.png
+  url: https://bigid.com
+  level: Platinum
+  scale: .8
+- name: NBCUniversal
+  logo: logo-PLAT-NBCUniversal.jpg
+  url: http://nbcuniversal.com
   level: Platinum
   scale: 1.1
 # - name: GuidePoint Security
@@ -46,13 +56,15 @@
 #   level: Platinum
 
 # Gold
+- name: Claranet Cyber Security
+  logo: logo-GOLD-Claranet.png
+  url: https://www.claranet.com/us/
+  level: Gold
+  scale: .8
+#   level: Gold
 # - name: Dark Wolf Solutions
 #   logo: logo-GOLD-DarkWolf-official.png
 #   url: https://darkwolfsolutions.com/
-#   level: Gold
-# - name: NBCUniversal
-#   logo: logo-GOLD-NBCUniversal.jpg
-#   url: http://nbcuniversal.com
 #   level: Gold
 # - name: Oligo Security
 #   logo: logo-GOLD-Oligo.svg
@@ -70,7 +82,12 @@
   logo: logo-SILVER-SecurePoint.png
   url: https://www.secureps.net/
   level: Silver
-  scale: 1.5
+  scale: 1.2
+- name: Orlando Health
+  logo: logo-SILVER-Orlando Health.jpg
+  level: Silver
+  url: https://orlandohealth.com
+  scale: .8
 # - name: Black Hills Infosec
 #   logo: logo-SILVER-BHIS.png
 #   url: https://www.blackhillsinfosec.com/
@@ -156,4 +173,8 @@
 - name: InfoSecMap
   logo: logo-COMMUNITY-InfoSecMap.png
   url: https://infosecmap.com/
+  level: Community Partners
+- name: Fox Pick
+  logo: logo-COMMUNITY-FoxPick.png
+  url: https://www.fox-pick.com
   level: Community Partners
