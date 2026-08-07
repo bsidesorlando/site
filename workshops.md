@@ -2,6 +2,7 @@
 layout: splash
 title: Friday Workshop Schedule
 permalink: /workshops/
+classes: workshops-page
 ---
 
 # BSides Orlando Pre-Conference Workshops
@@ -148,8 +149,10 @@ Scheduled 2 PM - 6 PM</p>
 
 ## Stop Talking About Threats, Be The Threat - Trey Bilbrey & Tyler Casey
 <div class="event-card">
-  <img src="{{ '/assets/images/workshops/Trey_Bilbrey.png' | prepend: site.baseurl }}" alt="Trey Bilbrey">
-  <img src="{{ '/assets/images/workshops/Tyler_Casey.jpg' | prepend: site.baseurl }}" alt="Tyler Casey">
+  <div class="event-photos">
+    <img src="{{ '/assets/images/workshops/Trey_Bilbrey.png' | prepend: site.baseurl }}" alt="Trey Bilbrey">
+    <img src="{{ '/assets/images/workshops/Tyler_Casey.jpg' | prepend: site.baseurl }}" alt="Tyler Casey">
+  </div>
   <div class="event-content">
     <p>Your red team exercise failed, Again. Your threat intelligence reports gather dust while attackers waltz past your defenses using techniques you've read about but never truly understood. The problem isn't your tools or your budget, it's that you're fighting shadows instead of understanding your adversaries.<br><br>
 
