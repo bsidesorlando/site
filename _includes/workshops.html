@@ -1,0 +1,31 @@
+<div class="workshops">
+  {% for workshop in site.data.workshops %}
+    {% assign presenter_names = workshop.presenters | map: "name" | join: " &amp; " %}
+    <h2 id="{{ workshop.title | slugify }}">{{ workshop.title }} - {{ presenter_names }}</h2>
+    <div class="event-card">
+      {% if workshop.presenters.size > 1 %}
+        <div class="event-photos">
+          {% for presenter in workshop.presenters %}
+            {% if presenter.image %}
+              <img src="{{ '/assets/images/workshops/' | append: presenter.image | prepend: site.baseurl }}" alt="{{ presenter.name }}">
+            {% endif %}
+          {% endfor %}
+        </div>
+      {% else %}
+        {% assign presenter = workshop.presenters.first %}
+        {% if presenter.image %}
+          <img src="{{ '/assets/images/workshops/' | append: presenter.image | prepend: site.baseurl }}" alt="{{ presenter.name }}">
+        {% endif %}
+      {% endif %}
+      <div class="event-content">
+        <p>{{ workshop.description }}
+
+Requirements for this are:<br>
+{% for requirement in workshop.requirements %}{{ requirement }}<br>{% endfor %}<br>
+
+Scheduled {{ workshop.time }}</p>
+      </div>
+    </div>
+    {% unless forloop.last %}<hr />{% endunless %}
+  {% endfor %}
+</div>
