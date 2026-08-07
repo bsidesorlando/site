@@ -2,6 +2,7 @@
 layout: splash
 title: Friday Workshop Schedule
 permalink: /workshops/
+classes: workshops-page
 ---
 
 # BSides Orlando Pre-Conference Workshops
