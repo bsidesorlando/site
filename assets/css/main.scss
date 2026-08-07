@@ -524,6 +524,13 @@ search: false
     box-shadow: 0 3px 10px rgba(0,0,0,0.04);
   }
 
+  .event-photos {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    flex-shrink: 0;
+  }
+
   .event-content p { margin: 0 0 0.5rem; }
   .event-content p:last-child { margin-bottom: 0; }
 
@@ -533,6 +540,9 @@ search: false
       align-items: flex-start;
     }
     .event-card img {
+      width: 100%;
+    }
+    .event-photos {
       width: 100%;
     }
   }
