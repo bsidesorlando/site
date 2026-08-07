@@ -61,6 +61,10 @@
   url: https://www.claranet.com/us/
   level: Gold
   scale: .8
+- name: Fox Pick
+  logo: logo-COMMUNITY-FoxPick.png
+  url: https://www.fox-pick.com
+  level: Gold
 #   level: Gold
 # - name: Dark Wolf Solutions
 #   logo: logo-GOLD-DarkWolf-official.png
@@ -173,8 +177,4 @@
 - name: InfoSecMap
   logo: logo-COMMUNITY-InfoSecMap.png
   url: https://infosecmap.com/
-  level: Community Partners
-- name: Fox Pick
-  logo: logo-COMMUNITY-FoxPick.png
-  url: https://www.fox-pick.com
   level: Community Partners
