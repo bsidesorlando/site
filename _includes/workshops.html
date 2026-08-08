@@ -18,12 +18,10 @@
         {% endif %}
       {% endif %}
       <div class="event-content">
-        <p>{{ workshop.description }}
-
-Requirements for this are:<br>
-{% for requirement in workshop.requirements %}{{ requirement }}<br>{% endfor %}<br>
-
-Scheduled {{ workshop.time }}</p>
+        {{ workshop.description | markdownify }}
+        <p>Requirements for this are:<br>
+        {% for requirement in workshop.requirements %}{{ requirement }}<br>{% endfor %}</p>
+        <p>Scheduled {{ workshop.time }}</p>
       </div>
     </div>
     {% unless forloop.last %}<hr />{% endunless %}
