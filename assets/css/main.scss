@@ -533,6 +533,7 @@ search: false
 
   .event-content p { margin: 0 0 0.5rem; }
   .event-content p:last-child { margin-bottom: 0; }
+  .event-content ul { margin: 0 0 0.5rem; padding-left: 1.25rem; }
 
   @media (max-width: 760px) {
     .event-card {
