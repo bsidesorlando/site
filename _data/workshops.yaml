@@ -191,8 +191,5 @@
     - name: David Probinsky
   requirements:
     - Laptop
-    - Previous hacking knowledge
-    - Portswigger account
-    - Burp Suite installed
   description: |-
     Red teaming is more than popping shells. In this beginner-friendly workshop, students will plan a full-spectrum red-team operation using objectives, rules of engagement, personas, OPSEC, detection mapping, and reporting. No exploit development or prior red-team experience required.
