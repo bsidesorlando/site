@@ -189,6 +189,7 @@
   time: "9 AM - 1 PM"
   presenters:
     - name: David Probinsky
+      image: David_Probinsky.jpg
   requirements:
     - Laptop
   description: |-
