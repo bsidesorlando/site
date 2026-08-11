@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "Attend"
+  - title: "Event Information"
     children:
       - title: "Register"
         url: https://bsorl.org/tickets
@@ -16,8 +16,6 @@ main:
         url: /venue/
       #- title: "Map"
       #  url: /map/
-      - title: "Policies"
-        url: /policies/
       - title: "Ticket Info"
         url: /register/
   - title: "Explore"
@@ -39,7 +37,11 @@ main:
   - title: "Sponsors"
     url: /sponsors/
   - title: "About"
-    url: /about/
+    children:
+      - title: About Us
+        url: /about/
+      - title: "Policies"
+        url: /policies/
   - title: "Past Events"
     url: /past_events/
 #  - title: "Community Patrons"
