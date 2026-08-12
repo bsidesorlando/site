@@ -22,6 +22,7 @@
         <p>Requirements for this are:<br>
         {% for requirement in workshop.requirements %}{{ requirement }}<br>{% endfor %}</p>
         <p>Scheduled {{ workshop.time }}</p>
+        <p><a href="https://bsorl.org/workshops" class="btn btn--primary" target="_blank" rel="noopener">Buy a ticket</a></p>
       </div>
     </div>
     {% unless forloop.last %}<hr />{% endunless %}
