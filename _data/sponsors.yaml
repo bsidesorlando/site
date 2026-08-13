@@ -41,6 +41,11 @@
   url: http://nbcuniversal.com
   level: Platinum
   scale: 1.1
+- name: Ginger Cybersecurity
+  logo: logo-PLAT-GingerCybersecurity.svg
+  url: https://www.gingercybersecurity.com/
+  level: Platinum
+  scale: 1.0
 # - name: GuidePoint Security
 #   logo: logo-PLAT-GuidePoint.png
 #   level: Platinum
@@ -177,4 +182,8 @@
 - name: InfoSecMap
   logo: logo-COMMUNITY-InfoSecMap.png
   url: https://infosecmap.com/
+  level: Community Partners
+- name: Military Cyber Professionals Association
+  logo: logo-COMMUNITY-MCPA.png
+  url: https://public.milcyber.org/
   level: Community Partners
