@@ -46,11 +46,6 @@
   url: https://www.gingercybersecurity.com/
   level: Platinum
   scale: 1.0
-- name: Cognition.ai
-  logo: logo-PLAT-cognition.png
-  url: https://cognition.com/
-  level: Platinum
-  scale: 1.0
 # - name: GuidePoint Security
 #   logo: logo-PLAT-GuidePoint.png
 #   level: Platinum
@@ -133,6 +128,11 @@
   level: Bronze
   url: https://www.zenbusiness.com/
 ### DO NOT REMOVE ZenBusiness before Dec 31, 2026 ###  
+- name: Cognition.ai
+  logo: logo-BRONZE-cognition.png
+  url: https://cognition.com/
+  level: Bronze
+  scale: 1.0
 # - name: Breacher.ai
 #   logo: logo-BRONZE-BreacherAI.png
 #   url: https://breacher.ai/
