@@ -116,11 +116,11 @@
 
 # Bronze
 ### DO NOT REMOVE Luther before Aug 1, 2026 ###
-- name: Luther Lanard, PC
-  logo: logo-BRONZE-LutherLanard.png
-  url: https://franchiseelawyer.com/business-law/
-  level: Bronze
-  scale: 1.1
+# - name: Luther Lanard, PC
+#   logo: logo-BRONZE-LutherLanard.png
+#   url: https://franchiseelawyer.com/business-law/
+#   level: Bronze
+#   scale: 1.1
 ### DO NOT REMOVE Luther before Aug 1, 2026 ###
 ### DO NOT REMOVE ZenBusiness before Dec 31, 2026 ###
 - name: ZenBusiness
@@ -128,6 +128,11 @@
   level: Bronze
   url: https://www.zenbusiness.com/
 ### DO NOT REMOVE ZenBusiness before Dec 31, 2026 ###  
+- name: Cognition.ai
+  logo: logo-BRONZE-cognition.png
+  url: https://cognition.com/
+  level: Bronze
+  scale: 1.0
 # - name: Breacher.ai
 #   logo: logo-BRONZE-BreacherAI.png
 #   url: https://breacher.ai/
