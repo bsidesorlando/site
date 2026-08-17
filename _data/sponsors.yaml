@@ -61,6 +61,10 @@
 #   level: Platinum
 
 # Gold
+- name: Zafran
+  logo: logo-GOLD-Zafran.png
+  url: https://www.zafran.io/
+  level: Gold
 - name: Claranet Cyber Security
   logo: logo-GOLD-Claranet.png
   url: https://www.claranet.com/us/
@@ -191,4 +195,8 @@
 - name: Military Cyber Professionals Association
   logo: logo-COMMUNITY-MCPA.png
   url: https://public.milcyber.org/
+  level: Community Partners
+- name: ISC2CFL
+  logo: logo-COMMUNITY-ISC2.png
+  url: https://isc2cfl.org/
   level: Community Partners
