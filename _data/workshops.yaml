@@ -34,7 +34,7 @@
   time: "2 PM - 6 PM"
   presenters:
     - name: Joshua Connolly
-      image: Joshua_Connolly.jpg
+      image: Joshua_Connolly-cropped.jpg
   requirements:
     - Understanding of general progamming concepts
   description: |-
@@ -115,7 +115,7 @@
   time: "9 AM - 1 PM"
   presenters:
     - name: Dr. Sunny Wear
-      image: Dr._Sunny_Wear.png
+      image: Dr._Sunny_Wear-cropped.png
   requirements:
     - Laptop
     - Previous hacking knowledge
