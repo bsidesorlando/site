@@ -106,11 +106,11 @@
 #   url: https://www.blackhillsinfosec.com/
 #   level: Silver
 #   scale: 1.5
-# - name: G-Research
-#   logo: logo-SILVER-G-Research.png
-#   level: Silver
-#   url: https://www.gresearch.com
-#   scale: 2
+- name: G-Research
+  logo: logo-SILVER-G-Research.png
+  level: Silver
+  url: https://www.gresearch.com
+  scale: 2
 # - name: Impress Ink
 #   logo: logo-SILVER-Impress Ink.png
 #   level: Silver
