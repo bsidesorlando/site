@@ -42,7 +42,7 @@ main:
         url: /about/
       - title: "Policies"
         url: /policies/
-  - title: "Past Events"
-    url: /past_events/
+      - title: "Past Events"
+        url: /past_events/
 #  - title: "Community Patrons"
 #    url: /grins/
