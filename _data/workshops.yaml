@@ -132,6 +132,7 @@
   time: "2 PM - 6 PM"
   presenters:
     - name: Johnny Villarreal
+      image: Johnny_Villarreal.png
   requirements:
     - Laptop
   description: |-
