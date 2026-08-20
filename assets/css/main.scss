@@ -306,10 +306,10 @@ search: false
 
   // Tier-specific sizing
   .sponsors .tier.diamond .grid { grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); }
-  .sponsors .tier.platinum .grid { grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); }
+  .sponsors .tier.platinum .grid { grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); }
   .sponsors .tier.gold .grid { grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); }
   .sponsors .tier.silver .grid { grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); }
-  .sponsors .tier.bronze .grid,
+  .sponsors .tier.bronze .grid { grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); }
   .sponsors .tier.community-partners .grid { grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); }
 
   .sponsors .tier.diamond .sponsor-card a { height: 220px; }

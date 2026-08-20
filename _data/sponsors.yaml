@@ -8,7 +8,7 @@
   logo: logo-DIAMOND-AdventHealth.png
   url: https://www.adventhealth.com/
   level: Diamond
-  scale: .8
+  scale: 1.0
 - name: Research Innovations Incorporated
   logo: logo-DIAMOND-RII.svg
   url: https://www.researchinnovations.com/
@@ -46,6 +46,11 @@
   url: https://www.gingercybersecurity.com/
   level: Platinum
   scale: 1.0
+- name: Black Hills Information Security
+  logo: logo-PLAT-BHIS.png
+  url: https://www.blackhillsinfosec.com/
+  level: Platinum
+  scale: 1.5
 # - name: GuidePoint Security
 #   logo: logo-PLAT-GuidePoint.png
 #   level: Platinum
@@ -101,11 +106,6 @@
   level: Silver
   url: https://orlandohealth.com
   scale: .8
-# - name: Black Hills Infosec
-#   logo: logo-SILVER-BHIS.png
-#   url: https://www.blackhillsinfosec.com/
-#   level: Silver
-#   scale: 1.5
 - name: G-Research
   logo: logo-SILVER-G-Research.png
   level: Silver
