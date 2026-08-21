@@ -5,7 +5,7 @@ permalink: /schedule/
 classes: schedule-page
 ---
 
-# BSides Orlando 2026 Conference Schedule
+# BSides Orlando {{ site.year }} Conference Schedule
 
 Schedule isn't available yet, though keep your eyes peeled!
 
