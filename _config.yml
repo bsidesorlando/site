@@ -39,6 +39,7 @@ logo                     : "/assets/images/logo-b.png" # path of logo image to d
 masthead_title           : " "  # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
+year                     : 2026
 
 # Social Sharing
 twitter:
