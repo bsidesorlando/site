@@ -4,7 +4,7 @@ title: Register for BSides Orlando
 permalink: /register/
 ---
 
-# BSides Orlando 2026 Conference Registration
+# BSides Orlando {{ site.year }} Conference Registration
 
 Tickets are on sale! 
 
