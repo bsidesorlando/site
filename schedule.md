@@ -7,7 +7,7 @@ classes: schedule-page
 
 # BSides Orlando 2026 Conference Schedule
 
-Schedule isn't available yet, though keep your eyes peeled!
+<script type="text/javascript" src="https://sessionize.com/api/v2/4hehvrfb/view/GridSmart"></script>
 
 _Schedule subject to change, updates will be posted here and at the conference._
 {: .text-center}
