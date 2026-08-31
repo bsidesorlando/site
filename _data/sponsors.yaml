@@ -79,6 +79,10 @@
   logo: logo-COMMUNITY-FoxPick.png
   url: https://www.fox-pick.com
   level: Gold
+- name: AMD
+  logo: logo-GOLD-AMD.png
+  url: https://amd.com
+  level: Gold
 #   level: Gold
 # - name: Dark Wolf Solutions
 #   logo: logo-GOLD-DarkWolf-official.png
