@@ -6,7 +6,21 @@ classes: preshow-page
 ---
 
 # Current PreShows
-Unfortunately there's no pre-show content available yet, but keep your eyes peeled!
+<div class="event-card">
+  <div class="event-content">
+    <h2>Locking In: Discovering Your Cyber Security Career Path</h2>
+    <p><strong>Speaker:</strong> Patrick Trierweiler • <strong>Date:</strong> Sep 3, 2026 • <strong>Duration:</strong> 45 minutes</p>
+    <p>Link has not been created yet, but soon!</p>
+  </div>
+</div>
+
+<div class="event-card">
+  <div class="event-content">
+    <h2>The Current IT/Cyber Landscape</h2>
+    <p><strong>Speaker:</strong> Jere Amos • <strong>Date:</strong> Sep 10, 2025 • <strong>Duration:</strong> 45 minutes</p>
+    <p>Link has not been created yet, but soon!</p>
+  </div>
+</div>
 
 # Historical PreShows
 
