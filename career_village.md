@@ -35,17 +35,12 @@ classes: career-village-page
 <div class="event-card">
   <div class="event-content">
     <h2>Upcoming Sessions</h2>
-    <p><strong>September 4 – 6:00 PM ET</strong><br>
-    <em>Common Misconceptions on Starting in Cybersecurity &amp; How You Can Stand Out</em><br>
-    Speaker: Levi Cook</p>
-    <p><strong>September 11 – 6:00 PM ET</strong><br>
-    <em>Credential Not Found: Imposter Syndrome in Cyber</em><br>
-    Speaker: Carmen Estela</p>
-    <p><strong>How AI Is Creating New Careers in Cybersecurity</strong><br>
-    Speaker: Francesca Sala</p>
-    <p><strong>September 18 – 6:00 PM ET</strong><br>
-    <em>How I Weaseled My Way into Cyber: A Journey from Music to Maritime to Blue Team</em><br>
-    Speaker: Kyle Ford</p>
+    <p><strong>September 3 – 6:00 PM ET</strong><br>
+    <em>Locking in: discovering your cyber security career path</em><br>
+    Speaker: Patrick Trierweiler</p>
+    <p><strong>September 10 – 6:00 PM ET</strong><br>
+    <em>The Current IT/Cyber Landscape</em><br>
+    Speaker: Jere Amos</p>
   </div>
 </div>
 
