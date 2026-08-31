@@ -22,12 +22,12 @@ main:
     children:
       - title: "Activities"
         url: /event/
-      #- title: "Career Village"
-      #  url: /career_village/
+      - title: "Career Village"
+        url: /career_village/
       #- title: "Social Engineering Adventure"
       #  url: /se_village/
-      #- title: "PreShow"
-      #  url: /preshow/
+      - title: "PreShow"
+        url: /preshow/
       #- title: "After Party"
       #  url: /after_party/
   - title: "Get Involved"
