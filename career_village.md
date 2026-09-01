@@ -36,11 +36,11 @@ classes: career-village-page
   <div class="event-content">
     <h2>Upcoming Sessions</h2>
     <p><strong>September 10 – 7:00 PM ET</strong><br>
-    <em>Locking in: discovering your cyber security career path</em><br>
-    Speaker: Patrick Trierweiler</p>
-    <p><strong>September 17 – 7:00 PM ET</strong><br>
     <em>The Current IT/Cyber Landscape</em><br>
     Speaker: Jere Amos</p>
+    <p><strong>September 17 – 7:00 PM ET</strong><br>
+    <em>Locking in: discovering your cyber security career path</em><br>
+    Speaker: Patrick Trierweiler</p>
   </div>
 </div>
 
