@@ -94,4 +94,17 @@ Workshops run the day before the main con. Past sessions have included malware f
 # Social & Networking
 
 ## After Party
-Keep the energy going after the talks wrap up. Keep an eye out for when this gets announced!
+  Keep the energy going after the talks wrap up. Keep an eye out for when this gets announced!
+
+## Ham Radio
+Licensed ham radio operators rejoice! Just grab your radio and set it to 146.580 simplex and say hello!
+
+This frequency has been in use at Defcon since at least Defcon 15, and probably much earlier. Therefore we're stealing it for ours, so tune in, make some friends, and have fun!
+
+## Meshtastic Channels
+Join our local Meshtastic channel and have some fun! [BSOrl sha265 1q9z5oAubrfFsFONK9ve+0WsOIulvtTJgq4rRQayb5g=](https://meshtastic.org/e/?add=true#CjASINavc-aALm63xbBTjSvb3vtFrDiLpb7UyYKuK0UGsm-YGgVCU09ybCUBAAAAOgA)
+
+## Other Ways to Communicate 
+Looking for a year round community? [Join our Discord](https://bsorl.org/discord)
+
+Not seeing what you need to connect here? [See general conference alternatives](https://conham.org/)
