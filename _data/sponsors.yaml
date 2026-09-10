@@ -141,6 +141,11 @@
   url: https://cognition.com/
   level: Bronze
   scale: 1.0
+- name: Flare.io
+  logo: logo-BRONZE-FlareIO.svg
+  url: https://flare.io/
+  level: Bronze
+  scale: 1.0
 # - name: Breacher.ai
 #   logo: logo-BRONZE-BreacherAI.png
 #   url: https://breacher.ai/
