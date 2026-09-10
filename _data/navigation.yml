@@ -28,8 +28,8 @@ main:
       #  url: /se_village/
       - title: "PreShow"
         url: /preshow/
-      #- title: "After Party"
-      #  url: /after_party/
+      - title: "After Party"
+        url: /after_party/
   - title: "Get Involved"
     children:
       - title: "Join Us"
