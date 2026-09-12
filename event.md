@@ -102,7 +102,7 @@ Licensed ham radio operators rejoice! Just grab your radio and set it to 146.580
 This frequency has been in use at Defcon since at least Defcon 15, and probably much earlier. Therefore we're stealing it for ours, so tune in, make some friends, and have fun!
 
 ## Meshtastic Channels
-Join our local Meshtastic channel and have some fun! [BSOrl sha265 1q9z5oAubrfFsFONK9ve+0WsOIulvtTJgq4rRQayb5g=](https://meshtastic.org/e/?add=true#CjASINavc-aALm63xbBTjSvb3vtFrDiLpb7UyYKuK0UGsm-YGgVCU09ybCUBAAAAOgA)
+Join our local Meshtastic channel and have some fun! [BSOrl sha265 1q9z5oAubrfFsFONK9ve+0WsOIulvtTJgq4rRQayb5g=](https://meshtastic.org/e/#CjASINavc-aALm63xbBTjSvb3vtFrDiLpb7UyYKuK0UGsm-YGgVCU09ybCUBAAAAOgASEwgBGPoBIAsoBTgBQANIAVAeaAE)
 
 ## Other Ways to Communicate 
 Looking for a year round community? [Join our Discord](https://bsorl.org/discord)
