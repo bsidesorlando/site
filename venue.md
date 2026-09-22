@@ -19,9 +19,8 @@ classes: venue-page
 ## Local Hotels
 
 <div class="hotel-grid">
-  <div class="hotel-card">
-    <a href="https://thecelestehotel.com/" target="_blank" rel="noopener">The Celeste</a>
-  </div>
+  <div class="hotel-card"><a href="https://www.hilton.com/en/hotels/mcoates-embassy-suites-orlando-airport/" target="_blank" rel="noopener">Embassy Suites (Where the after party's at)</a></div>
+  <div class="hotel-card"><a href="https://thecelestehotel.com/" target="_blank" rel="noopener">The Celeste</a></div> 
   <div class="hotel-card"><a href="https://www.wyndhamhotels.com/baymont/orlando-florida/baymont-orlando-east/overview" target="_blank" rel="noopener">Baymont</a></div>
   <div class="hotel-card"><a href="https://www.ihg.com/holidayinn/hotels/us/en/orlando/mcohs/hoteldetail" target="_blank" rel="noopener">Holiday Inn UCF</a></div>
   <div class="hotel-card"><a href="https://www.wyndhamhotels.com/laquinta/orlando-florida/la-quinta-orlando-ucf/overview" target="_blank" rel="noopener">La Quinta</a></div>

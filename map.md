@@ -12,10 +12,10 @@ Welcome Astral Travelers to the Stars! I've asked my minions to make a map of th
 *- Ypmohc, Astral Traveler, Tester of Pens*
 
 <div class="map-embed">
-  <img src="/assets/images/map2025.png" alt="Conference map" />
+  <img src="/assets/images/map2026.png" alt="Conference map" />
   <div class="map-actions">
-    <a class="btn btn--primary" href="/assets/images/map2025.png" target="_blank" rel="noopener">Open Full Screen in New Tab</a>
-    <a class="btn" href="/assets/files/Map2025.pdf" download>Download PDF</a>
+    <a class="btn btn--primary" href="/assets/images/map2026.png" target="_blank" rel="noopener">Open Full Screen in New Tab</a>
+    <a class="btn" href="/assets/files/map2026.pdf" download>Download PDF</a>
   </div>
   
 </div>
