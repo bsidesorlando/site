@@ -14,8 +14,8 @@ main:
         url: /speakers/
       - title: "Venue Info"
         url: /venue/
-      #- title: "Map"
-      #  url: /map/
+      - title: "Map"
+        url: /map/
       - title: "Ticket Info"
         url: /register/
   - title: "Explore"
