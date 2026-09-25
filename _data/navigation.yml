@@ -46,3 +46,5 @@ main:
         url: /past_events/
 #  - title: "Community Patrons"
 #    url: /grins/
+ - title: "FAQ"
+   url:/faq/
