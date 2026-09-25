@@ -26,8 +26,6 @@ main:
         url: /career_village/
       #- title: "Social Engineering Adventure"
       #  url: /se_village/
-      - title: "Build Your Badge"
-        url: /badge/
       - title: "PreShow"
         url: /preshow/
       - title: "After Party"
